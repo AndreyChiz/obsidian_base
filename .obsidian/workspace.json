@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1cdeea0de15e5acc",
+        "id": "903ef1f45d35acac",
         "type": "tabs",
         "children": [
           {
-            "id": "b3e945cbc230ef3a",
+            "id": "2605a0457448a671",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "aio/asyncaio/Общее.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aio/asyncaio/Общее.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aio/asyncaio/Общее.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "aio/asyncaio/Общее.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,13 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "b3e945cbc230ef3a",
+  "active": "2605a0457448a671",
   "lastOpenFiles": [
+    "test/ntuuu.md",
+    "aio/asyncaio/Общее.md",
+    "test",
     "obsidian_base",
     "aio/asyncaio/gather().md",
-    "aio/asyncaio/Общее.md",
     "web/Протокол HTTP.md",
     "aio/asyncaio.md",
     "aio/asyncaio",
