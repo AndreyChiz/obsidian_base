@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "f7a08c6ea645ee55",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cdeea0de15e5acc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3e945cbc230ef3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aio/asyncaio/Общее.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4102036f9ec13f8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc740af0c139cae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38095d20efd7dd25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36dc4d4332848f6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be287ee02f23b85d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e8271c4b60fe7c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "69c96ca15b3c81d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3800f91eba7f94ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "aio/asyncaio/Общее.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e32bce481d81658",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "aio/asyncaio/Общее.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5934a42909e4a55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "89b427b122a64a03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "aio/asyncaio/Общее.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false
+    }
+  },
+  "active": "b3e945cbc230ef3a",
+  "lastOpenFiles": [
+    "obsidian_base",
+    "aio/asyncaio/gather().md",
+    "aio/asyncaio/Общее.md",
+    "web/Протокол HTTP.md",
+    "aio/asyncaio.md",
+    "aio/asyncaio",
+    "aio",
+    "web/io/iohttp/Без названия.md",
+    "web",
+    "requests/Eweryday requests.md",
+    "web/io/iohttp",
+    "web/io",
+    "requests/Первый файл.md",
+    "requests/привет.md",
+    "requests",
+    "c.md",
+    "Pasted image 20230824121316.png",
+    "Без sasd.md",
+    "Init.md"
+  ]
+}
