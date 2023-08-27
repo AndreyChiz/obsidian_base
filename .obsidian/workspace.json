@@ -11,8 +11,11 @@
             "id": "2605a0457448a671",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "web/Протокол HTTP.md",
+                "staged": false
+              }
             }
           }
         ]
@@ -120,12 +123,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "0669cdb1bd968095",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,12 +152,16 @@
   },
   "active": "2605a0457448a671",
   "lastOpenFiles": [
+    "web/http/куки.md",
+    "web/http/Протокол HTTP.md",
+    "web/http",
+    "core/namedtuple.md",
+    "core",
     "test/ntuuu.md",
     "aio/asyncaio/Общее.md",
     "test",
     "obsidian_base",
     "aio/asyncaio/gather().md",
-    "web/Протокол HTTP.md",
     "aio/asyncaio.md",
     "aio/asyncaio",
     "aio",
