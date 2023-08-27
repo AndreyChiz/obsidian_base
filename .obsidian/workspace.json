@@ -11,10 +11,11 @@
             "id": "2605a0457448a671",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "web/Протокол HTTP.md",
-                "staged": false
+                "file": "web/http/Протокол HTTP.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "web/http/Протокол HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "web/http/Протокол HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "web/http/Протокол HTTP.md"
+              }
             }
           },
           {
@@ -137,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,10 +157,11 @@
   },
   "active": "2605a0457448a671",
   "lastOpenFiles": [
-    "web/http/куки.md",
+    "web/io/iohttp/Без названия.md",
     "web/http/Протокол HTTP.md",
-    "web/http",
+    "web/http/куки.md",
     "core/namedtuple.md",
+    "web/http",
     "core",
     "test/ntuuu.md",
     "aio/asyncaio/Общее.md",
@@ -165,7 +171,6 @@
     "aio/asyncaio.md",
     "aio/asyncaio",
     "aio",
-    "web/io/iohttp/Без названия.md",
     "web",
     "requests/Eweryday requests.md",
     "web/io/iohttp",
