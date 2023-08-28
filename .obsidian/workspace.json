@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/python_roadmap_processing_/типы данных/String.md",
+                "file": "Граффик.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/python_roadmap_processing_/типы данных/String.md",
+                "file": "Граффик.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/python_roadmap_processing_/типы данных/String.md",
+                "file": "Граффик.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/python_roadmap_processing_/типы данных/String.md"
+                "file": "Граффик.md"
               }
             }
           },
@@ -183,9 +183,9 @@
   "active": "39b985a5e16cfa6f",
   "lastOpenFiles": [
     "python/python_roadmap_processing_/График.md",
+    "python/python_roadmap_processing_/типы данных/String.md",
     "Граффик.md",
     "main md.md",
-    "python/python_roadmap_processing_/типы данных/String.md",
     "python/python_roadmap_processing_/core/Память/Представление объекта в памяти.md",
     "python/python_roadmap_processing_/core/Память/PyObject.md",
     "python/python_roadmap_processing_/core/Память/Без названия",
