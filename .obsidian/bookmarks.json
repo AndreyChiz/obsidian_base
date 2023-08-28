@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1693150171809,
+      "path": "python/core/Логирование.md",
+      "subpath": "#^b3b9fc",
+      "title": "важно"
+    },
+    {
+      "type": "file",
+      "ctime": 1693199649418,
+      "path": "python/python_roadmap_processing_/core/Память/PyObject.md",
+      "subpath": "#^4ee1dc",
+      "title": "базовая структура"
+    },
+    {
+      "type": "file",
+      "ctime": 1693199780015,
+      "path": "python/python_roadmap_processing_/core/Память/Представление объекта в памяти.md",
+      "subpath": "#^f14015",
+      "title": "123"
+    },
+    {
+      "type": "file",
+      "ctime": 1693199817835,
+      "path": "python/python_roadmap_processing_/core/Память/PyObject.md",
+      "title": ""
+    }
+  ]
+}

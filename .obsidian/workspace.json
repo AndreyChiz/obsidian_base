@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/http/Протокол HTTP.md",
+                "file": "Шпаргалка md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39b985a5e16cfa6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Граффик.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66bdf09cfdadd71a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/python_roadmap_processing_/core/Память/PyObject.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,14 +110,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/http/Протокол HTTP.md",
+                "file": "Граффик.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,9 +127,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web/http/Протокол HTTP.md",
+                "file": "Граффик.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/http/Протокол HTTP.md"
+                "file": "Граффик.md"
               }
             }
           },
@@ -155,29 +180,39 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "2605a0457448a671",
+  "active": "39b985a5e16cfa6f",
   "lastOpenFiles": [
+    "Шпаргалка md.md",
+    "Граффик.md",
+    "python/python_roadmap_processing_/типы данных/String.md",
+    "python/python_roadmap_processing_/core/Память/Представление объекта в памяти.md",
+    "python/python_roadmap_processing_/core/Память/PyObject.md",
+    "python/python_roadmap_processing_/core/Память/Без названия",
+    "python/python_roadmap_processing_/core/Память.md",
+    "python/python_roadmap_processing_/core/Память",
+    "python/python_roadmap_processing_/core",
+    "python/python_roadmap_processing_/типы данных/Без названия",
+    "python/python_roadmap_processing_/ПАМЯТЬ.md",
+    "python/python_roadmap_processing_/График.md",
+    "python/python_roadmap_processing_/типы данных",
+    "python/python_roadmap_processing_/карта.png",
+    "python/core/Логирование.md",
+    "python",
+    "python/python_roadmap_processing_",
+    "python/core/namedtuple.md",
+    "python/web/http/Протокол HTTP.md",
     "web/io/iohttp/Без названия.md",
-    "web/http/Протокол HTTP.md",
-    "web/http/куки.md",
-    "core/namedtuple.md",
-    "web/http",
-    "core",
+    "python/web/http/куки.md",
+    "python/web/http",
+    "python/core",
     "test/ntuuu.md",
-    "aio/asyncaio/Общее.md",
+    "python/aio/asyncaio/Общее.md",
     "test",
-    "obsidian_base",
-    "aio/asyncaio/gather().md",
+    "python/aio/asyncaio/gather().md",
     "aio/asyncaio.md",
-    "aio/asyncaio",
-    "aio",
-    "web",
     "requests/Eweryday requests.md",
-    "web/io/iohttp",
-    "web/io",
     "requests/Первый файл.md",
     "requests/привет.md",
-    "requests",
     "c.md",
     "Pasted image 20230824121316.png",
     "Без sasd.md",
