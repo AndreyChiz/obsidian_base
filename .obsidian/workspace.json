@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,9 +182,14 @@
   },
   "active": "39b985a5e16cfa6f",
   "lastOpenFiles": [
+    "python/python_roadmap_processing_/ООП/Абстрактные методы, классы..md",
+    "python/python_roadmap_processing_/ООП/Инкапсуляция _, __.md",
+    "python/python_roadmap_processing_/core/Нейминг.md",
+    "python/python_roadmap_processing_/ООП",
+    "python/python_roadmap_processing_/core/Без названия",
+    "Граффик.md",
     "python/python_roadmap_processing_/График.md",
     "python/python_roadmap_processing_/типы данных/String.md",
-    "Граффик.md",
     "main md.md",
     "python/python_roadmap_processing_/core/Память/Представление объекта в памяти.md",
     "python/python_roadmap_processing_/core/Память/PyObject.md",
@@ -204,10 +209,8 @@
     "web/io/iohttp/Без названия.md",
     "python/web/http/куки.md",
     "python/web/http",
-    "python/core",
     "test/ntuuu.md",
     "python/aio/asyncaio/Общее.md",
-    "test",
     "python/aio/asyncaio/gather().md",
     "aio/asyncaio.md",
     "requests/Eweryday requests.md",
