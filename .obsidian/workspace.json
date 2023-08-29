@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Граффик.md",
+                "file": "python/core/namedtuple.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Граффик.md",
+                "file": "python/core/namedtuple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Граффик.md",
+                "file": "python/core/namedtuple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Граффик.md"
+                "file": "python/core/namedtuple.md"
               }
             }
           },
@@ -182,15 +182,17 @@
   },
   "active": "39b985a5e16cfa6f",
   "lastOpenFiles": [
+    "python/core/Логирование.md",
+    "python/python_roadmap_processing_/карта.png",
+    "main md.md",
+    "Граффик.md",
     "python/python_roadmap_processing_/ООП/Абстрактные методы, классы..md",
     "python/python_roadmap_processing_/ООП/Инкапсуляция _, __.md",
     "python/python_roadmap_processing_/core/Нейминг.md",
     "python/python_roadmap_processing_/ООП",
     "python/python_roadmap_processing_/core/Без названия",
-    "Граффик.md",
     "python/python_roadmap_processing_/График.md",
     "python/python_roadmap_processing_/типы данных/String.md",
-    "main md.md",
     "python/python_roadmap_processing_/core/Память/Представление объекта в памяти.md",
     "python/python_roadmap_processing_/core/Память/PyObject.md",
     "python/python_roadmap_processing_/core/Память/Без названия",
@@ -200,8 +202,6 @@
     "python/python_roadmap_processing_/типы данных/Без названия",
     "python/python_roadmap_processing_/ПАМЯТЬ.md",
     "python/python_roadmap_processing_/типы данных",
-    "python/python_roadmap_processing_/карта.png",
-    "python/core/Логирование.md",
     "python",
     "python/python_roadmap_processing_",
     "python/core/namedtuple.md",
@@ -218,7 +218,6 @@
     "requests/привет.md",
     "c.md",
     "Pasted image 20230824121316.png",
-    "Без sasd.md",
-    "Init.md"
+    "Без sasd.md"
   ]
 }
