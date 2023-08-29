@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/core/namedtuple.md",
+                "file": "Граффик.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/core/namedtuple.md",
+                "file": "Граффик.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/core/namedtuple.md",
+                "file": "Граффик.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/core/namedtuple.md"
+                "file": "Граффик.md"
               }
             }
           },
@@ -171,17 +171,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false
     }
   },
   "active": "39b985a5e16cfa6f",
   "lastOpenFiles": [
+    "python/core/namedtuple.md",
     "python/core/Логирование.md",
     "python/python_roadmap_processing_/карта.png",
     "main md.md",
@@ -204,7 +205,6 @@
     "python/python_roadmap_processing_/типы данных",
     "python",
     "python/python_roadmap_processing_",
-    "python/core/namedtuple.md",
     "python/web/http/Протокол HTTP.md",
     "web/io/iohttp/Без названия.md",
     "python/web/http/куки.md",
