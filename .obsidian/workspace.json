@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/python_roadmap_processing_/ООП/Патерн одиночка.md",
+                "file": "work/Белка Диджитал/Установка Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/python_roadmap_processing_/ООП/Патерн одиночка.md",
+                "file": "work/Белка Диджитал/Установка Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/python_roadmap_processing_/ООП/Патерн одиночка.md",
+                "file": "work/Белка Диджитал/Установка Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/python_roadmap_processing_/ООП/Патерн одиночка.md"
+                "file": "work/Белка Диджитал/Установка Docker.md"
               }
             }
           },
@@ -182,9 +182,16 @@
   },
   "active": "39b985a5e16cfa6f",
   "lastOpenFiles": [
+    "work/Белка Диджитал",
+    "python/web/http/куки.md",
+    "work/Белка Диджитал/Установка Docker.md",
+    "work",
+    "python/web/http/Протокол HTTP.md",
+    "python/libs/Loguru.md",
     "python/python_roadmap_processing_/ООП/Шаблоны проектирования.md",
-    "python/python_roadmap_processing_/ООП/Патерн одиночка.md",
+    "python/libs",
     "python/python_roadmap_processing_/ООП/Фабричный метод.md",
+    "python/python_roadmap_processing_/ООП/Патерн одиночка.md",
     "Граффик.md",
     "python/core/namedtuple.md",
     "python/core/Логирование.md",
@@ -207,18 +214,11 @@
     "python/python_roadmap_processing_/ПАМЯТЬ.md",
     "python/python_roadmap_processing_/типы данных",
     "python",
-    "python/python_roadmap_processing_",
-    "python/web/http/Протокол HTTP.md",
     "web/io/iohttp/Без названия.md",
-    "python/web/http/куки.md",
-    "python/web/http",
     "test/ntuuu.md",
     "python/aio/asyncaio/Общее.md",
     "python/aio/asyncaio/gather().md",
     "aio/asyncaio.md",
-    "requests/Eweryday requests.md",
-    "requests/Первый файл.md",
-    "requests/привет.md",
     "Pasted image 20230824121316.png"
   ]
 }
