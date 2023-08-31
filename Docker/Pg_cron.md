@@ -47,6 +47,6 @@ cron.database_name = 'postgres'
 `SELECT * FROM cron.job;` : список задач
 
 
-
+![[Pasted image 20230831105432.png]]
 
 
