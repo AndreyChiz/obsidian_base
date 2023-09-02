@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "d0918d0363be1e42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "66bdf09cfdadd71a",
             "type": "leaf",
             "state": {
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Граффик.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Граффик.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Граффик.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -190,8 +202,32 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a080a58cd75258e7",
+  "active": "d0918d0363be1e42",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Без названия.md",
+    "work/Белка Диджитал/скрипт.md",
+    "work/Белка Диджитал",
+    "work",
+    "python/python_roadmap_processing_/ООП/Шаблоны проектирования.md",
+    "python/python_roadmap_processing_/ООП/Фабричный метод.md",
+    "python/python_roadmap_processing_/ООП/Патерн одиночка.md",
+    "python/libs/Loguru.md",
+    "python/libs",
+    "linux/приостановка перезапуск.md",
+    "linux/text.md",
+    "linux/port.md",
+    "linux",
+    "Pasted image 20230831105432.png",
+    "Pasted image 20230830210505.png",
+    "Docker/Запуск скриптов Python в контейнере.md",
+    "Docker/Pg_cron.md",
+    "Docker/Pasted image 20230830210357.png",
+    "Docker/Docker.md",
+    "Docker/Docker Postgres.md",
+    "Docker/Docker PGadmin.md",
+    "Docker/Docker Compose.md",
+    "Docker",
     "python/python_roadmap_processing_/ООП/Абстрактные методы, классы..md",
     "python/python_roadmap_processing_/ООП/Инкапсуляция _, __.md",
     "python/python_roadmap_processing_/core/Нейминг.md",
@@ -207,28 +243,7 @@
     "python/python_roadmap_processing_/core/Память.md",
     "python/python_roadmap_processing_/core/Память",
     "python/python_roadmap_processing_/core",
-    "python/python_roadmap_processing_/типы данных/Без названия",
-    "python/python_roadmap_processing_/ПАМЯТЬ.md",
-    "python/python_roadmap_processing_/типы данных",
     "python/python_roadmap_processing_/карта.png",
-    "python/core/Логирование.md",
-    "python",
-    "python/python_roadmap_processing_",
-    "python/core/namedtuple.md",
-    "python/web/http/Протокол HTTP.md",
-    "web/io/iohttp/Без названия.md",
-    "python/web/http/куки.md",
-    "python/web/http",
-    "test/ntuuu.md",
-    "python/aio/asyncaio/Общее.md",
-    "python/aio/asyncaio/gather().md",
-    "aio/asyncaio.md",
-    "requests/Eweryday requests.md",
-    "requests/Первый файл.md",
-    "requests/привет.md",
-    "c.md",
-    "Pasted image 20230824121316.png",
-    "Без sasd.md",
-    "Init.md"
+    "Pasted image 20230824121316.png"
   ]
 }
