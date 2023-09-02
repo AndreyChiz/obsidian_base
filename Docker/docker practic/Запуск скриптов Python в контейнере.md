@@ -222,3 +222,59 @@ execute_postgresql_task()
 ```
 
 Здесь `DB_HOST` указывает на имя контейнера PostgreSQL (то же имя, что и в `depends_on` в `docker-compose.yml`). Вы можете настроить параметры подключения в соответствии с вашей конфигурацией PostgreSQL.
+
+----
+Да, вы можете дописать контейнер Python в существующий файл `docker-compose.yml`, который уже содержит контейнер PostgreSQL. Просто добавьте соответствующую конфигурацию для контейнера Python под контейнером PostgreSQL в том же файле `docker-compose.yml`. Например:
+
+```yaml
+version: '3'
+services:
+  postgres:
+    image: postgres
+    environment:
+      POSTGRES_USER: your_user
+      POSTGRES_PASSWORD: your_password
+      POSTGRES_DB: your_database
+
+  python_app:
+    build:
+      context: ./your_python_app_directory
+    volumes:
+      - ./your_python_app_directory:/app
+    depends_on:
+      - postgres
+```
+
+В этом примере, `python_app` - это контейнер Python, который добавлен в файл `docker-compose.yml`. Этот контейнер будет находиться в той же сети Docker, что и контейнер PostgreSQL, благодаря параметру `depends_on`.
+
+После того как вы добавили этот блок в файл `docker-compose.yml`, вы можете использовать команду `docker-compose up` для запуска обоих контейнеров. Контейнер Python будет автоматически настроен для взаимодействия с контейнером PostgreSQL.
+
+---
+
+Если вы уже имеете файл `docker-compose.yml`, в котором определены оба контейнера (PostgreSQL и Python), и вы хотите перезапустить оба контейнера после внесения изменений в файл `docker-compose.yml`, вы можете воспользоваться командой `docker-compose restart`.
+
+Команда `docker-compose restart` перезапустит все контейнеры, определенные в вашем файле `docker-compose.yml`, которые уже были запущены. Это позволит вам применить изменения в настройках контейнеров без необходимости полного останова и пересоздания контейнеров.
+
+Пример использования:
+
+```bash
+docker-compose restart
+```
+
+Эта команда перезапустит все контейнеры, определенные в вашем файле `docker-compose.yml`.
+
+-----------
+
+если контейнер с postgres был запущен а контейнер с python нет
+
+----
+
+Если контейнер PostgreSQL уже был запущен, а контейнер Python еще не был запущен, вы можете запустить только контейнер Python, используя команду `docker-compose up <service_name>` с указанием имени сервиса, который вы хотите запустить. В вашем случае имя сервиса для контейнера Python - `python_app` (как указано в файле `docker-compose.yml`).
+
+Пример:
+
+```bash
+docker-compose up python_app
+```
+
+Эта команда запустит только контейнер Python, а контейнер PostgreSQL останется работающим, если он был запущен ранее.

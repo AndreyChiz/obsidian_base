@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker.md",
+                "file": "Docker/docker practic/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker Postgres.md",
+                "file": "Docker/docker practic/Docker Postgres.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker.md",
+                "file": "Docker/docker practic/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker Postgres.md",
+                "file": "Docker/docker practic/Docker Postgres.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker Postgres.md",
+                "file": "Docker/docker practic/Docker Postgres.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Запуск скриптов Python в контейнере.md",
+                "file": "Rest API/Rest API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bedf4dcea996fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Everyday Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Запуск скриптов Python в контейнере.md",
+                "file": "Docker/Everyday Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Запуск скриптов Python в контейнере.md",
+                "file": "Docker/Everyday Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Запуск скриптов Python в контейнере.md"
+                "file": "Docker/Everyday Docker.md"
               }
             }
           },
@@ -252,21 +264,28 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "d95f4eaca875d3dd",
+  "active": "4bedf4dcea996fda",
   "lastOpenFiles": [
-    "Docker/Запуск скриптов Python в контейнере.md",
-    "Docker/Docker PGadmin.md",
-    "Docker/Docker Compose.md",
-    "Docker/Docker.md",
+    "Docker/docker practic/Запуск скриптов Python в контейнере.md",
+    "Docker/Everyday Docker.md",
+    "Docker/docker learn",
+    "Docker/docker practic",
+    "Posgres/View.md",
+    "Rest API/Rest API.md",
+    "Rest API",
+    "Posgres",
+    "Docker/docker practic/Docker PGadmin.md",
+    "Docker/docker practic/Docker Compose.md",
+    "Docker/docker practic/Docker.md",
     "Docker/Pg_cron.md",
     "linux/приостановка перезапуск.md",
     "Pasted image 20230831105432.png",
     "Без названия.md",
     "linux/text.md",
     "linux/port.md",
-    "Docker/Docker Postgres.md",
+    "Docker/docker practic/Docker Postgres.md",
     "Pasted image 20230830210505.png",
-    "Docker/Pasted image 20230830210357.png",
+    "Docker/docker practic/Pasted image 20230830210357.png",
     "work/Белка Диджитал/скрипт.md",
     "Docker",
     "linux",
@@ -286,14 +305,7 @@
     "main md.md",
     "python/python_roadmap_processing_/ООП/Абстрактные методы, классы..md",
     "python/python_roadmap_processing_/ООП/Инкапсуляция _, __.md",
-    "python/python_roadmap_processing_/core/Нейминг.md",
     "python/python_roadmap_processing_/ООП",
-    "python/python_roadmap_processing_/core/Без названия",
-    "python/python_roadmap_processing_/График.md",
-    "python/python_roadmap_processing_/типы данных/String.md",
-    "python/python_roadmap_processing_/core/Память/Без названия",
-    "python/python_roadmap_processing_/core/Память",
-    "python/python_roadmap_processing_/core",
     "Pasted image 20230824121316.png"
   ]
 }
