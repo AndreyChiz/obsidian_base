@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/EveryDayDocker.md",
+                "file": "Docker/Everyday Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Docker/Everyday Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Docker/Everyday Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Docker/Everyday Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Docker/Everyday Docker.md"
               }
             }
           },
@@ -214,8 +214,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "aa7e2442ed9b5aed",
+  "active": "d0918d0363be1e42",
   "lastOpenFiles": [
+    "Docker/Everyday Docker.md",
     "Docker/EveryDayDocker.md",
     "conflict-files-obsidian-git.md",
     "Rest API/Rest API.md",
@@ -229,7 +230,6 @@
     "Docker/docker practic/Docker PGadmin.md",
     "Docker/docker practic/Docker Compose.md",
     "Docker/docker practic",
-    "Docker/Everyday Docker.md",
     "Docker/Docker Learn/Untitled.md",
     "Docker/Docker Practic/Pasted image 20230830210357.png",
     "Docker/Docker Practic/Pg_cron.md",
