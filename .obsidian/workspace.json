@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker Learn/Без названия.md",
+                "file": "Docker/Docker Learn/EverydayDocker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker Learn/Без названия.md",
+                "file": "Docker/Docker Learn/EverydayDocker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker Learn/Без названия.md",
+                "file": "Docker/Docker Learn/EverydayDocker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Docker Learn/Без названия.md"
+                "file": "Docker/Docker Learn/EverydayDocker.md"
               }
             }
           },
@@ -155,13 +155,18 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "38095d20efd7dd25",
+  "active": "f4c80090ea94a67a",
   "lastOpenFiles": [
+    "linux/Переменные.md",
+    "linux/text.md",
+    "linux/port.md",
+    "linux/приостановка перезапуск.md",
+    "Docker/Docker Learn/EverydayDocker.md",
     "Docker/Docker Learn/Untitled.md",
+    "Docker/Everyday Docker.md",
     "main md.md",
     "Docker/docker practic/Docker Postgres.md",
     "Docker/docker practic/Docker.md",
-    "Docker/Docker Learn/Без названия.md",
     "Docker/docker practic/Docker PGadmin.md",
     "Docker/docker practic/Docker Compose.md",
     "Docker/docker practic/Запуск скриптов Python в контейнере.md",
@@ -175,7 +180,6 @@
     "Docker/Docker Practic/Pg_cron.md",
     "Docker/Docker Practic",
     "Docker/Docker Learn",
-    "Docker/Everyday Docker.md",
     "Docker/docker learn",
     "Docker/docker practic",
     "Posgres/View.md",
@@ -183,11 +187,8 @@
     "Rest API",
     "Posgres",
     "Docker/Pg_cron.md",
-    "linux/приостановка перезапуск.md",
     "Pasted image 20230831105432.png",
     "Без названия.md",
-    "linux/text.md",
-    "linux/port.md",
     "Pasted image 20230830210505.png",
     "Docker/docker practic/Pasted image 20230830210357.png",
     "work/Белка Диджитал/скрипт.md",
@@ -196,7 +197,6 @@
     "work/Белка Диджитал",
     "python/web/http/куки.md",
     "work",
-    "python/web/http/Протокол HTTP.md",
     "python/python_roadmap_processing_/карта.png",
     "Pasted image 20230824121316.png"
   ]
