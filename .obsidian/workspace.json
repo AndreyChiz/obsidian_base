@@ -45,10 +45,11 @@
             "id": "d0918d0363be1e42",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Docker/Docker Practic/Запуск скриптов Python в контейнере.md",
-                "staged": true
+                "file": "Docker/EveryDayDocker.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -131,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Docker/EveryDayDocker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Docker/EveryDayDocker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Docker/EveryDayDocker.md"
+              }
             }
           },
           {
@@ -199,6 +204,7 @@
   },
   "active": "d0918d0363be1e42",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Docker/EveryDayDocker.md",
     "Docker/Docker Learn/Untitled.md",
     "Docker/Docker Practic/Pasted image 20230830210357.png",
@@ -206,7 +212,6 @@
     "Docker/Docker Practic/Запуск скриптов Python в контейнере.md",
     "Docker/Docker Practic",
     "Docker/Docker Learn",
-    "conflict-files-obsidian-git.md",
     "Без названия.md",
     "work/Белка Диджитал/скрипт.md",
     "work/Белка Диджитал",
