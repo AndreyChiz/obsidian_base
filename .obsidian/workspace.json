@@ -138,11 +138,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +155,7 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "f4c80090ea94a67a",
+  "active": "89b427b122a64a03",
   "lastOpenFiles": [
     "linux/Переменные.md",
     "linux/text.md",
