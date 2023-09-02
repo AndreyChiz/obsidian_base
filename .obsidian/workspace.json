@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "a080a58cd75258e7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
             "id": "66bdf09cfdadd71a",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +190,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "39b985a5e16cfa6f",
+  "active": "a080a58cd75258e7",
   "lastOpenFiles": [
     "python/python_roadmap_processing_/ООП/Абстрактные методы, классы..md",
     "python/python_roadmap_processing_/ООП/Инкапсуляция _, __.md",
