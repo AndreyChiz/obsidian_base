@@ -54,6 +54,18 @@
             }
           },
           {
+            "id": "aa7e2442ed9b5aed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "66bdf09cfdadd71a",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/EveryDayDocker.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/EveryDayDocker.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/EveryDayDocker.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -202,10 +214,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d0918d0363be1e42",
+  "active": "aa7e2442ed9b5aed",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Docker/EveryDayDocker.md",
+    "conflict-files-obsidian-git.md",
+    "Rest API/Rest API.md",
+    "Rest API",
+    "Posgres/View.md",
+    "Posgres",
+    "Docker/docker practic/Запуск скриптов Python в контейнере.md",
+    "Docker/docker practic/Pasted image 20230830210357.png",
+    "Docker/docker practic/Docker.md",
+    "Docker/docker practic/Docker Postgres.md",
+    "Docker/docker practic/Docker PGadmin.md",
+    "Docker/docker practic/Docker Compose.md",
+    "Docker/docker practic",
+    "Docker/Everyday Docker.md",
     "Docker/Docker Learn/Untitled.md",
     "Docker/Docker Practic/Pasted image 20230830210357.png",
     "Docker/Docker Practic/Pg_cron.md",
@@ -232,17 +256,6 @@
     "Docker/Docker Practic/Docker PGadmin.md",
     "Docker/Docker Practic/Docker Compose.md",
     "Docker",
-    "python/python_roadmap_processing_/ООП/Абстрактные методы, классы..md",
-    "python/python_roadmap_processing_/ООП/Инкапсуляция _, __.md",
-    "python/python_roadmap_processing_/core/Нейминг.md",
-    "python/python_roadmap_processing_/ООП",
-    "python/python_roadmap_processing_/core/Без названия",
-    "Граффик.md",
-    "python/python_roadmap_processing_/График.md",
-    "python/python_roadmap_processing_/типы данных/String.md",
-    "main md.md",
-    "python/python_roadmap_processing_/core/Память/Представление объекта в памяти.md",
-    "python/python_roadmap_processing_/core/Память/Без названия",
     "python/python_roadmap_processing_/карта.png",
     "Pasted image 20230824121316.png"
   ]
