@@ -4,131 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "903ef1f45d35acac",
+        "id": "8c9d44768c82c4bc",
         "type": "tabs",
         "children": [
           {
-            "id": "2605a0457448a671",
+            "id": "f4c80090ea94a67a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39b985a5e16cfa6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/docker practic/Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef40c7e98bfa404e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/docker practic/Docker Postgres.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f823db63b2413988",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/docker practic/Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "839eb0df3f3e5843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/docker practic/Docker Postgres.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bc760d994a88327",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/text.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52ad8a541103713e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/docker practic/Docker Postgres.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d95f4eaca875d3dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rest API/Rest API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bedf4dcea996fda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Everyday Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66bdf09cfdadd71a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/python_roadmap_processing_/core/Память/PyObject.md",
+                "file": "Docker/Docker Learn/Без названия.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Everyday Docker.md",
+                "file": "Docker/Docker Learn/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Everyday Docker.md",
+                "file": "Docker/Docker Learn/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Everyday Docker.md"
+                "file": "Docker/Docker Learn/Без названия.md"
               }
             }
           },
@@ -264,20 +155,26 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "4bedf4dcea996fda",
+  "active": "38095d20efd7dd25",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Docker/Docker Practic/Запуск скриптов Python в контейнере.md",
-    "Docker/Docker Practic/Pg_cron.md",
+    "Docker/Docker Learn/Untitled.md",
+    "main md.md",
+    "Docker/docker practic/Docker Postgres.md",
+    "Docker/docker practic/Docker.md",
+    "Docker/Docker Learn/Без названия.md",
+    "Docker/docker practic/Docker PGadmin.md",
+    "Docker/docker practic/Docker Compose.md",
+    "Docker/docker practic/Запуск скриптов Python в контейнере.md",
     "Docker/Docker Practic/Pasted image 20230830210357.png",
+    "Docker/Docker Practic/Docker Compose.md",
     "Docker/Docker Practic/Docker.md",
+    "Docker/Docker Practic/Запуск скриптов Python в контейнере.md",
     "Docker/Docker Practic/Docker Postgres.md",
     "Docker/Docker Practic/Docker PGadmin.md",
-    "Docker/Docker Practic/Docker Compose.md",
+    "conflict-files-obsidian-git.md",
+    "Docker/Docker Practic/Pg_cron.md",
     "Docker/Docker Practic",
-    "Docker/Docker Learn/Untitled.md",
     "Docker/Docker Learn",
-    "Docker/docker practic/Запуск скриптов Python в контейнере.md",
     "Docker/Everyday Docker.md",
     "Docker/docker learn",
     "Docker/docker practic",
@@ -285,16 +182,12 @@
     "Rest API/Rest API.md",
     "Rest API",
     "Posgres",
-    "Docker/docker practic/Docker PGadmin.md",
-    "Docker/docker practic/Docker Compose.md",
-    "Docker/docker practic/Docker.md",
     "Docker/Pg_cron.md",
     "linux/приостановка перезапуск.md",
     "Pasted image 20230831105432.png",
     "Без названия.md",
     "linux/text.md",
     "linux/port.md",
-    "Docker/docker practic/Docker Postgres.md",
     "Pasted image 20230830210505.png",
     "Docker/docker practic/Pasted image 20230830210357.png",
     "work/Белка Диджитал/скрипт.md",
@@ -304,8 +197,6 @@
     "python/web/http/куки.md",
     "work",
     "python/web/http/Протокол HTTP.md",
-    "python/libs/Loguru.md",
-    "python/python_roadmap_processing_/ООП/Шаблоны проектирования.md",
     "python/python_roadmap_processing_/карта.png",
     "Pasted image 20230824121316.png"
   ]
