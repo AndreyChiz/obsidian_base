@@ -45,11 +45,10 @@
             "id": "92aae1a208b638de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Docker/docker_learn/3 docker-compose_base.md",
-                "mode": "source",
-                "source": false
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
               }
             }
           },
@@ -132,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/docker_learn/3 docker-compose_base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/docker_learn/3 docker-compose_base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Docker/docker_learn/3 docker-compose_base.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,8 +199,8 @@
   },
   "active": "92aae1a208b638de",
   "lastOpenFiles": [
-    "Docker/Everyday Docker.md",
     "Docker/docker_learn/3 docker-compose_base.md",
+    "Docker/Everyday Docker.md",
     "Docker/docker_learn/2 docker_python_hallo_world_example.md",
     "Docker/docker_learn/1 docker_base.md",
     "conflict-files-obsidian-git.md",
