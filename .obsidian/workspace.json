@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker Learn/EverydayDocker.md",
+                "file": "Docker/Docker Learn/3 docker-compose_base.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 363.5
   },
   "right": {
     "id": "8e8271c4b60fe7c4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker Learn/EverydayDocker.md",
+                "file": "Docker/Docker Learn/3 docker-compose_base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker Learn/EverydayDocker.md",
+                "file": "Docker/Docker Learn/3 docker-compose_base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Docker Learn/EverydayDocker.md"
+                "file": "Docker/Docker Learn/3 docker-compose_base.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,13 +155,15 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "89b427b122a64a03",
+  "active": "f4c80090ea94a67a",
   "lastOpenFiles": [
+    "linux/port.md",
+    "Docker/Docker Learn/2 docker_python_hallo_world_example.md",
+    "Docker/Docker Learn/1 docker_base.md",
+    "Docker/Docker Learn/3 docker-compose_base.md",
     "linux/Переменные.md",
     "linux/text.md",
-    "linux/port.md",
     "linux/приостановка перезапуск.md",
-    "Docker/Docker Learn/EverydayDocker.md",
     "Docker/Docker Learn/Untitled.md",
     "Docker/Everyday Docker.md",
     "main md.md",
@@ -191,11 +193,9 @@
     "Без названия.md",
     "Pasted image 20230830210505.png",
     "Docker/docker practic/Pasted image 20230830210357.png",
-    "work/Белка Диджитал/скрипт.md",
     "Docker",
     "linux",
     "work/Белка Диджитал",
-    "python/web/http/куки.md",
     "work",
     "python/python_roadmap_processing_/карта.png",
     "Pasted image 20230824121316.png"
