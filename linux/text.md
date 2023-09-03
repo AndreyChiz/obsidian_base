@@ -1,4 +1,4 @@
-
+`echo ${PWD}
 `echo $USER`
 
 ```sh

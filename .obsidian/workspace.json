@@ -54,6 +54,18 @@
             }
           },
           {
+            "id": "92aae1a208b638de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "aa7e2442ed9b5aed",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Everyday Docker.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Everyday Docker.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Everyday Docker.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -214,48 +226,49 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d0918d0363be1e42",
+  "active": "92aae1a208b638de",
   "lastOpenFiles": [
     "Docker/Everyday Docker.md",
-    "Docker/EveryDayDocker.md",
     "conflict-files-obsidian-git.md",
+    "linux/Переменные.md",
+    "Docker/docker_practic/Запуск скриптов Python в контейнере.md",
+    "Docker/docker_practic/Pg_cron.md",
+    "Docker/docker_practic/Pasted image 20230830210357.png",
+    "Docker/docker_practic/Docker.md",
+    "Docker/docker_practic/Docker Postgres.md",
+    "Docker/docker_practic/Docker PGadmin.md",
+    "Docker/docker_practic/Docker Compose.md",
+    "Docker/docker_practic",
+    "Docker/docker_learn/3 docker-compose_base.md",
+    "Docker/docker_learn/2 docker_python_hallo_world_example.md",
+    "Docker/docker_learn/1 docker_base.md",
+    "Docker/docker_learn",
+    "Docker/Project/docker-compose_app/app/main.py",
+    "Docker/Project/docker-compose_app/app/Dockerfile",
+    "Docker/Project/python_app/main.py",
+    "Docker/Project/python_app/Dockerfile",
+    "Docker/Project/node-app/index.mjs",
+    "Docker/Project/node-app/Dockerfile",
+    "Docker/Project/nginx/zseg.html",
+    "Docker/Project/nginx/index.html",
+    "Docker/EveryDayDocker.md",
     "Rest API/Rest API.md",
-    "Rest API",
     "Posgres/View.md",
-    "Posgres",
     "Docker/docker practic/Запуск скриптов Python в контейнере.md",
     "Docker/docker practic/Pasted image 20230830210357.png",
     "Docker/docker practic/Docker.md",
     "Docker/docker practic/Docker Postgres.md",
     "Docker/docker practic/Docker PGadmin.md",
     "Docker/docker practic/Docker Compose.md",
-    "Docker/docker practic",
     "Docker/Docker Learn/Untitled.md",
     "Docker/Docker Practic/Pasted image 20230830210357.png",
     "Docker/Docker Practic/Pg_cron.md",
     "Docker/Docker Practic/Запуск скриптов Python в контейнере.md",
-    "Docker/Docker Practic",
-    "Docker/Docker Learn",
     "Без названия.md",
     "work/Белка Диджитал/скрипт.md",
-    "work/Белка Диджитал",
-    "work",
     "python/python_roadmap_processing_/ООП/Шаблоны проектирования.md",
-    "python/python_roadmap_processing_/ООП/Фабричный метод.md",
-    "python/python_roadmap_processing_/ООП/Патерн одиночка.md",
-    "python/libs/Loguru.md",
-    "python/libs",
-    "linux/приостановка перезапуск.md",
-    "linux/text.md",
-    "linux/port.md",
-    "linux",
     "Pasted image 20230831105432.png",
     "Pasted image 20230830210505.png",
-    "Docker/Docker Practic/Docker.md",
-    "Docker/Docker Practic/Docker Postgres.md",
-    "Docker/Docker Practic/Docker PGadmin.md",
-    "Docker/Docker Practic/Docker Compose.md",
-    "Docker",
     "python/python_roadmap_processing_/карта.png",
     "Pasted image 20230824121316.png"
   ]
