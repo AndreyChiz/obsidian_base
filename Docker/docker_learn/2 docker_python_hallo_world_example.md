@@ -41,3 +41,8 @@ docker exec -it my_calendar sh
 `/python_app$ docker build . -t my_calendar` создаст репозитроий my_calendar и образ и добавит тег latest
 `/python_app$ docker build . -t my_calendar:1.01` если изменить код и создать образ с тегом то можно будет использовать для создания контейнеров и первый образ и второй
 
+
+
+`docker logs 479707c8acc8
+`
+

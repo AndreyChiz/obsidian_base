@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker Learn/3 docker-compose_base.md",
+                "file": "Docker/docker_learn/3 docker-compose_base.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker Learn/3 docker-compose_base.md",
+                "file": "Docker/docker_learn/3 docker-compose_base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker Learn/3 docker-compose_base.md",
+                "file": "Docker/docker_learn/3 docker-compose_base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Docker Learn/3 docker-compose_base.md"
+                "file": "Docker/docker_learn/3 docker-compose_base.md"
               }
             }
           },
@@ -155,14 +155,14 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "f4c80090ea94a67a",
+  "active": "38095d20efd7dd25",
   "lastOpenFiles": [
-    "linux/port.md",
-    "Docker/Docker Learn/2 docker_python_hallo_world_example.md",
-    "Docker/Docker Learn/1 docker_base.md",
-    "Docker/Docker Learn/3 docker-compose_base.md",
-    "linux/Переменные.md",
+    "Docker/docker_learn/2 docker_python_hallo_world_example.md",
+    "Docker/docker_learn/3 docker-compose_base.md",
     "linux/text.md",
+    "linux/port.md",
+    "Docker/docker_learn/1 docker_base.md",
+    "linux/Переменные.md",
     "linux/приостановка перезапуск.md",
     "Docker/Docker Learn/Untitled.md",
     "Docker/Everyday Docker.md",
@@ -172,16 +172,16 @@
     "Docker/docker practic/Docker PGadmin.md",
     "Docker/docker practic/Docker Compose.md",
     "Docker/docker practic/Запуск скриптов Python в контейнере.md",
-    "Docker/Docker Practic/Pasted image 20230830210357.png",
-    "Docker/Docker Practic/Docker Compose.md",
-    "Docker/Docker Practic/Docker.md",
-    "Docker/Docker Practic/Запуск скриптов Python в контейнере.md",
-    "Docker/Docker Practic/Docker Postgres.md",
-    "Docker/Docker Practic/Docker PGadmin.md",
+    "Docker/docker_practic/Pasted image 20230830210357.png",
+    "Docker/docker_practic/Docker Compose.md",
+    "Docker/docker_practic/Docker.md",
+    "Docker/docker_practic/Запуск скриптов Python в контейнере.md",
+    "Docker/docker_practic/Docker Postgres.md",
+    "Docker/docker_practic/Docker PGadmin.md",
     "conflict-files-obsidian-git.md",
-    "Docker/Docker Practic/Pg_cron.md",
-    "Docker/Docker Practic",
-    "Docker/Docker Learn",
+    "Docker/docker_practic/Pg_cron.md",
+    "Docker/docker_practic",
+    "Docker/docker_learn",
     "Docker/docker learn",
     "Docker/docker practic",
     "Posgres/View.md",
