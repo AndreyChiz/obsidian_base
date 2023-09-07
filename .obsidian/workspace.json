@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/пользователи и права.md",
+                "file": "Docker/docker_practic/Docker PGadmin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/пользователи и права.md",
+                "file": "Docker/docker_practic/Docker PGadmin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/пользователи и права.md",
+                "file": "Docker/docker_practic/Docker PGadmin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/пользователи и права.md"
+                "file": "Docker/docker_practic/Docker PGadmin.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "f4c80090ea94a67a",
   "lastOpenFiles": [
-    "Docker/docker_practic/Docker PGadmin.md",
     "linux/пользователи и права.md",
+    "Docker/docker_practic/Docker PGadmin.md",
     "Docker/docker_practic/Права и разрешения.md",
     "Без названия.md",
     "Docker/docker_practic/Docker Postgres.md",
