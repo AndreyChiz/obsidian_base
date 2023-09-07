@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/docker_practic/Docker PGadmin.md",
+                "file": "Posgres/View.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/docker_practic/Docker PGadmin.md",
+                "file": "Posgres/View.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/docker_practic/Docker PGadmin.md",
+                "file": "Posgres/View.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/docker_practic/Docker PGadmin.md"
+                "file": "Posgres/View.md"
               }
             }
           },
@@ -157,10 +157,15 @@
   },
   "active": "f4c80090ea94a67a",
   "lastOpenFiles": [
-    "linux/пользователи и права.md",
+    "TASK.md",
+    "Граффик.md",
+    "Pasted image 20230830210505.png",
+    "main md.md",
+    "Docker/docker-postgres.md",
+    "Docker/docker_everyday_script.md",
     "Docker/docker_practic/Docker PGadmin.md",
+    "linux/пользователи и права.md",
     "Docker/docker_practic/Права и разрешения.md",
-    "Без названия.md",
     "Docker/docker_practic/Docker Postgres.md",
     "Docker/docker_practic/Переменные среды.md",
     "linux/port.md",
@@ -172,8 +177,6 @@
     "Docker/docker_practic/Pasted image 20230830210357.png",
     "Docker/docker_practic/Запуск скриптов Python в контейнере.md",
     "Docker/docker_practic/Docker.md",
-    "Docker/docker_everyday_script.md",
-    "Docker/docker-postgres.md",
     "Posgres/View.md",
     "Docker/docker_learn/1 docker_base.md",
     "Docker/docker_learn/3 docker-compose_base.md",
@@ -183,9 +186,7 @@
     "python/web/http/Заголовки запроса",
     "python/web/everyday_web_script.md",
     "Rest API/flask_api/flask_simple.md",
-    "Rest API/Rest API.md",
     "Rest API/flask_api",
-    "conflict-files-obsidian-git.md",
     "Docker/docker_practic",
     "Docker/docker_learn",
     "Docker/docker learn",
@@ -193,7 +194,6 @@
     "Rest API",
     "Posgres",
     "Pasted image 20230831105432.png",
-    "Pasted image 20230830210505.png",
     "Docker/docker practic/Pasted image 20230830210357.png",
     "Docker",
     "linux",
