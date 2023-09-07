@@ -1,5 +1,8 @@
 GET, POST, PUT, DELETE, и HEAD.
 
+`echo -e curl -X POST http://127.0.0.1:3000/api/belka_api/rrid/8 -H "Content-Type: application/json" -d '{"time": "3000", "value": "2.02"}'`: кодировка
+
+
 1. GET-запрос:
 ```bash
 curl -X GET https://example.com/api/resource

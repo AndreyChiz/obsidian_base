@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/curl.md",
+                "file": "linux/пользователи и права.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/curl.md",
+                "file": "linux/пользователи и права.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/curl.md",
+                "file": "linux/пользователи и права.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/curl.md"
+                "file": "linux/пользователи и права.md"
               }
             }
           },
@@ -157,35 +157,35 @@
   },
   "active": "f4c80090ea94a67a",
   "lastOpenFiles": [
-    "python/web/http/Заголовки запроса/Accept.md",
+    "Docker/docker_practic/Docker PGadmin.md",
+    "linux/пользователи и права.md",
+    "Docker/docker_practic/Права и разрешения.md",
+    "Без названия.md",
+    "Docker/docker_practic/Docker Postgres.md",
+    "Docker/docker_practic/Переменные среды.md",
+    "linux/port.md",
     "linux/curl.md",
+    "linux/text.md",
+    "linux/приостановка перезапуск.md",
+    "linux/Переменные.md",
+    "Docker/docker_practic/Pg_cron.md",
+    "Docker/docker_practic/Pasted image 20230830210357.png",
     "Docker/docker_practic/Запуск скриптов Python в контейнере.md",
-    "python/web/http/Заголовки запроса",
+    "Docker/docker_practic/Docker.md",
+    "Docker/docker_everyday_script.md",
+    "Docker/docker-postgres.md",
+    "Posgres/View.md",
+    "Docker/docker_learn/1 docker_base.md",
     "Docker/docker_learn/3 docker-compose_base.md",
     "Docker/docker_learn/2 docker_python_hallo_world_example.md",
-    "Docker/docker_learn/1 docker_base.md",
+    "Docker/docker_practic/Docker Compose.md",
+    "python/web/http/Заголовки запроса/Accept.md",
+    "python/web/http/Заголовки запроса",
     "python/web/everyday_web_script.md",
-    "Docker/docker_everyday_script.md",
     "Rest API/flask_api/flask_simple.md",
     "Rest API/Rest API.md",
     "Rest API/flask_api",
-    "Posgres/View.md",
     "conflict-files-obsidian-git.md",
-    "linux/text.md",
-    "linux/port.md",
-    "linux/Переменные.md",
-    "linux/приостановка перезапуск.md",
-    "Docker/Docker Learn/Untitled.md",
-    "Docker/Everyday Docker.md",
-    "main md.md",
-    "Docker/docker practic/Docker Postgres.md",
-    "Docker/docker practic/Docker.md",
-    "Docker/docker practic/Docker PGadmin.md",
-    "Docker/docker practic/Docker Compose.md",
-    "Docker/docker practic/Запуск скриптов Python в контейнере.md",
-    "Docker/docker_practic/Pasted image 20230830210357.png",
-    "Docker/docker_practic/Docker Compose.md",
-    "Docker/docker_practic/Docker.md",
     "Docker/docker_practic",
     "Docker/docker_learn",
     "Docker/docker learn",
