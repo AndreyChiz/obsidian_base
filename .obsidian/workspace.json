@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vbox/Без названия.md",
+                "file": "Docker/docker_practic/Без названия.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vbox/Без названия.md",
+                "file": "Docker/docker_practic/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vbox/Без названия.md",
+                "file": "Docker/docker_practic/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vbox/Без названия.md"
+                "file": "Docker/docker_practic/Без названия.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,12 +158,13 @@
   "active": "f4c80090ea94a67a",
   "lastOpenFiles": [
     "Docker/docker_practic/Docker-install.md",
+    "Docker/docker_practic/Без названия.md",
+    "linux/пользователи и права.md",
     "vbox/Без названия.md",
     "vbox",
     "Docker/docker_learn/1 docker_base.md",
     "Docker/docker_learn/3 docker-compose_base.md",
     "Docker/docker_learn/2 docker_python_hallo_world_example.md",
-    "linux/пользователи и права.md",
     "Docker/docker_practic/Docker PGadmin.md",
     "Docker/docker_practic/Docker Postgres.md",
     "Posgres/View.md",
@@ -184,7 +185,6 @@
     "linux/port.md",
     "linux/curl.md",
     "linux/text.md",
-    "linux/приостановка перезапуск.md",
     "Docker/docker_practic/Pasted image 20230830210357.png",
     "python/web/http/Заголовки запроса",
     "Rest API/flask_api",
