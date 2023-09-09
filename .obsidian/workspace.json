@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2605a0457448a671",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "main md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "39b985a5e16cfa6f",
             "type": "leaf",
             "state": {
@@ -50,6 +38,17 @@
                 "file": "linux/port.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "69bc00ae37bc1c51",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Docker/docker_practic/Запуск скриптов Python в контейнере.md",
+                "staged": true
               }
             }
           },
@@ -132,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "linux/port.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,13 +197,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "92aae1a208b638de",
+  "active": "69bc00ae37bc1c51",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "linux/port.md",
+    "python/web/http/Заголовки запроса/Accept.md",
+    "python/web/http/Заголовки запроса",
+    "python/web/everyday_web_script.md",
+    "linux/пользователи и права.md",
+    "linux/curl.md",
+    "TASK.md",
+    "Rest API/flask_api/flask_simple.md",
+    "Rest API/flask_api",
+    "Docker/docker_practic/Права и разрешения.md",
+    "Docker/docker_practic/Переменные среды.md",
+    "Docker/docker_practic/Docker Python-Flask.md",
     "Docker/docker_learn/3 docker-compose_base.md",
     "Docker/Everyday Docker.md",
     "Docker/docker_learn/2 docker_python_hallo_world_example.md",
     "Docker/docker_learn/1 docker_base.md",
-    "conflict-files-obsidian-git.md",
     "linux/Переменные.md",
     "Docker/docker_practic/Запуск скриптов Python в контейнере.md",
     "Docker/docker_practic/Pg_cron.md",
@@ -225,24 +232,12 @@
     "Docker/Project/python_app/Dockerfile",
     "Docker/Project/node-app/index.mjs",
     "Docker/Project/node-app/Dockerfile",
-    "Docker/Project/nginx/zseg.html",
-    "Docker/Project/nginx/index.html",
     "Docker/EveryDayDocker.md",
     "Rest API/Rest API.md",
     "Posgres/View.md",
     "Docker/docker practic/Запуск скриптов Python в контейнере.md",
     "Docker/docker practic/Pasted image 20230830210357.png",
-    "Docker/docker practic/Docker.md",
-    "Docker/docker practic/Docker Postgres.md",
-    "Docker/docker practic/Docker PGadmin.md",
-    "Docker/docker practic/Docker Compose.md",
-    "Docker/Docker Learn/Untitled.md",
     "Docker/Docker Practic/Pasted image 20230830210357.png",
-    "Docker/Docker Practic/Pg_cron.md",
-    "Docker/Docker Practic/Запуск скриптов Python в контейнере.md",
-    "Без названия.md",
-    "work/Белка Диджитал/скрипт.md",
-    "python/python_roadmap_processing_/ООП/Шаблоны проектирования.md",
     "Pasted image 20230831105432.png",
     "Pasted image 20230830210505.png",
     "python/python_roadmap_processing_/карта.png",

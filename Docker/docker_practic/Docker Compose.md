@@ -3,6 +3,8 @@
 sudo apt install docker-compose
 ```
 
+
+
 - `docker-compose down`: Останавливает и удаляет все контейнеры, созданные с помощью
 - `docker-compose down --rmi all` : Удалить все образы, связанные с вашими контейнерами
 - `docker image prune -a` : удалите оставшиеся образы после удаления контейнеров
@@ -13,7 +15,7 @@ sudo apt install docker-compose
 
 - `docker-compose ps`: Показывает статус запущенных контейнеров.
 - `docker-compose logs`: Отображает журналы (логи) контейнеров.
-
+- ` docker-compose up --foece-recreate`: пересоздание при изменении
 
 
 
