@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/docker_learn/1 docker_base.md",
+                "file": "linux/пользователи и права.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/docker_learn/1 docker_base.md",
+                "file": "linux/пользователи и права.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/docker_learn/1 docker_base.md",
+                "file": "linux/пользователи и права.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/docker_learn/1 docker_base.md"
+                "file": "linux/пользователи и права.md"
               }
             }
           },
@@ -157,23 +157,23 @@
   },
   "active": "f4c80090ea94a67a",
   "lastOpenFiles": [
+    "Docker/docker_practic/Docker PGadmin.md",
+    "Docker/docker_practic/Docker Postgres.md",
+    "Posgres/View.md",
+    "Docker/docker_learn/1 docker_base.md",
+    "Rest API/Rest API.md",
+    "Rest API/flask_api/flask_simple.md",
     "Docker/docker_learn/2 docker_python_hallo_world_example.md",
     "Docker/docker_learn/3 docker-compose_base.md",
-    "Docker/docker_practic/Docker PGadmin.md",
     "Docker/docker_practic/Docker.md",
     "linux/пользователи и права.md",
-    "Docker/docker_learn/1 docker_base.md",
     "Docker/docker_practic/Права и разрешения.md",
     "Docker/docker_practic/Переменные среды.md",
     "Docker/docker_practic/Docker Python-Flask.md",
-    "Docker/docker_practic/Docker Postgres.md",
     "Docker/docker_practic/Запуск скриптов Python в контейнере.md",
     "Docker/docker_practic/Pg_cron.md",
     "Docker/docker_practic/Docker Compose.md",
     "TASK.md",
-    "Rest API/Rest API.md",
-    "Rest API/flask_api/flask_simple.md",
-    "Posgres/View.md",
     "Граффик.md",
     "Pasted image 20230830210505.png",
     "main md.md",
