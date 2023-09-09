@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/пользователи и права.md",
+                "file": "Docker/docker_practic/Docker-install.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/пользователи и права.md",
+                "file": "Docker/docker_practic/Docker-install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/пользователи и права.md",
+                "file": "Docker/docker_practic/Docker-install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/пользователи и права.md"
+                "file": "Docker/docker_practic/Docker-install.md"
               }
             }
           },
@@ -155,18 +155,18 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "f4c80090ea94a67a",
+  "active": "38095d20efd7dd25",
   "lastOpenFiles": [
+    "Docker/docker_learn/1 docker_base.md",
+    "Docker/docker_learn/3 docker-compose_base.md",
+    "Docker/docker_learn/2 docker_python_hallo_world_example.md",
+    "linux/пользователи и права.md",
     "Docker/docker_practic/Docker PGadmin.md",
     "Docker/docker_practic/Docker Postgres.md",
     "Posgres/View.md",
-    "Docker/docker_learn/1 docker_base.md",
     "Rest API/Rest API.md",
     "Rest API/flask_api/flask_simple.md",
-    "Docker/docker_learn/2 docker_python_hallo_world_example.md",
-    "Docker/docker_learn/3 docker-compose_base.md",
-    "Docker/docker_practic/Docker.md",
-    "linux/пользователи и права.md",
+    "Docker/docker_practic/Docker-install.md",
     "Docker/docker_practic/Права и разрешения.md",
     "Docker/docker_practic/Переменные среды.md",
     "Docker/docker_practic/Docker Python-Flask.md",
