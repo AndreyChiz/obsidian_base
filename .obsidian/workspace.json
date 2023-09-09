@@ -4,21 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "8c9d44768c82c4bc",
+        "id": "903ef1f45d35acac",
         "type": "tabs",
         "children": [
           {
-            "id": "f4c80090ea94a67a",
+            "id": "2605a0457448a671",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": true
+                "file": "main md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39b985a5e16cfa6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Граффик.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a080a58cd75258e7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
+            "id": "92aae1a208b638de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/port.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66bdf09cfdadd71a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/python_roadmap_processing_/core/Память/PyObject.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -68,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 200
   },
   "right": {
     "id": "8e8271c4b60fe7c4",
@@ -84,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main md.md",
+                "file": "linux/port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main md.md",
+                "file": "linux/port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main md.md"
+                "file": "linux/port.md"
               }
             }
           },
@@ -141,61 +189,62 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "markdown-importer:Импорт Markdown-файлов": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "f4c80090ea94a67a",
+  "active": "92aae1a208b638de",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Docker/docker_learn/1 docker_base.md",
     "Docker/docker_learn/3 docker-compose_base.md",
-    "Docker/docker_learn/2 docker_python_hallo_world_example.md",
-    "linux/text.md",
-    "linux/port.md",
-    "linux/Переменные.md",
-    "linux/приостановка перезапуск.md",
-    "Docker/Docker Learn/Untitled.md",
     "Docker/Everyday Docker.md",
-    "main md.md",
-    "Docker/docker practic/Docker Postgres.md",
-    "Docker/docker practic/Docker.md",
-    "Docker/docker practic/Docker PGadmin.md",
-    "Docker/docker practic/Docker Compose.md",
-    "Docker/docker practic/Запуск скриптов Python в контейнере.md",
-    "Docker/docker_practic/Pasted image 20230830210357.png",
-    "Docker/docker_practic/Docker Compose.md",
-    "Docker/docker_practic/Docker.md",
+    "Docker/docker_learn/2 docker_python_hallo_world_example.md",
+    "Docker/docker_learn/1 docker_base.md",
+    "conflict-files-obsidian-git.md",
+    "linux/Переменные.md",
     "Docker/docker_practic/Запуск скриптов Python в контейнере.md",
+    "Docker/docker_practic/Pg_cron.md",
+    "Docker/docker_practic/Pasted image 20230830210357.png",
+    "Docker/docker_practic/Docker.md",
     "Docker/docker_practic/Docker Postgres.md",
     "Docker/docker_practic/Docker PGadmin.md",
-    "Docker/docker_practic/Pg_cron.md",
+    "Docker/docker_practic/Docker Compose.md",
     "Docker/docker_practic",
     "Docker/docker_learn",
-    "Docker/docker learn",
-    "Docker/docker practic",
-    "Posgres/View.md",
+    "Docker/Project/docker-compose_app/app/main.py",
+    "Docker/Project/docker-compose_app/app/Dockerfile",
+    "Docker/Project/python_app/main.py",
+    "Docker/Project/python_app/Dockerfile",
+    "Docker/Project/node-app/index.mjs",
+    "Docker/Project/node-app/Dockerfile",
+    "Docker/Project/nginx/zseg.html",
+    "Docker/Project/nginx/index.html",
+    "Docker/EveryDayDocker.md",
     "Rest API/Rest API.md",
-    "Rest API",
-    "Posgres",
-    "Docker/Pg_cron.md",
-    "Pasted image 20230831105432.png",
-    "Без названия.md",
-    "Pasted image 20230830210505.png",
+    "Posgres/View.md",
+    "Docker/docker practic/Запуск скриптов Python в контейнере.md",
     "Docker/docker practic/Pasted image 20230830210357.png",
-    "Docker",
-    "linux",
-    "work/Белка Диджитал",
-    "work",
+    "Docker/docker practic/Docker.md",
+    "Docker/docker practic/Docker Postgres.md",
+    "Docker/docker practic/Docker PGadmin.md",
+    "Docker/docker practic/Docker Compose.md",
+    "Docker/Docker Learn/Untitled.md",
+    "Docker/Docker Practic/Pasted image 20230830210357.png",
+    "Docker/Docker Practic/Pg_cron.md",
+    "Docker/Docker Practic/Запуск скриптов Python в контейнере.md",
+    "Без названия.md",
+    "work/Белка Диджитал/скрипт.md",
+    "python/python_roadmap_processing_/ООП/Шаблоны проектирования.md",
+    "Pasted image 20230831105432.png",
+    "Pasted image 20230830210505.png",
     "python/python_roadmap_processing_/карта.png",
     "Pasted image 20230824121316.png"
   ]
