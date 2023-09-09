@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/ssh.md",
+                "file": "Docker/docker_practic/Docker Postgres.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/ssh.md",
+                "file": "Docker/docker_practic/Docker Postgres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/ssh.md",
+                "file": "Docker/docker_practic/Docker Postgres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/ssh.md"
+                "file": "Docker/docker_practic/Docker Postgres.md"
               }
             }
           },
@@ -157,29 +157,29 @@
   },
   "active": "f4c80090ea94a67a",
   "lastOpenFiles": [
-    "linux/Настройки сервера.md",
+    "Docker/docker_practic/Docker PGadmin.md",
+    "linux/пользователи и права.md",
+    "Docker/docker_practic/Docker Python-Flask.md",
+    "Docker/docker_practic/Docker Postgres.md",
+    "Docker/docker_practic/Docker Compose-install.md",
     "linux/ssh.md",
+    "Docker/docker_practic/Docker-install.md",
+    "linux/Настройки сервера.md",
     "vbox/Без названия.md",
     "Docker/eweryday_docker.md",
     "Docker/docker_practic/Без названия.md",
     "Docker/docker_learn/3 docker-compose_base.md",
     "Docker/docker_learn/2 docker_python_hallo_world_example.md",
     "Docker/docker_learn/1 docker_base.md",
-    "linux/пользователи и права.md",
     "linux/Переменные.md",
-    "Docker/docker_practic/Docker-install.md",
     "vbox",
-    "Docker/docker_practic/Docker PGadmin.md",
-    "Docker/docker_practic/Docker Postgres.md",
     "Posgres/View.md",
     "Rest API/Rest API.md",
     "Rest API/flask_api/flask_simple.md",
     "Docker/docker_practic/Права и разрешения.md",
     "Docker/docker_practic/Переменные среды.md",
-    "Docker/docker_practic/Docker Python-Flask.md",
     "Docker/docker_practic/Запуск скриптов Python в контейнере.md",
     "Docker/docker_practic/Pg_cron.md",
-    "Docker/docker_practic/Docker Compose.md",
     "TASK.md",
     "Граффик.md",
     "Pasted image 20230830210505.png",
