@@ -1,9 +1,10 @@
-!!!!!!!!!!!!!!!!!!!!!!!!!!`sudo chmod -R 777 /папка с томом pgadmin`
+
 
 
 ```yaml
 pgadmin4:  
-    container_name: pgadmin  
+    container_name: pgadmin 
+    user: root 
     image: dpage/pgadmin4  
     restart: always  
     environment:  
