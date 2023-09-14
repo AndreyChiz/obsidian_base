@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4301539d28a3bdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/Настройки сервера.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/bash.md",
+                "file": "linux/Настройки сервера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/bash.md",
+                "file": "linux/Настройки сервера.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/bash.md"
+                "file": "linux/Настройки сервера.md"
               }
             }
           },
@@ -178,13 +190,15 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "ffa87fdde486b428",
+  "active": "a4301539d28a3bdb",
   "lastOpenFiles": [
+    "linux/ssh.md",
+    "linux/Настройки сервера.md",
+    "linux/bash.md",
+    "TASK.md",
+    "Posgres/everyday_postgres.md",
     "linux/приостановка перезапуск.md",
     "linux/text.md",
-    "linux/ssh.md",
-    "linux/bash.md",
-    "Posgres/everyday_postgres.md",
     "Docker/eweryday_docker.md",
     "linux/пользователи и права.md",
     "Posgres/PSQL everyday.md",
@@ -206,8 +220,6 @@
     "python/libs/Loguru.md",
     "python/libs/everyday_web.md",
     "Docker/docker_practic/Docker Postgres.md",
-    "Docker/docker_practic/Docker Python-Flask.md",
-    "Docker/docker_practic/Docker Compose-install.md",
     "vbox",
     "Pasted image 20230830210505.png",
     "Docker/docker_practic/Pasted image 20230830210357.png",
