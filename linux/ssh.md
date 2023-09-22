@@ -15,6 +15,9 @@ sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.factory-defaults
 
 # настройка портов
 sudo nano /etc/ssh/sshd_config 
+!!! закомментировать
+#Include /etc/ssh/sshd_config.d/*.conf
+
 # Port раскомментировать строку 
 # заменить на Port 12345
 # PermitRootLogin no

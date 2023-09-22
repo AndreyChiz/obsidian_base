@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/wake_on_lan.md",
+                "file": "linux/ssh.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/wake_on_lan.md",
+                "file": "linux/ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/wake_on_lan.md",
+                "file": "linux/ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/wake_on_lan.md"
+                "file": "linux/ssh.md"
               }
             }
           },
@@ -236,12 +236,12 @@
   },
   "active": "b4b8c4580aa0424e",
   "lastOpenFiles": [
+    "linux/Настройки сервера.md",
     "linux/disk_op.md",
+    "linux/пользователи и права.md",
     "linux/wake_on_lan.md",
     "linux/bash.md",
     "linux/приостановка перезапуск.md",
-    "linux/пользователи и права.md",
-    "linux/Настройки сервера.md",
     "linux/ssh.md",
     "Граффик.md",
     "linux/text.md",
