@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "linux/пользователи и права.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "linux/пользователи и права.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "linux/пользователи и права.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "linux/пользователи и права.md"
               }
             }
           },
@@ -236,6 +236,8 @@
   },
   "active": "b4b8c4580aa0424e",
   "lastOpenFiles": [
+    "linux/disk_op.md",
+    "conflict-files-obsidian-git.md",
     "vbox/Без названия.md",
     "vbox",
     "python/libs/Без названия.md",
@@ -264,12 +266,10 @@
     "Docker/docker_practic/Docker-install.md",
     "Docker/docker_practic/Docker Compose-install.md",
     "linux/приостановка перезапуск.md",
-    "conflict-files-obsidian-git.md",
     "linux/port.md",
     "python/web/http/Заголовки запроса/Accept.md",
     "python/web/http/Заголовки запроса",
     "python/web/everyday_web_script.md",
-    "linux/пользователи и права.md",
     "Rest API/flask_api",
     "Docker/docker_practic/Pasted image 20230830210357.png",
     "Docker/docker_practic",
