@@ -45,10 +45,21 @@
             "id": "69bc00ae37bc1c51",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Docker/docker_practic/Запуск скриптов Python в контейнере.md",
-                "staged": true
+                "file": "linux/пользователи и права.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34bb69f2cb6d92de",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
               }
             }
           },
@@ -65,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux/пользователи и права.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linux/пользователи и права.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "linux/пользователи и права.md"
+              }
             }
           },
           {
@@ -177,6 +192,16 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "e6ddec1b1e605a22",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -197,8 +222,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "69bc00ae37bc1c51",
+  "active": "34bb69f2cb6d92de",
   "lastOpenFiles": [
+    "linux/приостановка перезапуск.md",
     "conflict-files-obsidian-git.md",
     "linux/port.md",
     "python/web/http/Заголовки запроса/Accept.md",
@@ -235,7 +261,6 @@
     "Docker/EveryDayDocker.md",
     "Rest API/Rest API.md",
     "Posgres/View.md",
-    "Docker/docker practic/Запуск скриптов Python в контейнере.md",
     "Docker/docker practic/Pasted image 20230830210357.png",
     "Docker/Docker Practic/Pasted image 20230830210357.png",
     "Pasted image 20230831105432.png",
