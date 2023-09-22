@@ -1,11 +1,10 @@
-при переносе удалить из тома pgadmin4.db(в корне тома)
-добавить пользователя postgres в группу текущего пользователя,
-`sudo useradd -G $(id -gn) pgadmin`:
-дать этой группе права на изменение удаление папки рекурсивно 
+
+
 
 ```yaml
 pgadmin4:  
-    container_name: pgadmin  
+    container_name: pgadmin 
+    user: root 
     image: dpage/pgadmin4  
     restart: always  
     environment:  

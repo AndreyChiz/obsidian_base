@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "b4b8c4580aa0424e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "66bdf09cfdadd71a",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/пользователи и права.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/пользователи и права.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/пользователи и права.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -222,8 +234,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "34bb69f2cb6d92de",
+  "active": "b4b8c4580aa0424e",
   "lastOpenFiles": [
+    "vbox/Без названия.md",
+    "vbox",
+    "python/libs/Без названия.md",
+    "python/libs/http/Заголовки запроса/Accept.md",
+    "python/libs/http/куки.md",
+    "python/libs/http/Протокол HTTP.md",
+    "python/libs/http/Заголовки запроса",
+    "python/libs/http",
+    "python/libs/everyday_web.md",
+    "python/libs/aio/asyncaio/Общее.md",
+    "python/libs/aio/asyncaio/gather().md",
+    "python/libs/aio/asyncaio",
+    "python/libs/aio",
+    "python/Docs.md",
+    "linux/Настройки сервера.md",
+    "linux/ssh.md",
+    "linux/bash.md",
+    "SQL/templates.md",
+    "SQL",
+    "Posgres/everyday_postgres.md",
+    "Posgres/PSQL everyday.md",
+    "Flask/Без названия.md",
+    "Flask",
+    "Docker/eweryday_docker.md",
+    "Docker/docker_practic/Без названия.md",
+    "Docker/docker_practic/Docker-install.md",
+    "Docker/docker_practic/Docker Compose-install.md",
     "linux/приостановка перезапуск.md",
     "conflict-files-obsidian-git.md",
     "linux/port.md",
@@ -231,36 +270,9 @@
     "python/web/http/Заголовки запроса",
     "python/web/everyday_web_script.md",
     "linux/пользователи и права.md",
-    "linux/curl.md",
-    "TASK.md",
-    "Rest API/flask_api/flask_simple.md",
     "Rest API/flask_api",
-    "Docker/docker_practic/Права и разрешения.md",
-    "Docker/docker_practic/Переменные среды.md",
-    "Docker/docker_practic/Docker Python-Flask.md",
-    "Docker/docker_learn/3 docker-compose_base.md",
-    "Docker/Everyday Docker.md",
-    "Docker/docker_learn/2 docker_python_hallo_world_example.md",
-    "Docker/docker_learn/1 docker_base.md",
-    "linux/Переменные.md",
-    "Docker/docker_practic/Запуск скриптов Python в контейнере.md",
-    "Docker/docker_practic/Pg_cron.md",
     "Docker/docker_practic/Pasted image 20230830210357.png",
-    "Docker/docker_practic/Docker.md",
-    "Docker/docker_practic/Docker Postgres.md",
-    "Docker/docker_practic/Docker PGadmin.md",
-    "Docker/docker_practic/Docker Compose.md",
     "Docker/docker_practic",
-    "Docker/docker_learn",
-    "Docker/Project/docker-compose_app/app/main.py",
-    "Docker/Project/docker-compose_app/app/Dockerfile",
-    "Docker/Project/python_app/main.py",
-    "Docker/Project/python_app/Dockerfile",
-    "Docker/Project/node-app/index.mjs",
-    "Docker/Project/node-app/Dockerfile",
-    "Docker/EveryDayDocker.md",
-    "Rest API/Rest API.md",
-    "Posgres/View.md",
     "Docker/docker practic/Pasted image 20230830210357.png",
     "Docker/Docker Practic/Pasted image 20230830210357.png",
     "Pasted image 20230831105432.png",

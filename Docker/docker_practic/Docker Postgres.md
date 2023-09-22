@@ -1,4 +1,4 @@
-
+`sudo chmod -R 777 /папка с томом postgres`
 
 
 ```yaml
