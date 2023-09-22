@@ -67,10 +67,11 @@
             "id": "b4b8c4580aa0424e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "linux/ssh.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -153,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux/ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linux/ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "linux/ssh.md"
+              }
             }
           },
           {
@@ -231,6 +236,9 @@
   },
   "active": "b4b8c4580aa0424e",
   "lastOpenFiles": [
+    "linux/Настройки сервера.md",
+    "linux/text.md",
+    "linux/bash.md",
     "linux/пользователи и права.md",
     "linux/disk_op.md",
     "conflict-files-obsidian-git.md",
@@ -248,9 +256,7 @@
     "python/libs/aio/asyncaio",
     "python/libs/aio",
     "python/Docs.md",
-    "linux/Настройки сервера.md",
     "linux/ssh.md",
-    "linux/bash.md",
     "SQL/templates.md",
     "SQL",
     "Posgres/everyday_postgres.md",
@@ -263,7 +269,6 @@
     "Docker/docker_practic/Docker Compose-install.md",
     "linux/приостановка перезапуск.md",
     "linux/port.md",
-    "python/web/http/Заголовки запроса/Accept.md",
     "python/web/http/Заголовки запроса",
     "Rest API/flask_api",
     "Docker/docker_practic/Pasted image 20230830210357.png",

@@ -14,7 +14,7 @@ ssh localhost #проверка работоспособности
 sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.factory-defaults
 
 # настройка портов
-sudo vi /etc/ssh/sshd_config 
+sudo nano /etc/ssh/sshd_config 
 # Port раскомментировать строку 
 # заменить на Port 12345
 # PermitRootLogin no
@@ -28,6 +28,8 @@ sudo systemctl status ssh # проверить статус
 ### Подключение
 ```sh
 ssh c2h5oh@IP_виртуальной_машины
+ssh -p 050286 c2h5oh@192.168.1.68 # с портом
+
 ```
 ##### Ключи RSA
 - Генерация ключа
