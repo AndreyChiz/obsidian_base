@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Настройки сервера.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffa87fdde486b428",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/bash.md",
+                "file": "Flask/tutorial_from_docs.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Настройки сервера.md",
+                "file": "Linux/ssh.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Настройки сервера.md",
+                "file": "Flask/tutorial_from_docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Настройки сервера.md",
+                "file": "Flask/tutorial_from_docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Настройки сервера.md"
+                "file": "Flask/tutorial_from_docs.md"
               }
             }
           },
@@ -190,49 +177,49 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "a4301539d28a3bdb",
+  "active": "9939b941733c146e",
   "lastOpenFiles": [
-    "linux/ssh.md",
-    "linux/Настройки сервера.md",
-    "linux/bash.md",
+    "SQL/Общее.md",
+    "Flask/tutorial_from_docs.md",
+    "Linux/keyboard_.md",
+    "WSGI/Что.md",
+    "Flask/ссылки.md",
+    "WSGI",
+    "VirtualBox/Без названия.md",
     "TASK.md",
-    "Posgres/everyday_postgres.md",
-    "linux/приостановка перезапуск.md",
-    "linux/text.md",
-    "Docker/eweryday_docker.md",
-    "linux/пользователи и права.md",
+    "Граффик.md",
+    "SQL/Posgres/Pasted image 20230831105432.png",
+    "Pasted image 20230830210505.png",
+    "SQL/Posgres/templates.md",
+    "SQL/Posgres/View.md",
+    "SQL/Posgres/everyday_postgres.md",
     "Posgres/PSQL everyday.md",
-    "Posgres/View.md",
+    "Linux/Настройки сервера.md",
+    "Rest API/Rest API.md",
+    "Rest API/flask_api/flask_simple.md",
+    "Linux/bash.md",
+    "Linux/port.md",
+    "Linux/ssh.md",
+    "Docker/docker_practic/Docker-install.md",
+    "Docker/docker_practic/Docker Compose-install.md",
+    "Linux/приостановка перезапуск.md",
+    "Linux/text.md",
+    "Docker/eweryday_docker.md",
+    "Linux/пользователи и права.md",
     "Docker/docker_learn/1 docker_base.md",
     "Docker/docker_learn/2 docker_python_hallo_world_example.md",
-    "SQL/templates.md",
     "SQL",
-    "Docker/docker_practic/Docker-install.md",
-    "Docker/docker_practic/Права и разрешения.md",
-    "Docker/docker_practic/Переменные среды.md",
-    "Docker/docker_practic/Без названия.md",
-    "Docker/docker_practic/Docker PGadmin.md",
-    "Flask/Без названия.md",
     "Flask",
-    "linux/port.md",
-    "python/Docs.md",
-    "python/libs/Без названия.md",
-    "python/libs/Loguru.md",
-    "python/libs/everyday_web.md",
-    "Docker/docker_practic/Docker Postgres.md",
-    "vbox",
-    "Pasted image 20230830210505.png",
+    "VirtualBox",
     "Docker/docker_practic/Pasted image 20230830210357.png",
-    "python/libs/http/Заголовки запроса",
+    "Python/libs/http/Заголовки запроса",
     "Rest API/flask_api",
     "Docker/docker_practic",
     "Docker/docker_learn",
     "Docker/docker learn",
     "Docker/docker practic",
-    "Rest API",
-    "Pasted image 20230831105432.png",
     "Docker/docker practic/Pasted image 20230830210357.png",
-    "python/python_roadmap_processing_/карта.png",
+    "Python/python_roadmap_processing_/карта.png",
     "Pasted image 20230824121316.png"
   ]
 }
