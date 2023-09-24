@@ -16,16 +16,20 @@ sudo timeshift --create --debug
 sudo nano /etc/timeshift.json
 # изменить место для хранения образов в первой строке
 # sudo blkid
+
 sudo apt-get install nvidia-340
 nvidia-smi
 sudo systemctl set-default multi-user.target
+
 sudo apt install openssh-server
 ssh-copy-id -f c2h5oh@192.168.1.68 
+
 sudo apt install lm-sensors
 sudo sensors-detect
 sensors
+
 sudo nano /etc/systemd/system/wol.service
-#                    
+#------------                    
 [Unit]
 Description=Enable Wake-on-LAN
 
@@ -35,7 +39,7 @@ ExecStart=/sbin/ethtool -s 00:1d:60:17:5c:dc wol g
 
 [Install]
 WantedBy=basic.target
-#
+#-------------
 sudo systemctl daemon-reload
 sudo systemctl enable wol.service
 
@@ -63,6 +67,15 @@ sudo ufw allow 50286/tcp
 sudo ufw enable
 sudo ufw allow http
 sudo ufw allow https
+
+curl -fsSL https://get.docker.com -o get-docker.sh
+sudo sh get-docker.sh
+sudo groupadd docker
+sudo usermod -aG docker $USER
+newgrp docker
+docker run hello-world
+sudo systemctl enable docker.service
+sudo systemctl enable containerd.service
 ```
 
 

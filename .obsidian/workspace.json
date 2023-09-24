@@ -212,10 +212,10 @@
   },
   "active": "25e3e5a7866b92ac",
   "lastOpenFiles": [
-    "Linux/Firewall.md",
-    "RewersProxy/steps.md",
     "RewersProxy/Main.md",
+    "Linux/Firewall.md",
     "Linux/wake_on_lan.md",
+    "RewersProxy/steps.md",
     "Linux/ssh.md",
     "Linux/Настройки сервера.md",
     "Linux/disk_op.md",
