@@ -55,10 +55,11 @@
             "id": "25e3e5a7866b92ac",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "RewersProxy/steps.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -129,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RewersProxy/steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RewersProxy/steps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RewersProxy/steps.md"
+              }
             }
           },
           {
@@ -192,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +212,11 @@
   },
   "active": "25e3e5a7866b92ac",
   "lastOpenFiles": [
+    "Linux/ssh.md",
     "RewersProxy/steps.md",
+    "RewersProxy/Main.md",
+    "Linux/Настройки сервера.md",
+    "Linux/disk_op.md",
     "conflict-files-obsidian-git.md",
     "linux/wake_on_lan.md",
     "Work/Белка Диджитал/скрипт.md",
@@ -217,7 +226,6 @@
     "WSGI",
     "VirtualBox/Без названия.md",
     "VirtualBox",
-    "RewersProxy/Main.md",
     "RewersProxy",
     "Python/python_roadmap_processing_/core/Память/Представление объекта в памяти.md",
     "Python/python_roadmap_processing_/core/Память/PyObject.md",
@@ -241,9 +249,6 @@
     "Python/python_roadmap_processing_/ООП",
     "Python/python_roadmap_processing_/График.md",
     "Python/libs/Без названия.md",
-    "Python/libs/everyday_web.md",
-    "Python/libs/Loguru.md",
-    "Python/core/Логирование.md",
     "Docker/docker_practic/Pasted image 20230830210357.png",
     "Docker/docker practic/Pasted image 20230830210357.png",
     "Docker/Docker Practic/Pasted image 20230830210357.png",
