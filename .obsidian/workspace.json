@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/cron.md",
+                "file": "RewersProxy/steps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/cron.md",
+                "file": "RewersProxy/steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/cron.md",
+                "file": "RewersProxy/steps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/cron.md"
+                "file": "RewersProxy/steps.md"
               }
             }
           },
@@ -167,12 +167,21 @@
   },
   "active": "d4bbc3dd5a668b4f",
   "lastOpenFiles": [
+    "Linux/Firewall.md",
+    "RewersProxy/steps.md",
+    "Linux/Настройки сервера.md",
     "Linux/wake_on_lan.md",
-    "RewersProxy/Main.md",
-    "Linux/port.md",
-    "Linux/cron.md",
-    "Linux/пользователи и права.md",
+    "Без названия",
     "Linux/ssh.md",
+    "RewersProxy/Main.md",
+    "Linux/cron.md",
+    "Linux/bash.md",
+    "Linux/Статистика.md",
+    "Linux/приостановка перезапуск.md",
+    "Linux/пользователи и права.md",
+    "Linux/Переменные.md",
+    "Linux/Сети.md",
+    "Linux/port.md",
     "Docker/docker_practic/Docker Compose-install.md",
     "Flask/tutorial_from_docs.md",
     "Docker/docker_learn/3 docker-compose_base.md",
@@ -188,16 +197,8 @@
     "Flask/ссылки.md",
     "WSGI",
     "VirtualBox/Без названия.md",
-    "TASK.md",
-    "Граффик.md",
     "SQL/Posgres/Pasted image 20230831105432.png",
     "Pasted image 20230830210505.png",
-    "SQL/Posgres/templates.md",
-    "SQL/Posgres/View.md",
-    "SQL/Posgres/everyday_postgres.md",
-    "Posgres/PSQL everyday.md",
-    "Linux/Настройки сервера.md",
-    "Rest API/Rest API.md",
     "SQL",
     "Flask",
     "VirtualBox",
@@ -205,7 +206,6 @@
     "Python/libs/http/Заголовки запроса",
     "Rest API/flask_api",
     "Docker/docker_practic",
-    "Docker/docker_learn",
     "Docker/docker practic/Pasted image 20230830210357.png",
     "Python/python_roadmap_processing_/карта.png",
     "Pasted image 20230824121316.png"

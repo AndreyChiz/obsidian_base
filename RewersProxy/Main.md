@@ -7,6 +7,12 @@ doc  https://docs.docker.com/engine/install/ubuntu/
 ````console
 curl -fsSL https://get.docker.com -o get-docker.sh
 sudo sh get-docker.sh
+sudo groupadd docker
+sudo usermod -aG docker $USER
+newgrp docker
+docker run hello-world
+sudo systemctl enable docker.service
+sudo systemctl enable containerd.service
 ````
 
 ##### Docker Compose
@@ -19,15 +25,8 @@ docker-compose version
 
 ```shel
 sudo apt install python3-pip
-sudo groupadd docker
-sudo usermod -aG docker $USER
-newgrp docker
-docker run hello-world
-sudo systemctl enable docker.service
-sudo systemctl enable containerd.service
 ```
 
-Проверка
-```sheldig achiz.duckdns.org 
-dig achiz.duckdns.org 
-```
+##### Ngnix proxy manager
+
+
