@@ -57,6 +57,12 @@ sudo systemctl start enable-wol.service
 sudo apt install wakeonlan
 wakeonlan 00:1d:60:17:5c:dc
 
+sudo apt update
+sudo apt install ufw
+sudo ufw allow 50286/tcp
+sudo ufw enable
+sudo ufw allow http
+sudo ufw allow https
 ```
 
 
