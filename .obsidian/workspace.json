@@ -42,18 +42,6 @@
             }
           },
           {
-            "id": "69bc00ae37bc1c51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/пользователи и права.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "34bb69f2cb6d92de",
             "type": "leaf",
             "state": {
@@ -64,31 +52,19 @@
             }
           },
           {
-            "id": "b4b8c4580aa0424e",
+            "id": "25e3e5a7866b92ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/wake_on_lan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66bdf09cfdadd71a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/python_roadmap_processing_/core/Память/PyObject.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/wake_on_lan.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/wake_on_lan.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/wake_on_lan.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -221,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,45 +210,46 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b4b8c4580aa0424e",
+  "active": "25e3e5a7866b92ac",
   "lastOpenFiles": [
-    "linux/Настройки сервера.md",
-    "linux/ssh.md",
-    "linux/disk_op.md",
-    "linux/пользователи и права.md",
     "linux/wake_on_lan.md",
-    "linux/bash.md",
-    "linux/приостановка перезапуск.md",
-    "Граффик.md",
-    "linux/text.md",
     "conflict-files-obsidian-git.md",
-    "vbox/Без названия.md",
-    "vbox",
-    "python/libs/Без названия.md",
-    "python/libs/http/Заголовки запроса/Accept.md",
-    "python/libs/http/куки.md",
-    "python/libs/http/Протокол HTTP.md",
-    "python/libs/http/Заголовки запроса",
-    "python/libs/http",
-    "python/libs/everyday_web.md",
-    "python/libs/aio/asyncaio/Общее.md",
-    "python/libs/aio/asyncaio/gather().md",
-    "python/libs/aio/asyncaio",
-    "python/libs/aio",
-    "python/Docs.md",
-    "SQL/templates.md",
-    "SQL",
-    "Posgres/everyday_postgres.md",
-    "Posgres/PSQL everyday.md",
-    "Flask/Без названия.md",
-    "Flask",
-    "Docker/eweryday_docker.md",
-    "Docker/docker_practic/Без названия.md",
-    "Docker/docker_practic/Docker-install.md",
-    "python/web/http/Заголовки запроса",
-    "Rest API/flask_api",
+    "Work/Белка Диджитал/скрипт.md",
+    "Work/Белка Диджитал",
+    "Work",
+    "WSGI/Что.md",
+    "WSGI",
+    "VirtualBox/Без названия.md",
+    "VirtualBox",
+    "RewersProxy/steps.md",
+    "RewersProxy/Main.md",
+    "RewersProxy",
+    "Python/python_roadmap_processing_/core/Память/Представление объекта в памяти.md",
+    "Python/python_roadmap_processing_/core/Память/PyObject.md",
+    "Python/libs/http/Заголовки запроса/Accept.md",
+    "Python/libs/aio/asyncaio/Общее.md",
+    "Python/libs/aio/asyncaio/gather().md",
+    "Python/python_roadmap_processing_/типы данных/String.md",
+    "Python/python_roadmap_processing_/ООП/Шаблоны проектирования.md",
+    "Python/python_roadmap_processing_/ООП/Фабричный метод.md",
+    "Python/python_roadmap_processing_/ООП/Патерн одиночка.md",
+    "Python/python_roadmap_processing_/ООП/Инкапсуляция _, __.md",
+    "Python/python_roadmap_processing_/ООП/Абстрактные методы, классы..md",
+    "Python/python_roadmap_processing_/core/Память",
+    "Python/python_roadmap_processing_/core/Нейминг.md",
+    "Python/libs/http/куки.md",
+    "Python/libs/http/Протокол HTTP.md",
+    "Python/libs/http/Заголовки запроса",
+    "Python/libs/aio/asyncaio",
+    "Python/python_roadmap_processing_/типы данных",
+    "Python/python_roadmap_processing_/карта.png",
+    "Python/python_roadmap_processing_/ООП",
+    "Python/python_roadmap_processing_/График.md",
+    "Python/libs/Без названия.md",
+    "Python/libs/everyday_web.md",
+    "Python/libs/Loguru.md",
+    "Python/core/Логирование.md",
     "Docker/docker_practic/Pasted image 20230830210357.png",
-    "Docker/docker_practic",
     "Docker/docker practic/Pasted image 20230830210357.png",
     "Docker/Docker Practic/Pasted image 20230830210357.png",
     "Pasted image 20230831105432.png",

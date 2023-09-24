@@ -31,3 +31,17 @@ sudo systemctl enable wol.service
 ```shell
 enp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST> mtu 1500 inet 192.168.1.68 netmask 255.255.255.0 broadcast 192.168.1.255 inet6 fe80::21d:60ff:fe17:5cdc prefixlen 64 scopeid 0x20<link> ether 00:1d:60:17:5c:dc txqueuelen 1000 (Ethernet) RX packets 925 bytes 276195 (276.1 KB) RX errors 0 dropped 0 overruns 0 frame 0 TX packets 670 bytes 106037 (106.0 KB) TX errors 0 dropped 0 overruns 0 carrier 0 collisions 0
 ```
+
+`curl ifconfig.me`: отображает публичный адрес
+https://www.duckdns.org : 
+1. регимся (через github)
+2. создаем имя хоста
+3. вверху жмём install
+4. выбираем linux.cron
+5. внизу выбираем созданное ранее имя
+6. далее по инструкции
+```shell
+mkdir duckdns
+cd duckdns
+vi duck.sh
+```

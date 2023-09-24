@@ -43,9 +43,13 @@ ssh-keygen -t rsa
 - Копирование открытого ключа на удаленный сервер
 	на клиенте
 ```sh 
+<<<<<<< HEAD:Linux/ssh.md
+.bashssh-copy-id -i ~/.ssh/id_rsa.pub c2h5oh@95.213.154.235
+=======
 ssh-copy-id -i ~/.ssh/id_rsa.pub c2h5oh@95.213.154.235
 ssh-copy-id -p 050286 c2h5oh@192.168.1.68
 
+>>>>>>> origin/main:linux/ssh.md
 ```
 _на сервере должен быть пользователь и каталог пользователя_
 #### Операции

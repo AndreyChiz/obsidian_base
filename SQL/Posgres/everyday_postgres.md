@@ -2,6 +2,7 @@
 `sudo su - user_name`
 `psql -h <hostname> -U <username> -d <database_name>`
 `postgres@d4d53467f893:~/data$ psql iam -d belka`
+`sudo -u postgres psql -c "SELECT version()"`
 ##### Информация
 1. `\dt`: Отображает список всех таблиц в текущей базе данных. 
 2. `\dt *.*;`: общее
