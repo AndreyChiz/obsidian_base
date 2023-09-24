@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RewersProxy/Main.md",
+                "file": "RewersProxy/steps.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RewersProxy/Main.md",
+                "file": "RewersProxy/steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RewersProxy/Main.md",
+                "file": "RewersProxy/steps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RewersProxy/Main.md"
+                "file": "RewersProxy/steps.md"
               }
             }
           },
@@ -212,8 +212,8 @@
   },
   "active": "25e3e5a7866b92ac",
   "lastOpenFiles": [
-    "RewersProxy/steps.md",
     "RewersProxy/Main.md",
+    "RewersProxy/steps.md",
     "Linux/пользователи и права.md",
     "Linux/Firewall.md",
     "Linux/wake_on_lan.md",
