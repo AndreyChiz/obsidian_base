@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/ssh.md",
+                "file": "linux/wake_on_lan.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/ssh.md",
+                "file": "linux/wake_on_lan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/ssh.md",
+                "file": "linux/wake_on_lan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/ssh.md"
+                "file": "linux/wake_on_lan.md"
               }
             }
           },
@@ -237,12 +237,12 @@
   "active": "b4b8c4580aa0424e",
   "lastOpenFiles": [
     "linux/Настройки сервера.md",
+    "linux/ssh.md",
     "linux/disk_op.md",
     "linux/пользователи и права.md",
     "linux/wake_on_lan.md",
     "linux/bash.md",
     "linux/приостановка перезапуск.md",
-    "linux/ssh.md",
     "Граффик.md",
     "linux/text.md",
     "conflict-files-obsidian-git.md",
