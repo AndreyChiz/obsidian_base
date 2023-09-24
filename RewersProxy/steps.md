@@ -24,9 +24,40 @@ ssh-copy-id -f c2h5oh@192.168.1.68
 sudo apt install lm-sensors
 sudo sensors-detect
 sensors
+sudo nano /etc/systemd/system/wol.service
+#                    
+[Unit]
+Description=Enable Wake-on-LAN
 
+[Service]
+Type=oneshot
+ExecStart=/sbin/ethtool -s 00:1d:60:17:5c:dc wol g
 
+[Install]
+WantedBy=basic.target
+#
+sudo systemctl daemon-reload
+sudo systemctl enable wol.service
 
+sudo nano /etc/systemd/system/enable-wol.service
+#-------------
+[Unit]
+Description=Enable Wake-on-LAN for enp3s0
+
+[Service]
+Type=oneshot
+ExecStart=/sbin/ethtool -s enp3s0 wol g
+
+[Install]
+WantedBy=multi-user.target
+#-------------
+sudo systemctl daemon-reload
+sudo systemctl enable enable-wol.service
+sudo systemctl start enable-wol.service
+sudo apt install wakeonlan
+wakeonlan 00:1d:60:17:5c:dc
+
+```
 
 
 
