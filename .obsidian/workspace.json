@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "Linux/disk_op.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "Linux/disk_op.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "Linux/disk_op.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RewersProxy/steps.md"
+                "file": "Linux/disk_op.md"
               }
             }
           },
@@ -167,18 +167,20 @@
   },
   "active": "d4bbc3dd5a668b4f",
   "lastOpenFiles": [
-    "Linux/Firewall.md",
-    "RewersProxy/steps.md",
-    "Linux/Настройки сервера.md",
-    "Linux/wake_on_lan.md",
-    "Без названия",
     "Linux/ssh.md",
+    "RewersProxy/steps.md",
+    "Linux/wake_on_lan.md",
     "RewersProxy/Main.md",
-    "Linux/cron.md",
+    "Linux/disk_op.md",
     "Linux/bash.md",
+    "linux/port.md",
+    "Linux/пользователи и права.md",
+    "Linux/Firewall.md",
+    "Linux/Настройки сервера.md",
+    "Без названия",
+    "Linux/cron.md",
     "Linux/Статистика.md",
     "Linux/приостановка перезапуск.md",
-    "Linux/пользователи и права.md",
     "Linux/Переменные.md",
     "Linux/Сети.md",
     "Linux/port.md",
@@ -188,9 +190,7 @@
     "Docker/eweryday_docker.md",
     "RewersProxy",
     "conflict-files-obsidian-git.md",
-    "linux/port.md",
     "linux",
-    "Linux/disk_op.md",
     "SQL/Общее.md",
     "Linux/keyboard_.md",
     "WSGI/Что.md",
