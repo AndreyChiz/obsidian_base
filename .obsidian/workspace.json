@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "RewersProxy/Main.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "RewersProxy/Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "RewersProxy/Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RewersProxy/steps.md"
+                "file": "RewersProxy/Main.md"
               }
             }
           },
@@ -212,10 +212,11 @@
   },
   "active": "25e3e5a7866b92ac",
   "lastOpenFiles": [
+    "RewersProxy/steps.md",
     "RewersProxy/Main.md",
+    "Linux/пользователи и права.md",
     "Linux/Firewall.md",
     "Linux/wake_on_lan.md",
-    "RewersProxy/steps.md",
     "Linux/ssh.md",
     "Linux/Настройки сервера.md",
     "Linux/disk_op.md",
@@ -243,7 +244,6 @@
     "Python/python_roadmap_processing_/core/Память",
     "Python/python_roadmap_processing_/core/Нейминг.md",
     "Python/libs/http/куки.md",
-    "Python/libs/http/Протокол HTTP.md",
     "Python/libs/http/Заголовки запроса",
     "Python/libs/aio/asyncaio",
     "Python/python_roadmap_processing_/типы данных",
