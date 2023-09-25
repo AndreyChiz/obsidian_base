@@ -14,7 +14,7 @@
               "type": "diff-view",
               "state": {
                 "file": ".obsidian/workspace.json",
-                "staged": true
+                "staged": false
               }
             }
           }
@@ -162,13 +162,13 @@
   },
   "active": "d4bbc3dd5a668b4f",
   "lastOpenFiles": [
+    "Linux/disk_op.md",
     "conflict-files-obsidian-git.md",
     "Linux/wake_on_lan.md",
     "Linux/port.md",
     "RewersProxy/Main.md",
     "RewersProxy/steps.md",
     "Linux/Firewall.md",
-    "Linux/disk_op.md",
     "Linux/ssh.md",
     "Linux/bash.md",
     "linux/port.md",
