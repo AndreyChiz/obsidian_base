@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c7df0289a5677d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/wake_on_lan.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/wake_on_lan.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/wake_on_lan.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -165,15 +178,16 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "d4bbc3dd5a668b4f",
+  "active": "0669cdb1bd968095",
   "lastOpenFiles": [
+    "Linux/wake_on_lan.md",
+    "conflict-files-obsidian-git.md",
     "Linux/port.md",
     "RewersProxy/Main.md",
     "RewersProxy/steps.md",
     "Linux/Firewall.md",
     "Linux/disk_op.md",
     "Linux/ssh.md",
-    "Linux/wake_on_lan.md",
     "Linux/bash.md",
     "linux/port.md",
     "Linux/пользователи и права.md",
@@ -189,7 +203,6 @@
     "Docker/docker_learn/3 docker-compose_base.md",
     "Docker/eweryday_docker.md",
     "RewersProxy",
-    "conflict-files-obsidian-git.md",
     "linux",
     "SQL/Общее.md",
     "Linux/keyboard_.md",
