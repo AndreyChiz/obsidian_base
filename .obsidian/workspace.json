@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "Linux/port.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "Linux/port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "Linux/port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RewersProxy/steps.md"
+                "file": "Linux/port.md"
               }
             }
           },
@@ -212,9 +212,10 @@
   },
   "active": "25e3e5a7866b92ac",
   "lastOpenFiles": [
+    "Linux/bash.md",
+    "RewersProxy/steps.md",
     "Linux/disk_op.md",
     "Linux/ssh.md",
-    "RewersProxy/steps.md",
     "Linux/wake_on_lan.md",
     "RewersProxy/Main.md",
     "Linux/port.md",
@@ -243,7 +244,6 @@
     "Python/python_roadmap_processing_/ООП/Инкапсуляция _, __.md",
     "Python/python_roadmap_processing_/ООП/Абстрактные методы, классы..md",
     "Python/python_roadmap_processing_/core/Память",
-    "Python/python_roadmap_processing_/core/Нейминг.md",
     "Python/libs/http/Заголовки запроса",
     "Python/libs/aio/asyncaio",
     "Python/python_roadmap_processing_/типы данных",
