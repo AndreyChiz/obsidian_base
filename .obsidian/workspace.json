@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "903ef1f45d35acac",
+        "id": "c6ebbd8de9c8cb5b",
         "type": "tabs",
         "children": [
           {
-            "id": "39b985a5e16cfa6f",
+            "id": "d4bbc3dd5a668b4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Граффик.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a080a58cd75258e7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
-            "id": "92aae1a208b638de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/port.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34bb69f2cb6d92de",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "25e3e5a7866b92ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "Linux/wake_on_lan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "Linux/wake_on_lan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "Linux/wake_on_lan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RewersProxy/steps.md"
+                "file": "Linux/wake_on_lan.md"
               }
             }
           },
@@ -183,7 +138,7 @@
             }
           },
           {
-            "id": "e6ddec1b1e605a22",
+            "id": "be7e2d11f939b3a7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -197,64 +152,62 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "25e3e5a7866b92ac",
+  "active": "d4bbc3dd5a668b4f",
   "lastOpenFiles": [
+    "Linux/port.md",
     "RewersProxy/Main.md",
     "RewersProxy/steps.md",
-    "Linux/пользователи и права.md",
     "Linux/Firewall.md",
-    "Linux/wake_on_lan.md",
-    "Linux/ssh.md",
-    "Linux/Настройки сервера.md",
     "Linux/disk_op.md",
+    "Linux/ssh.md",
+    "Linux/wake_on_lan.md",
+    "Linux/bash.md",
+    "linux/port.md",
+    "Linux/пользователи и права.md",
+    "Linux/Настройки сервера.md",
+    "Без названия",
+    "Linux/cron.md",
+    "Linux/Статистика.md",
+    "Linux/приостановка перезапуск.md",
+    "Linux/Переменные.md",
+    "Linux/Сети.md",
+    "Docker/docker_practic/Docker Compose-install.md",
+    "Flask/tutorial_from_docs.md",
+    "Docker/docker_learn/3 docker-compose_base.md",
+    "Docker/eweryday_docker.md",
+    "RewersProxy",
     "conflict-files-obsidian-git.md",
-    "linux/wake_on_lan.md",
-    "Work/Белка Диджитал/скрипт.md",
-    "Work/Белка Диджитал",
-    "Work",
+    "linux",
+    "SQL/Общее.md",
+    "Linux/keyboard_.md",
     "WSGI/Что.md",
+    "Flask/ссылки.md",
     "WSGI",
     "VirtualBox/Без названия.md",
-    "VirtualBox",
-    "RewersProxy",
-    "Python/python_roadmap_processing_/core/Память/Представление объекта в памяти.md",
-    "Python/python_roadmap_processing_/core/Память/PyObject.md",
-    "Python/libs/http/Заголовки запроса/Accept.md",
-    "Python/libs/aio/asyncaio/Общее.md",
-    "Python/libs/aio/asyncaio/gather().md",
-    "Python/python_roadmap_processing_/типы данных/String.md",
-    "Python/python_roadmap_processing_/ООП/Шаблоны проектирования.md",
-    "Python/python_roadmap_processing_/ООП/Фабричный метод.md",
-    "Python/python_roadmap_processing_/ООП/Патерн одиночка.md",
-    "Python/python_roadmap_processing_/ООП/Инкапсуляция _, __.md",
-    "Python/python_roadmap_processing_/ООП/Абстрактные методы, классы..md",
-    "Python/python_roadmap_processing_/core/Память",
-    "Python/python_roadmap_processing_/core/Нейминг.md",
-    "Python/libs/http/куки.md",
-    "Python/libs/http/Заголовки запроса",
-    "Python/libs/aio/asyncaio",
-    "Python/python_roadmap_processing_/типы данных",
-    "Python/python_roadmap_processing_/карта.png",
-    "Python/python_roadmap_processing_/ООП",
-    "Docker/docker_practic/Pasted image 20230830210357.png",
-    "Docker/docker practic/Pasted image 20230830210357.png",
-    "Docker/Docker Practic/Pasted image 20230830210357.png",
-    "Pasted image 20230831105432.png",
+    "SQL/Posgres/Pasted image 20230831105432.png",
     "Pasted image 20230830210505.png",
-    "python/python_roadmap_processing_/карта.png",
+    "SQL",
+    "Flask",
+    "VirtualBox",
+    "Docker/docker_practic/Pasted image 20230830210357.png",
+    "Python/libs/http/Заголовки запроса",
+    "Rest API/flask_api",
+    "Docker/docker_practic",
+    "Docker/docker practic/Pasted image 20230830210357.png",
+    "Python/python_roadmap_processing_/карта.png",
     "Pasted image 20230824121316.png"
   ]
 }
