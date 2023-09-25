@@ -35,29 +35,16 @@ Description=Enable Wake-on-LAN
 
 [Service]
 Type=oneshot
-ExecStart=/sbin/ethtool -s 00:1d:60:17:5c:dc wol g
+ExecStart=/sbin/ethtool -s enp3s0 wol g
 
 [Install]
 WantedBy=basic.target
 #-------------
 sudo systemctl daemon-reload
 sudo systemctl enable wol.service
+sudo systemctl start
 
-sudo nano /etc/systemd/system/enable-wol.service
-#-------------
-[Unit]
-Description=Enable Wake-on-LAN for enp3s0
 
-[Service]
-Type=oneshot
-ExecStart=/sbin/ethtool -s enp3s0 wol g
-
-[Install]
-WantedBy=multi-user.target
-#-------------
-sudo systemctl daemon-reload
-sudo systemctl enable enable-wol.service
-sudo systemctl start enable-wol.service
 sudo apt install wakeonlan
 wakeonlan 00:1d:60:17:5c:dc
 
