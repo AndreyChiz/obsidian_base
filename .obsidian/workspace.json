@@ -57,14 +57,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "Linux/Firewall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa196fae4421d56f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
+            "id": "4ceaf71f1afb6a21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "local.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "local.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "local.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RewersProxy/steps.md"
+                "file": "local.md"
               }
             }
           },
@@ -210,17 +232,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "25e3e5a7866b92ac",
+  "active": "4ceaf71f1afb6a21",
   "lastOpenFiles": [
-    "Linux/port.md",
+    "local.md",
     "RewersProxy/steps.md",
-    "Linux/wake_on_lan.md",
+    "Linux/Firewall.md",
+    "Docker/eweryday_docker.md",
+    "Docker/docker_learn/3 docker-compose_base.md",
+    "Docker/docker_practic/Docker PGadmin.md",
+    "Docker/docker_practic/Docker Compose-install.md",
     "Linux/ssh.md",
+    "RewersProxy/Main.md",
+    "Linux/wake_on_lan.md",
+    "Linux/port.md",
     "Linux/bash.md",
     "Linux/disk_op.md",
-    "RewersProxy/Main.md",
     "Linux/пользователи и права.md",
-    "Linux/Firewall.md",
     "Linux/Настройки сервера.md",
     "conflict-files-obsidian-git.md",
     "linux/wake_on_lan.md",
@@ -238,11 +265,6 @@
     "Python/libs/aio/asyncaio/Общее.md",
     "Python/libs/aio/asyncaio/gather().md",
     "Python/python_roadmap_processing_/типы данных/String.md",
-    "Python/python_roadmap_processing_/ООП/Шаблоны проектирования.md",
-    "Python/python_roadmap_processing_/ООП/Фабричный метод.md",
-    "Python/python_roadmap_processing_/ООП/Патерн одиночка.md",
-    "Python/python_roadmap_processing_/ООП/Инкапсуляция _, __.md",
-    "Python/python_roadmap_processing_/ООП/Абстрактные методы, классы..md",
     "Python/python_roadmap_processing_/core/Память",
     "Python/libs/http/Заголовки запроса",
     "Python/libs/aio/asyncaio",

@@ -74,5 +74,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 
 
+```bash
+docker run -d --network=my_network -p 8880:80 -p 8443:443 -p 8881:81 your_image
 
 ```
