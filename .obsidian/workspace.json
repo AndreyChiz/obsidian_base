@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15c6e3d3f8c7b8ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RewersProxy/steps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,13 +190,14 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "d870ec49c30c3134",
+  "active": "15c6e3d3f8c7b8ab",
   "lastOpenFiles": [
     "Linux/wake_on_lan.md",
+    "conflict-files-obsidian-git.md",
     "RewersProxy/steps.md",
+    "local.md",
     "Linux/port.md",
     "Linux/disk_op.md",
-    "conflict-files-obsidian-git.md",
     "RewersProxy/Main.md",
     "Linux/Firewall.md",
     "Linux/ssh.md",
@@ -209,7 +222,6 @@
     "WSGI/Что.md",
     "Flask/ссылки.md",
     "WSGI",
-    "VirtualBox/Без названия.md",
     "SQL/Posgres/Pasted image 20230831105432.png",
     "Pasted image 20230830210505.png",
     "SQL",
