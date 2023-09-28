@@ -35,10 +35,11 @@
             "id": "15c6e3d3f8c7b8ab",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "Linux/bash.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -109,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/bash.md"
+              }
             }
           },
           {
@@ -187,8 +192,8 @@
   },
   "active": "15c6e3d3f8c7b8ab",
   "lastOpenFiles": [
-    "RewersProxy/steps.md",
     "Linux/wake_on_lan.md",
+    "RewersProxy/steps.md",
     "conflict-files-obsidian-git.md",
     "local.md",
     "Linux/port.md",
