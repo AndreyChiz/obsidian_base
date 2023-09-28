@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/bash.md",
+                "file": "Linux/wake_on_lan.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/bash.md",
+                "file": "Linux/wake_on_lan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/bash.md",
+                "file": "Linux/wake_on_lan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/bash.md"
+                "file": "Linux/wake_on_lan.md"
               }
             }
           },
@@ -190,8 +190,9 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "15c6e3d3f8c7b8ab",
+  "active": "38095d20efd7dd25",
   "lastOpenFiles": [
+    "Linux/bash.md",
     "Linux/wake_on_lan.md",
     "RewersProxy/steps.md",
     "conflict-files-obsidian-git.md",
@@ -201,7 +202,6 @@
     "RewersProxy/Main.md",
     "Linux/Firewall.md",
     "Linux/ssh.md",
-    "Linux/bash.md",
     "linux/port.md",
     "Linux/пользователи и права.md",
     "Linux/Настройки сервера.md",

@@ -1,4 +1,18 @@
 ### Настройка
+
+выставил в биосе режим s3
+открыл в nat 9 порт на роутере
+
+```bash 
+.bashrc
+alias my_server_connect='ssh -p 050286 c2h5oh@192.168.1.68'
+alias my_server_internet_connect='ssh -p 050286 c2h5oh@89.179.72.30'
+alias my_server_up='wakeonlan -i 192.168.1.68 00:1d:60:17:5c:dc'
+alias my_server_local_up='wakeonlan  00:1d:60:17:5c:dc'
+alias my_server_internet_up='wakeonlan -i 89.179.72.30 00:1d:60:17:5c:dc'
+```
+
+
 #### Сервер
 
 `sudo apt update sudo apt install ethtool`
