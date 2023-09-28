@@ -12,7 +12,7 @@ Description=Enable Wake-on-LAN
 
 [Service]
 Type=oneshot
-ExecStart=/sbin/ethtool -s enp3s0 wol p
+ExecStart=/sbin/ethtool -s enp3s0 wol g
 
 [Install]
 WantedBy=basic.target
@@ -42,3 +42,20 @@ sudo systemctl enable wol.service
 `sudo apt install wakeonlan`
 `wakeonlan 00:1d:60:17:5c:dc`
 
+``` shell
+ethtool <имя_сетевого_интерфейса> | grep Wake-on
+
+Supports Wake-on: pumbg
+	Wake-on: g
+	Current message level: 0x00000033 (51)
+			       drv probe ifdown ifup
+	Link detected: yes
+```
+
+Символы после "Supports Wake-on" и "Wake-on" предоставляют информацию о режимах поддержки WOL. В данном случае:
+
+- `p` означает, что поддерживается режим WOL с использованием пакетов электропитания (Power Management).
+- `u` означает, что поддерживается режим WOL по событиям USB (USB Wake-up).
+- `m` означает, что поддерживается режим WOL при изменении состояния сетевого кабеля (Magic Packet).
+- `b` означает, что поддерживается режим WOL с использованием широковещательных пакетов (Broadcast).
+- `g` означает поддержку гибридного режима WOL, который объединяет различные способы активации WOL.

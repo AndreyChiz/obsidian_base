@@ -11,14 +11,28 @@
             "id": "d4bbc3dd5a668b4f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Linux/wake_on_lan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d870ec49c30c3134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RewersProxy/steps.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RewersProxy/steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RewersProxy/steps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RewersProxy/steps.md"
+              }
             }
           },
           {
@@ -160,14 +178,14 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "d4bbc3dd5a668b4f",
+  "active": "d870ec49c30c3134",
   "lastOpenFiles": [
+    "Linux/wake_on_lan.md",
+    "RewersProxy/steps.md",
+    "Linux/port.md",
     "Linux/disk_op.md",
     "conflict-files-obsidian-git.md",
-    "Linux/wake_on_lan.md",
-    "Linux/port.md",
     "RewersProxy/Main.md",
-    "RewersProxy/steps.md",
     "Linux/Firewall.md",
     "Linux/ssh.md",
     "Linux/bash.md",
