@@ -44,7 +44,10 @@ sudo systemctl daemon-reload
 sudo systemctl enable wol.service
 sudo systemctl start
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> origin/main
 sudo apt install wakeonlan
 wakeonlan 00:1d:60:17:5c:dc
 
