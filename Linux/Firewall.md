@@ -23,4 +23,7 @@ sudo ufw status verbose : какими сетями управляет
 
 ```
 
+
+/etc/ufw/applications   файлы конфигурации приложений
+
 sudo ufw default deny incoming   блокировки входящего трафика по умолчанию:

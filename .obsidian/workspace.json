@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portainer/everyday_portainer.md",
+                "file": "Linux/Firewall.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portainer/everyday_portainer.md",
+                "file": "Linux/Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portainer/everyday_portainer.md",
+                "file": "Linux/Firewall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portainer/everyday_portainer.md"
+                "file": "Linux/Firewall.md"
               }
             }
           },
@@ -246,8 +246,8 @@
   },
   "active": "4f463c2dd235bc78",
   "lastOpenFiles": [
-    "Docker/docker_learn/1 docker_base.md",
     "Portainer/everyday_portainer.md",
+    "Docker/docker_learn/1 docker_base.md",
     "Portainer",
     "conflict-files-obsidian-git.md",
     "Docker-compose/docker-compose eweryday.md",
