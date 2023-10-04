@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NGINX/everyday_nginx.md",
+                "file": "Linux/Статистика.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NGINX/everyday_nginx.md",
+                "file": "Linux/Статистика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NGINX/everyday_nginx.md",
+                "file": "Linux/Статистика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NGINX/everyday_nginx.md"
+                "file": "Linux/Статистика.md"
               }
             }
           },
@@ -165,11 +165,15 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "38095d20efd7dd25",
+  "active": "494b80d527793493",
   "lastOpenFiles": [
+    "Linux/bash.md",
+    "Linux/curl.md",
+    "Linux/port.md",
+    "Linux/пользователи и права.md",
+    "NGINX/everyday_nginx.md",
     "Linux/folders.md",
     "linux/port.md",
-    "NGINX/everyday_nginx.md",
     "HTTP/evryday_HTTP.md",
     "HTTP",
     "Без названия.md",
@@ -192,11 +196,7 @@
     "Linux/ssh.md",
     "RewersProxy/Main.md",
     "Linux/wake_on_lan.md",
-    "Linux/port.md",
-    "Linux/bash.md",
     "Linux/disk_op.md",
-    "Linux/пользователи и права.md",
-    "Linux/Настройки сервера.md",
     "Work/Белка Диджитал",
     "Work",
     "WSGI",

@@ -1,4 +1,4 @@
-8/13.1
+`ss -ntlp`: что слушает порт
 `sudo lsof -i :5432`: что использует данный
 `nc -zv 192.168.1.100 80`: проверить доступность порта не соединяться
 
@@ -15,9 +15,6 @@
 
 `sudo tcpdump -i enp3s0 -nn -X udp port 9`
 `sudo tcpdump -i enp3s0 -nn -X tcp port 9`
-
-
-
 
 `sudo socat UDP-LISTEN:9 -`
 
