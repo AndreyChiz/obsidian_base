@@ -8,97 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39b985a5e16cfa6f",
+            "id": "494b80d527793493",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Граффик.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a080a58cd75258e7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
-            "id": "92aae1a208b638de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/port.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34bb69f2cb6d92de",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "25e3e5a7866b92ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Firewall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa196fae4421d56f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "4ceaf71f1afb6a21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/docker_practic/Docker Python-Flask.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f463c2dd235bc78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Firewall.md",
+                "file": "NGINX/everyday_nginx.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Firewall.md",
+                "file": "NGINX/everyday_nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Firewall.md",
+                "file": "NGINX/everyday_nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Firewall.md"
+                "file": "NGINX/everyday_nginx.md"
               }
             }
           },
@@ -244,8 +165,16 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "4f463c2dd235bc78",
+  "active": "38095d20efd7dd25",
   "lastOpenFiles": [
+    "Linux/folders.md",
+    "linux/port.md",
+    "NGINX/everyday_nginx.md",
+    "HTTP/evryday_HTTP.md",
+    "HTTP",
+    "Без названия.md",
+    "Linux/Firewall.md",
+    "NGINX",
     "Portainer/everyday_portainer.md",
     "Docker/docker_learn/1 docker_base.md",
     "Portainer",
@@ -257,7 +186,6 @@
     "Docker/docker_learn/3 docker-compose_base.md",
     "local.md",
     "RewersProxy/steps.md",
-    "Linux/Firewall.md",
     "Docker/eweryday_docker.md",
     "Docker/docker_practic/Docker PGadmin.md",
     "Docker/docker_practic/Docker Compose-install.md",
@@ -269,19 +197,12 @@
     "Linux/disk_op.md",
     "Linux/пользователи и права.md",
     "Linux/Настройки сервера.md",
-    "linux/wake_on_lan.md",
-    "Work/Белка Диджитал/скрипт.md",
     "Work/Белка Диджитал",
     "Work",
-    "WSGI/Что.md",
     "WSGI",
-    "VirtualBox/Без названия.md",
     "VirtualBox",
     "RewersProxy",
-    "Python/python_roadmap_processing_/core/Память/Представление объекта в памяти.md",
     "Python/python_roadmap_processing_/core/Память",
-    "Python/libs/http/Заголовки запроса",
-    "Python/libs/aio/asyncaio",
     "Python/python_roadmap_processing_/карта.png",
     "Docker/docker_practic/Pasted image 20230830210357.png",
     "Docker/docker practic/Pasted image 20230830210357.png",
