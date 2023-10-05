@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Статистика.md",
+                "file": "c2h5oh.ddns.net.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Статистика.md",
+                "file": "c2h5oh.ddns.net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Статистика.md",
+                "file": "c2h5oh.ddns.net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Статистика.md"
+                "file": "c2h5oh.ddns.net.md"
               }
             }
           },
@@ -167,16 +167,18 @@
   },
   "active": "494b80d527793493",
   "lastOpenFiles": [
+    "NGINX/everyday_nginx.md",
+    "Linux/пользователи и права.md",
+    "Linux/ssh.md",
+    "Linux/Статистика.md",
     "Linux/bash.md",
     "Linux/curl.md",
     "Linux/port.md",
-    "Linux/пользователи и права.md",
-    "NGINX/everyday_nginx.md",
     "Linux/folders.md",
     "linux/port.md",
     "HTTP/evryday_HTTP.md",
     "HTTP",
-    "Без названия.md",
+    "c2h5oh.ddns.net.md",
     "Linux/Firewall.md",
     "NGINX",
     "Portainer/everyday_portainer.md",
@@ -193,10 +195,8 @@
     "Docker/eweryday_docker.md",
     "Docker/docker_practic/Docker PGadmin.md",
     "Docker/docker_practic/Docker Compose-install.md",
-    "Linux/ssh.md",
     "RewersProxy/Main.md",
     "Linux/wake_on_lan.md",
-    "Linux/disk_op.md",
     "Work/Белка Диджитал",
     "Work",
     "WSGI",
