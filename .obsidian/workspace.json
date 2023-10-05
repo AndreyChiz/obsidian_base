@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Firewall.md",
+                "file": "c2h5oh.ddns.net.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1de598e240647d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servers/UP tutorial.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Firewall.md",
+                "file": "Servers/UP tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Firewall.md",
+                "file": "Servers/UP tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Firewall.md"
+                "file": "Servers/UP tutorial.md"
               }
             }
           },
@@ -165,9 +178,14 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "494b80d527793493",
+  "active": "1de598e240647d35",
   "lastOpenFiles": [
+    "Без названия.md",
+    "Servers/UP tutorial.md",
     "c2h5oh.ddns.net.md",
+    "Servers",
+    "Python/Сборка из исходников.md",
+    "Linux/Firewall.md",
     "NGINX/everyday_nginx.md",
     "Linux/пользователи и права.md",
     "Linux/ssh.md",
@@ -179,7 +197,6 @@
     "linux/port.md",
     "HTTP/evryday_HTTP.md",
     "HTTP",
-    "Linux/Firewall.md",
     "NGINX",
     "Portainer/everyday_portainer.md",
     "Docker/docker_learn/1 docker_base.md",
@@ -194,15 +211,11 @@
     "RewersProxy/steps.md",
     "Docker/eweryday_docker.md",
     "Docker/docker_practic/Docker PGadmin.md",
-    "Docker/docker_practic/Docker Compose-install.md",
-    "RewersProxy/Main.md",
-    "Linux/wake_on_lan.md",
     "Work/Белка Диджитал",
     "Work",
     "WSGI",
     "VirtualBox",
     "RewersProxy",
-    "Python/python_roadmap_processing_/core/Память",
     "Python/python_roadmap_processing_/карта.png",
     "Docker/docker_practic/Pasted image 20230830210357.png",
     "Docker/docker practic/Pasted image 20230830210357.png",
