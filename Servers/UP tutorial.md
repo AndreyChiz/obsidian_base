@@ -64,6 +64,14 @@ make -j8 ; \
 sudo make altinstall
 ```
 
+.bashrc
+```.bashrc
+export VIRTUALENVWRAPPER_PYTHON="/home/c2h5oh/.python/bin/python3.12"
+export PATH=$PATH:/home/c2h5oh/.python/bin
+
+```
+
+
 Now python3.7 in `/home/www/.python/bin/python3.7`. Update pip:
 
 ```
