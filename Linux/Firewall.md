@@ -1,6 +1,6 @@
 ```bash
 
-sudo ufw default deny incoming
+
 
 sudo apt update
 sudo apt install ufw
@@ -20,10 +20,32 @@ sudo ufw reload
 
 sudo ufw status verbose : какими сетями управляет
 
-
+sudo ufw app list
+sudo ufw default deny incoming
 ```
 
 
-/etc/ufw/applications   файлы конфигурации приложений
+`cd /etc/ufw/applications.d`:   файлы конфигурации приложений
+`sudo ufw  allow 'nginx Full'`: пример
 
-sudo ufw default deny incoming   блокировки входящего трафика по умолчанию:
+
+пример файла
+```nginx
+[Nginx HTTP]
+title=Web Server (Nginx, HTTP)
+description=Small, but very powerful and efficient web server
+ports=80/tcp
+
+[Nginx HTTPS]
+title=Web Server (Nginx, HTTPS)
+description=Small, but very powerful and efficient web server
+ports=443/tcp
+
+[Nginx Full]
+title=Web Server (Nginx, HTTP + HTTPS)
+description=Small, but very powerful and efficient web server
+ports=80,443/tcp
+
+
+
+```

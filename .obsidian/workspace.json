@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c2h5oh.ddns.net.md",
+                "file": "Linux/Firewall.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c2h5oh.ddns.net.md",
+                "file": "Linux/Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "c2h5oh.ddns.net.md",
+                "file": "Linux/Firewall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "c2h5oh.ddns.net.md"
+                "file": "Linux/Firewall.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "494b80d527793493",
   "lastOpenFiles": [
+    "c2h5oh.ddns.net.md",
     "NGINX/everyday_nginx.md",
     "Linux/пользователи и права.md",
     "Linux/ssh.md",
@@ -178,7 +179,6 @@
     "linux/port.md",
     "HTTP/evryday_HTTP.md",
     "HTTP",
-    "c2h5oh.ddns.net.md",
     "Linux/Firewall.md",
     "NGINX",
     "Portainer/everyday_portainer.md",
