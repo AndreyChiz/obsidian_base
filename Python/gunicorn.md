@@ -1,6 +1,6 @@
 wsgi.py
 ```python
-from app import app
+from app import app # импорт приложения из точки входа flask
 
 if __name__ == "__main__":
     app.run()

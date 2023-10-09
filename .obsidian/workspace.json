@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/gunicorn.md",
+                "file": "Linux/systemd - systemctl.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/gunicorn.md",
+                "file": "Linux/systemd - systemctl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/gunicorn.md",
+                "file": "Linux/systemd - systemctl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/gunicorn.md"
+                "file": "Linux/systemd - systemctl.md"
               }
             }
           },
@@ -180,8 +180,8 @@
   },
   "active": "1de598e240647d35",
   "lastOpenFiles": [
-    "Linux/systemctl.md",
     "Python/gunicorn.md",
+    "Linux/systemd - systemctl.md",
     "Linux/folders.md",
     "c2h5oh.ddns.net.md",
     "Linux/Настройки сервера.md",
