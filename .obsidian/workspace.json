@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servers/UP tutorial.md",
+                "file": "Linux/systemctl.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servers/UP tutorial.md",
+                "file": "Linux/systemctl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servers/UP tutorial.md",
+                "file": "Linux/systemctl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servers/UP tutorial.md"
+                "file": "Linux/systemctl.md"
               }
             }
           },
@@ -180,11 +180,15 @@
   },
   "active": "1de598e240647d35",
   "lastOpenFiles": [
+    "Linux/folders.md",
+    "Linux/systemctl.md",
+    "c2h5oh.ddns.net.md",
+    "Linux/Настройки сервера.md",
+    "Linux/Переменные.md",
+    "Servers/UP tutorial.md",
     "RewersProxy/Main.md",
     "RewersProxy/steps.md",
-    "Servers/UP tutorial.md",
     "Без названия.md",
-    "c2h5oh.ddns.net.md",
     "Servers",
     "Python/Сборка из исходников.md",
     "Linux/Firewall.md",
@@ -195,7 +199,6 @@
     "Linux/bash.md",
     "Linux/curl.md",
     "Linux/port.md",
-    "Linux/folders.md",
     "linux/port.md",
     "HTTP/evryday_HTTP.md",
     "HTTP",
@@ -208,9 +211,6 @@
     "Untitled.md",
     "Docker/docker_practic/Docker Python-Flask.md",
     "Docker-compose",
-    "Docker/docker_learn/3 docker-compose_base.md",
-    "local.md",
-    "Docker/eweryday_docker.md",
     "Work/Белка Диджитал",
     "Work",
     "WSGI",
