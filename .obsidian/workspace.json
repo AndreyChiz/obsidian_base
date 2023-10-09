@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/systemctl.md",
+                "file": "Python/gunicorn.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/systemctl.md",
+                "file": "Python/gunicorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/systemctl.md",
+                "file": "Python/gunicorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/systemctl.md"
+                "file": "Python/gunicorn.md"
               }
             }
           },
@@ -180,8 +180,9 @@
   },
   "active": "1de598e240647d35",
   "lastOpenFiles": [
-    "Linux/folders.md",
     "Linux/systemctl.md",
+    "Python/gunicorn.md",
+    "Linux/folders.md",
     "c2h5oh.ddns.net.md",
     "Linux/Настройки сервера.md",
     "Linux/Переменные.md",
@@ -209,7 +210,6 @@
     "conflict-files-obsidian-git.md",
     "Docker-compose/docker-compose eweryday.md",
     "Untitled.md",
-    "Docker/docker_practic/Docker Python-Flask.md",
     "Docker-compose",
     "Work/Белка Диджитал",
     "Work",
