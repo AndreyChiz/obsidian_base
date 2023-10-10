@@ -4,6 +4,17 @@
 /usr/lib/systemd/ - файлы юнитов служб которые были установлены из пакетов
 /etc/systemd/system - файлы юнитов от администратора
 
+`systemctl --failed`: не запущенные службы
+`journalctl -b -u systemd-modules-load.service`:  журнал
+`journalctl -b`: журнал текущей загрузки
+`journalctl -b -1`:  предыдущей загрузки (-1 -2 -3)
+`journalctl -b -p err`: журнал загрузки уровень ошибок
+`journalctl -u sshd`: журнал фильтр по службе
+`journalctl -k -b`: журнал фильтр по ключевому слдову
+
+
+```
+
 `systemctl list-units --type=target`: список возможных целей для загрузки
 
 
