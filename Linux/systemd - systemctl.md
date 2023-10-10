@@ -1,10 +1,24 @@
 
+
 /run/systemd/   - каталог для файлов юнитов  созданных при установке системы
 /usr/lib/systemd/ - файлы юнитов служб которые были установлены из пакетов
 /etc/systemd/system - файлы юнитов от администратора
 
+`systemctl list-units --type=target`: список возможных целей для загрузки
 
 
+/etc/systemd/system/.#dooucoffe.ru.serviceef81a545707fd102    
+```sh
+
+[Unit]
+Description=DOOUCOFFE.RU gunicorn instance
+After=network.target #цель после которой будет загружаться этот сервис
+
+[Service]
+User=c2h5oh  #пользователь     
+Group=www-data #группа которая создается для nginx
+
+```
 
 
 
