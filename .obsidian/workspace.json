@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servers/from youtube.md",
+                "file": "NGINX/everyday_nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servers/from youtube.md",
+                "file": "NGINX/everyday_nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servers/from youtube.md",
+                "file": "NGINX/everyday_nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servers/from youtube.md"
+                "file": "NGINX/everyday_nginx.md"
               }
             }
           },
@@ -180,28 +180,28 @@
   },
   "active": "1de598e240647d35",
   "lastOpenFiles": [
+    "Linux/folders.md",
+    "Linux/пользователи и права.md",
+    "Linux/Переменные.md",
+    "NGINX/everyday_nginx.md",
+    "Servers/UP tutorial.md",
+    "Servers/from youtube.md",
+    "Gunicorn/gunicorn.md",
     "Linux/systemd - systemctl.md",
     "Linux/ssh.md",
-    "Servers/from youtube.md",
-    "Servers/UP tutorial.md",
-    "Gunicorn/gunicorn.md",
     "Gunicorn",
     "WSGI/Что.md",
     "Без названия 1.md",
     "Без названия.md",
-    "NGINX/everyday_nginx.md",
     "Роутер/WOL.md",
     "Роутер",
-    "Linux/folders.md",
     "c2h5oh.ddns.net.md",
     "Linux/Настройки сервера.md",
-    "Linux/Переменные.md",
     "RewersProxy/Main.md",
     "RewersProxy/steps.md",
     "Servers",
     "Python/Сборка из исходников.md",
     "Linux/Firewall.md",
-    "Linux/пользователи и права.md",
     "Linux/Статистика.md",
     "Linux/bash.md",
     "Linux/curl.md",
