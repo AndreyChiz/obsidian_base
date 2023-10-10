@@ -19,3 +19,5 @@ WantedBy=multy-user.target
 
 
 ```
+
+`sudo systemctl start [название проекта]`
