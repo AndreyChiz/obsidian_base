@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File_operations.md",
+                "file": "Linux/Firewall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "346e20ff9a0a075f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Openssl обновление.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File_operations.md",
+                "file": "Openssl обновление.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File_operations.md",
+                "file": "Openssl обновление.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File_operations.md"
+                "file": "Openssl обновление.md"
               }
             }
           },
@@ -178,13 +190,15 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "bcee0be751041571",
+  "active": "346e20ff9a0a075f",
   "lastOpenFiles": [
     "Linux/Firewall.md",
+    "Openssl обновление.md",
+    "OPENSSL",
+    "TASK.md",
     "File_operations.md",
     "c2h5oh.ddns.net.md",
     "Linux/ssh.md",
-    "TASK.md",
     "Linux/wake_on_lan.md",
     "RewersProxy/Main.md",
     "RewersProxy/steps.md",
@@ -208,14 +222,12 @@
     "Без названия 1.md",
     "Роутер",
     "Servers",
-    "Python/Сборка из исходников.md",
     "HTTP",
     "NGINX",
     "Portainer",
     "Docker-compose",
     "Work/Белка Диджитал",
     "Work",
-    "WSGI",
     "Python/python_roadmap_processing_/карта.png",
     "Docker/docker_practic/Pasted image 20230830210357.png",
     "Docker/docker practic/Pasted image 20230830210357.png",
