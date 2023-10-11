@@ -31,7 +31,7 @@ Group=www-data #группа которая создается для nginx
 
 ```
 
-
+`sudo systemctl enable dooucofe.ru.service`
 
 
 

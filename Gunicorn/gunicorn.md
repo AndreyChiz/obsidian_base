@@ -30,3 +30,6 @@ WantedBy=multy-user.target
 ```
 
 `sudo systemctl start [название проекта]`
+`sudo systemctl daemon-reload`
+`sudo systemctl start dooucofe.ru.service`
+`sudo systemctl enable dooucofe.ru.service`
