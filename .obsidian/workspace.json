@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/ssh.md",
+                "file": "Linux/Firewall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcee0be751041571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File_operations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/ssh.md",
+                "file": "File_operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/ssh.md",
+                "file": "File_operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/ssh.md"
+                "file": "File_operations.md"
               }
             }
           },
@@ -165,16 +178,18 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "1de598e240647d35",
+  "active": "bcee0be751041571",
   "lastOpenFiles": [
+    "Linux/Firewall.md",
+    "File_operations.md",
+    "c2h5oh.ddns.net.md",
+    "Linux/ssh.md",
     "TASK.md",
     "Linux/wake_on_lan.md",
     "RewersProxy/Main.md",
     "RewersProxy/steps.md",
     "Linux/systemd - systemctl.md",
     "Граффик.md",
-    "c2h5oh.ddns.net.md",
-    "Linux/ssh.md",
     "Роутер/WOL.md",
     "Linux/Настройки сервера.md",
     "NGINX/everyday_nginx.md",
@@ -191,11 +206,9 @@
     "Gunicorn",
     "WSGI/Что.md",
     "Без названия 1.md",
-    "Без названия.md",
     "Роутер",
     "Servers",
     "Python/Сборка из исходников.md",
-    "Linux/Firewall.md",
     "HTTP",
     "NGINX",
     "Portainer",
