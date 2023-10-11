@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TASK.md",
+                "file": "Linux/ssh.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK.md",
+                "file": "Linux/ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK.md",
+                "file": "Linux/ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK.md"
+                "file": "Linux/ssh.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "1de598e240647d35",
   "lastOpenFiles": [
-    "Linux/wake_on_lan.md",
     "TASK.md",
+    "Linux/wake_on_lan.md",
     "RewersProxy/Main.md",
     "RewersProxy/steps.md",
     "Linux/systemd - systemctl.md",
