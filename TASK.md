@@ -32,6 +32,8 @@ sudo nano /etc/systemd/system/wol.service
 sudo systemctl daemon-reload
 sudo systemctl enable wol.service
 
+
+
 #Настроить UFW
 
 

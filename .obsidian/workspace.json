@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Роутер/WOL.md",
+                "file": "Servers/UP tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Роутер/WOL.md",
+                "file": "Servers/UP tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Роутер/WOL.md",
+                "file": "Servers/UP tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Роутер/WOL.md"
+                "file": "Servers/UP tutorial.md"
               }
             }
           },
@@ -192,8 +192,9 @@
   },
   "active": "346e20ff9a0a075f",
   "lastOpenFiles": [
-    "Openssl обновление.md",
     "TASK.md",
+    "Роутер/WOL.md",
+    "Openssl обновление.md",
     "Linux/port.md",
     "Servers/UP tutorial.md",
     "Servers/from youtube.md",
@@ -208,7 +209,6 @@
     "RewersProxy/Main.md",
     "RewersProxy/steps.md",
     "Граффик.md",
-    "Роутер/WOL.md",
     "Linux/Настройки сервера.md",
     "Gunicorn/gunicorn.md",
     "Linux/приостановка перезапуск.md",
