@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Openssl обновление.md",
+                "file": "Роутер/WOL.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Openssl обновление.md",
+                "file": "Роутер/WOL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Openssl обновление.md",
+                "file": "Роутер/WOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Openssl обновление.md"
+                "file": "Роутер/WOL.md"
               }
             }
           },
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 206.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,30 +192,30 @@
   },
   "active": "346e20ff9a0a075f",
   "lastOpenFiles": [
-    "Linux/Firewall.md",
     "Openssl обновление.md",
-    "OPENSSL",
     "TASK.md",
+    "Linux/port.md",
+    "Servers/UP tutorial.md",
+    "Servers/from youtube.md",
+    "NGINX/everyday_nginx.md",
+    "Linux/systemd - systemctl.md",
+    "Linux/Firewall.md",
+    "OPENSSL",
     "File_operations.md",
     "c2h5oh.ddns.net.md",
     "Linux/ssh.md",
     "Linux/wake_on_lan.md",
     "RewersProxy/Main.md",
     "RewersProxy/steps.md",
-    "Linux/systemd - systemctl.md",
     "Граффик.md",
     "Роутер/WOL.md",
     "Linux/Настройки сервера.md",
-    "NGINX/everyday_nginx.md",
     "Gunicorn/gunicorn.md",
     "Linux/приостановка перезапуск.md",
     "Linux/Переменные.md",
     "Linux/пользователи и права.md",
     "Linux/Ссылки.md",
     "Linux/disk_op.md",
-    "Servers/UP tutorial.md",
-    "Servers/from youtube.md",
-    "Linux/port.md",
     "Linux/folders.md",
     "Gunicorn",
     "WSGI/Что.md",
