@@ -1,4 +1,19 @@
 ```shell
+sudo useradd -m -s /bin/bash www
+sudo passwd www
+sudo usermod -aG cdrom www 
+sudo usermod -aG sudo www 
+sudo usermod -aG dip www 
+sudo usermod -aG plugdev www 
+sudo usermod -aG lxd www 
+sudo passwd www
+
+
+
+
+
+
+
 sudo systemctl set-default multi-user.target # переключем в режим командной строки
 sudo systemctl status #проверка состояния
 sudo apt update

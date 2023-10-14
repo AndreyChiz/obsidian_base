@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servers/UP tutorial.md",
+                "file": "TASK.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servers/UP tutorial.md",
+                "file": "TASK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servers/UP tutorial.md",
+                "file": "TASK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servers/UP tutorial.md"
+                "file": "TASK.md"
               }
             }
           },
@@ -192,13 +192,15 @@
   },
   "active": "346e20ff9a0a075f",
   "lastOpenFiles": [
+    "Linux/пользователи и права.md",
     "TASK.md",
+    "NGINX/everyday_nginx.md",
+    "Servers/from youtube.md",
+    "Gunicorn/gunicorn.md",
+    "Servers/UP tutorial.md",
     "Роутер/WOL.md",
     "Openssl обновление.md",
     "Linux/port.md",
-    "Servers/UP tutorial.md",
-    "Servers/from youtube.md",
-    "NGINX/everyday_nginx.md",
     "Linux/systemd - systemctl.md",
     "Linux/Firewall.md",
     "OPENSSL",
@@ -210,10 +212,8 @@
     "RewersProxy/steps.md",
     "Граффик.md",
     "Linux/Настройки сервера.md",
-    "Gunicorn/gunicorn.md",
     "Linux/приостановка перезапуск.md",
     "Linux/Переменные.md",
-    "Linux/пользователи и права.md",
     "Linux/Ссылки.md",
     "Linux/disk_op.md",
     "Linux/folders.md",

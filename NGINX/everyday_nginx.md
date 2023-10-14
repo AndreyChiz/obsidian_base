@@ -23,12 +23,12 @@ server {
 
         location / {
         include proxy_params
-        proxy_pass http://unix/home/c2h5oh/server/code/dooucoffe.ru/gunicorn.sock
+        proxy_pass http://unix/home/c2h5oh/server/code/doucoffe/gunicorn.sock
         }
 
 }
 ```
-
+`/usr/local/nginx`
 /etc/nginx/proxy_params                                
 ```
 proxy_set_header Host $http_host;
