@@ -3,12 +3,8 @@
 # базовые
 sudo systemctl set-default multi-user.target
 echo "%sudo   ALL=(ALL:ALL) NOPASSWD: ALL" | sudo tee -a /etc/sudoers
-echo 'HISTSIZE=1000' > ~/.bashrc
-echo 'HISTFILESIZE=2000' >> ~/.bashrc
-echo 'HISTCONTROL=ignoredups' >> ~/.bashrc
-echo 'HISTTIMEFORMAT="%Y-%m-%d %H:%M:%S "' >> ~/.bashrc
-echo 'PROMPT_COMMAND="history -a; $PROMPT_COMMAND"' >> ~/.bashrc
 source ~/.bashrc
+df -h 
 #---------------------------------------------------------------
 #Проверка системы
 sudo systemctl status #проверка состояния
@@ -17,28 +13,7 @@ sudo apt upgrade
 sudo journalctl -b -p err #посмотреть какие ошибки есть при загрузке
 
 #----------------------------------------------------------------
-# настройка резервного копирования
-# Создание скрипта резервного копирования с именем, основанным на дате
-sudo bash -c 'echo "#!/bin/bash" > /usr/local/bin/backup_system.sh'
-sudo bash -c 'echo "SOURCE_DIR=\"/home\"  # Если вы хотите скопировать всю систему, оставьте так" >> /usr/local/bin/backup_system.sh'
-sudo bash -c 'echo "BACKUP_ROOT=\"/backup_hdd\"" >> /usr/local/bin/backup_system.sh'
-sudo bash -c 'echo "DATE=\$(date +\"%Y-%m-%d_%H-%M-%S\")" >> /usr/local/bin/backup_system.sh'
-sudo bash -c 'echo "BACKUP_DIR=\"\$BACKUP_ROOT/backup_\$DATE\"" >> /usr/local/bin/backup_system.sh'
-sudo bash -c 'echo "EXCLUDE_DIRS=\"/backup_hdd /some_hdd\"" >> /usr/local/bin/backup_system.sh'
-sudo bash -c 'echo "mkdir -p \$BACKUP_DIR" >> /usr/local/bin/backup_system.sh'
-sudo bash -c 'echo "rsync -av --delete --compress --info=progress2 -v --exclude 'swap.img' --exclude 'proc/kcore' --exclude \$EXCLUDE_DIRS \$SOURCE_DIR/ \$BACKUP_DIR/" >> /usr/local/bin/backup_system.sh'
-sudo chmod +x /usr/local/bin/backup_system.sh
-# Создание скрипта восстановления
-sudo bash -c 'echo "#!/bin/bash" > /usr/local/bin/restore_system.sh'
-sudo bash -c 'echo "BACKUP_DIR=\"/backup_hdd/"" >> /usr/local/bin/restore_system.sh'
-sudo bash -c 'echo "TARGET_DIR=\"/\"  # Восстанавливайте в нужное место" >> /usr/local/bin/restore_system.sh'
-sudo bash -c 'echo "rsync -av --info=progress2 \$BACKUP_DIR \$TARGET_DIR" >> /usr/local/bin/restore_system.sh'
-sudo chmod +x /usr/local/bin/restore_system.sh
-# Добавление алиасов в ~/.bashrc
-sudo bash -c 'echo "alias backup_system=\"sudo backup_system.sh\"" >> ~/.bashrc'
-sudo bash -c 'echo "alias restore_system=\"sudo restore_system.sh"" >> ~/.bashrc'
-source ~/.bashrc
-#----------------------------------------------------------
+
 # Настройка локали
 sudo localedef ru_RU.UTF-8 -i ru_RU -fUTF-8; export LANGUAGE=ru_RU.UTF-8; \
 export LANGUAGE=ru_RU.UTF-8; \
@@ -53,7 +28,7 @@ sudo nano /etc/ssh/sshd_config
 # #Include /etc/ssh/sshd_config.d/*.conf
 # PermitRootLogin no
 # PubkeyAuthentication yes
-# PasswordAuthentication no
+# PasswordAuthentication yes
 # Match User c2h5oh
 # PasswordAuthentication yes
 # PasswordAuthentication no
@@ -65,13 +40,62 @@ ssh-copy-id -p 050286 c2h5oh@192.168.1.68
 Внутренний пользователь сервера
 # Настройка пользователя
 sudo useradd -m -s /bin/bash www
-sudo passwd www
+sudo passwd www #ast10273
 sudo usermod -aG cdrom www 
 sudo usermod -aG sudo www 
 sudo usermod -aG dip www 
 sudo usermod -aG plugdev www 
 sudo usermod -aG lxd www 
 sudo passwd www
+# ---------------------------------------------------
+# Установка настройка timeshift
+sudo apt install timeshift
+timeshift --create --comments "install"
+sudo nano /etc/timeshift.json
+{
+  "backup_device_uuid" : "f2296b99-6525-49b7-8426-024ae6840199",
+  "parent_device_uuid" : "",
+  "do_first_run" : "false",
+  "btrfs_mode" : "false",
+  "include_btrfs_home_for_backup" : "false",
+  "include_btrfs_home_for_restore" : "false",
+  "stop_cron_emails" : "true",
+  "btrfs_use_qgroup" : "true",
+  "schedule_monthly" : "false",
+  "schedule_weekly" : "false",
+  "schedule_daily" : "true",
+  "schedule_hourly" : "false",
+  "schedule_boot" : "false",
+  "count_monthly" : "2",
+  "count_weekly" : "3",
+  "count_daily" : "5",
+  "count_hourly" : "6",
+  "count_boot" : "5",
+  "snapshot_size" : "4982275706",
+  "snapshot_count" : "96430",
+  "date_format" : "%Y-%m-%d %H:%M:%S",
+  "exclude" : [
+        "/swap.img",
+        "swap.img"      
+  ],
+  "exclude-apps" : [
+        "swap.img"
+  ]
+}
+#--------------------------------------------------
+#Настройка часовог пояса
+sudo timedatectl set-timezone Europe/Astrakhan
+timedatectl
+sudo systemctl restart systemd-timesyncd
+#--------------------------------------------------
+# Установка NGINX
+wget https://nginx.org/download/nginx-1.25.2.tar.gz
+cd ng*
+tar xvf nginx-*
+
+./configure --sbin-path=/usr/sbin/nginx --conf-path=/etc/nginx/nginx.conf --pid-path=/var/run/nginx.pid --user=www-data --group=www-data 
+
+
 
 
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/disk_op.md",
+                "file": "TASK.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/disk_op.md",
+                "file": "TASK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/disk_op.md",
+                "file": "TASK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/disk_op.md"
+                "file": "TASK.md"
               }
             }
           },
@@ -180,19 +180,21 @@
   },
   "active": "96cea6f359abdd1e",
   "lastOpenFiles": [
-    "Linux/folders.md",
+    "NGINX/everyday_nginx.md",
+    "Servers/UP tutorial.md",
+    "Servers/from youtube.md",
+    "TASK.md",
+    "Openssl обновление.md",
+    "Linux/disk_op.md",
     "RewersProxy/steps.md",
     "RewersProxy/Main.md",
-    "TASK.md",
+    "Linux/rsync.md",
+    "Linux/folders.md",
     "Linux/ssh.md",
-    "Servers/from youtube.md",
     "Linux/systemd - systemctl.md",
-    "Servers/UP tutorial.md",
     "Linux/пользователи и права.md",
-    "NGINX/everyday_nginx.md",
     "Gunicorn/gunicorn.md",
     "Роутер/WOL.md",
-    "Openssl обновление.md",
     "Linux/port.md",
     "Linux/Firewall.md",
     "OPENSSL",
@@ -204,10 +206,8 @@
     "Linux/приостановка перезапуск.md",
     "Linux/Переменные.md",
     "Linux/Ссылки.md",
-    "Linux/disk_op.md",
     "Gunicorn",
     "WSGI/Что.md",
-    "Без названия 1.md",
     "Роутер",
     "Servers",
     "HTTP",
