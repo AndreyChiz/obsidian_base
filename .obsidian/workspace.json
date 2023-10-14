@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/ssh.md",
+                "file": "TASK.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "TASK.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "TASK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RewersProxy/steps.md",
+                "file": "TASK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RewersProxy/steps.md"
+                "file": "TASK.md"
               }
             }
           },
@@ -180,10 +180,11 @@
   },
   "active": "96cea6f359abdd1e",
   "lastOpenFiles": [
-    "RewersProxy/Main.md",
-    "Servers/from youtube.md",
+    "RewersProxy/steps.md",
     "TASK.md",
     "Linux/ssh.md",
+    "RewersProxy/Main.md",
+    "Servers/from youtube.md",
     "Linux/systemd - systemctl.md",
     "Servers/UP tutorial.md",
     "Linux/пользователи и права.md",
@@ -197,7 +198,6 @@
     "File_operations.md",
     "c2h5oh.ddns.net.md",
     "Linux/wake_on_lan.md",
-    "RewersProxy/steps.md",
     "Граффик.md",
     "Linux/Настройки сервера.md",
     "Linux/приостановка перезапуск.md",
