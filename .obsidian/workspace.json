@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1de598e240647d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Firewall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcee0be751041571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Firewall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "346e20ff9a0a075f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TASK.md",
+                "file": "Linux/ssh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96cea6f359abdd1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RewersProxy/steps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK.md",
+                "file": "RewersProxy/steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK.md",
+                "file": "RewersProxy/steps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TASK.md"
+                "file": "RewersProxy/steps.md"
               }
             }
           },
@@ -190,25 +178,25 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "346e20ff9a0a075f",
+  "active": "96cea6f359abdd1e",
   "lastOpenFiles": [
-    "Linux/пользователи и права.md",
-    "TASK.md",
-    "NGINX/everyday_nginx.md",
+    "RewersProxy/Main.md",
     "Servers/from youtube.md",
-    "Gunicorn/gunicorn.md",
+    "TASK.md",
+    "Linux/ssh.md",
+    "Linux/systemd - systemctl.md",
     "Servers/UP tutorial.md",
+    "Linux/пользователи и права.md",
+    "NGINX/everyday_nginx.md",
+    "Gunicorn/gunicorn.md",
     "Роутер/WOL.md",
     "Openssl обновление.md",
     "Linux/port.md",
-    "Linux/systemd - systemctl.md",
     "Linux/Firewall.md",
     "OPENSSL",
     "File_operations.md",
     "c2h5oh.ddns.net.md",
-    "Linux/ssh.md",
     "Linux/wake_on_lan.md",
-    "RewersProxy/Main.md",
     "RewersProxy/steps.md",
     "Граффик.md",
     "Linux/Настройки сервера.md",
