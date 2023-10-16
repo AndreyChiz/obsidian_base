@@ -54,9 +54,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b1443278efc4378",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "TASK.md",
+                "staged": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TASK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TASK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TASK.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,13 +209,13 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "83e0d8a0dbfda177",
+  "active": "0b1443278efc4378",
   "lastOpenFiles": [
-    "NGINX/everyday_nginx.md",
+    "conflict-files-obsidian-git.md",
     "TASK.md",
+    "NGINX/everyday_nginx.md",
     "c2h5oh.ddns.net.md",
     "Linux/disk_op.md",
-    "conflict-files-obsidian-git.md",
     "Linux/wake_on_lan.md",
     "Роутер/WOL.md",
     "Роутер",

@@ -25,13 +25,13 @@ sudo dpkg-reconfigure locales
 #-------------------------------------------------------------
 # Настройка openssh-server
 sudo nano /etc/ssh/sshd_config
-# #Include /etc/ssh/sshd_config.d/*.conf
-# PermitRootLogin no
-# PubkeyAuthentication yes
-# PasswordAuthentication yes
-# Match User c2h5oh
-# PasswordAuthentication yes
-# PasswordAuthentication no
+    #Include /etc/ssh/sshd_config.d/*.conf
+	PermitRootLogin no
+	PubkeyAuthentication yes
+	PasswordAuthentication yes
+	Match User c2h5oh
+	PasswordAuthentication yes
+	PasswordAuthentication no
 
 # Настройки админа
 # выйти из ssh и со своей машины выполнить 
@@ -92,10 +92,72 @@ sudo systemctl restart systemd-timesyncd
 wget https://nginx.org/download/nginx-1.25.2.tar.gz
 cd ng*
 tar xvf nginx-*
+wget https://www.cpan.org/src/5.0/perl-5.38.0.tar.gz
+tar xvf per*
+cd per*
+wget https://sourceforge.net/projects/pcre/files/pcre/8.45/pcre-8.45.tar.gz/download
+tar xvf pcr*
+cd pcre-8.45/
+pwd
+wget https://zlib.net/zlib-1.3.tar.gz
+tar xvf zl*
+wget https://www.openssl.org/source/openssl-3.1.3.tar.gz
 
-./configure --sbin-path=/usr/sbin/nginx --conf-path=/etc/nginx/nginx.conf --pid-path=/var/run/nginx.pid --user=www-data --group=www-data 
+sudo apt-get install gcc
+sudo apt-get install libxml2 libxslt1-dev
+sudo apt-get install libgd-dev
+sudo apt-get install libperl-dev
+sudo apt-get install libgeoip-dev
+sudo apt-get install libgoogle-perftools-dev
+sudo apt-get install libpcre3 libpcre3-dev
+sudo apt-get install g++
+libx11-dev libxau-dev libxcb1-dev libxdmcp-dev libxml2-dev libxpm-dev libxslt1-dev libzstd-dev m4 po-debconf quilt uuid-dev x11proto-dev xorg-sgml-doctools xtrans-dev libtool libvpx-dev libwebp-dev libpcrecpp0v5 libperl-dev libpng-dev libpthread-stubs0-dev libssl-dev libsub-override-perl libtiff-dev autoconf automake autopoint autotools-dev debhelper debugedit dh-autorecon dh-strip-nondeterminism diffstat dwz geoip-bin gettext icu-devtools intltool-debian libarchive-zip-perl libbrotli-dev libdebhelper-per libdeflate-dev libfile-stripnondeterminism-perl libfontconfig-de libfreetype-dev libgd-dev libgeoip-dev libgeoip1 libhiredis-de libhiredis0.14 libicu-dev libjbig-dev libjpeg-dev libjpeg-turbo8-de libjpeg8-dev liblerc-dev liblzma-dev libmaxminddb-dev libmhash-de libnetaddr-ip-perl libpam0g-dev libpcre16-3 libpcre3 libpcre3-dev libpcre32-3  libtiffxx6 
+
+sudo apt install make
+
+./configure --sbin-path=/usr/sbin/nginx --conf-path=/etc/nginx/nginx.conf --pid-path=/var/run/nginx.pid --user=www-data --group=www-data --with-select_module --with-poll_module --with-threads --with-file-aio --with-http_ssl_module --with-http_v2_module --with-http_v3_module --with-http_realip_module --with-http_addition_module --with-http_xslt_module --with-http_image_filter_module --with-http_geoip_module --with-http_sub_module --with-http_dav_module --with-http_flv_module --with-http_mp4_module --with-http_gunzip_module --with-http_gzip_static_module --with-http_auth_request_module --with-http_random_index_module --with-http_secure_link_module --with-http_degradation_module --with-http_slice_module --with-http_stub_status_module --with-mail --with-mail_ssl_module --with-stream --with-stream_ssl_module --with-stream_realip_module --with-stream_geoip_module --with-stream_ssl_preread_module --with-google_perftools_module --with-cpp_test_module --with-compat --with-pcre --with-pcre=/home/www/install_distributives/nginx/nginx-1.25.2/pcre-8.45 --with-pcre-jit --with-zlib=/home/www/install_distributives/nginx/zlib-1.3 --with-openssl=/home/www/install_distributives/nginx/openssl-3.1.3 --with-debug
 
 
+sudo make
+sudo make install 
+
+sudo mkdir /etc/nginx/sites-available
+sudo mkdir /etc/nginx/sites-enabled
+sudo nginx -V
+sudo nano /lib/systemd/system/nginx.service
+
+	[Unit]
+	Description=The NGINX HTTP and reverse proxy server
+	After=syslog.target network-online.target remote-fs.target nss-lookup.target
+	Wants=network-online.target
+	
+	[Service]
+	Type=forking
+	PIDFile=/var/run/nginx.pid
+	ExecStartPre=/usr/sbin/nginx -t
+	ExecStart=/usr/sbin/nginx
+	ExecReload=/usr/sbin/nginx -s reload
+	ExecStop=/bin/kill -s QUIT $MAINPID
+	PrivateTmp=true
+	
+	[Install]
+	WantedBy=multi-user.target
+
+#--------------------------------------------------------------
+#Установка python из исходников
+mkdir ~install/python
+cd python
+wget https://www.python.org/ftp/python/3.12.0/Python-3.12.0.tgz
+tar xvf Python-*
+cd Python*
+mkdir ~/python3.12
+./configure --enable-optimizations --prefix=/home/www/.python3.12
+sudo make -j8
+cd ~
+nano .bashrc
+	export VIRTUALENVWRAPPER_PYTHON="/home/www/python3.12/bin/python3.12"
+	export PATH=$PATH:/home/www/python3.12/bin
+source .bashrc
 
 
 
