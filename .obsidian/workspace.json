@@ -47,11 +47,10 @@
             "id": "83e0d8a0dbfda177",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -122,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,11 +199,14 @@
   },
   "active": "83e0d8a0dbfda177",
   "lastOpenFiles": [
-    "Linux/wake_on_lan.md",
+    "TASK.md",
+    "NGINX/everyday_nginx.md",
+    "c2h5oh.ddns.net.md",
+    "Linux/disk_op.md",
     "conflict-files-obsidian-git.md",
+    "Linux/wake_on_lan.md",
     "Роутер/WOL.md",
     "Роутер",
-    "c2h5oh.ddns.net.md",
     "Untitled.md",
     "Servers/from youtube.md",
     "Servers/UP tutorial.md",
@@ -216,7 +214,6 @@
     "Portainer/everyday_portainer.md",
     "Portainer",
     "Openssl обновление.md",
-    "NGINX/everyday_nginx.md",
     "NGINX",
     "Linux/Ссылки.md",
     "Linux/systemd - systemctl.md",
@@ -233,10 +230,8 @@
     "RewersProxy/steps.md",
     "local.md",
     "Linux/port.md",
-    "Linux/disk_op.md",
     "RewersProxy/Main.md",
     "Linux/Firewall.md",
-    "Linux/ssh.md",
     "Без названия",
     "RewersProxy",
     "linux",
