@@ -143,6 +143,15 @@ sudo nano /lib/systemd/system/nginx.service
 	[Install]
 	WantedBy=multi-user.target
 
+bash
+echo "[Nginx Full]
+title=Web Server (Nginx, including SSL)
+description=Web server that can serve static content and perform reverse proxy with SSL encryption.
+ports=80,443/tcp" | sudo tee /etc/ufw/applications.d/nginx-full
+
+nginx_config
+
+
 #--------------------------------------------------------------
 #Установка python из исходников
 mkdir ~install/python

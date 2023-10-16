@@ -59,10 +59,11 @@
             "id": "0b1443278efc4378",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "TASK.md",
-                "staged": true
+                "file": "NGINX/everyday_nginx.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -133,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NGINX/everyday_nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NGINX/everyday_nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NGINX/everyday_nginx.md"
+              }
             }
           },
           {
@@ -211,10 +216,10 @@
   },
   "active": "0b1443278efc4378",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "TASK.md",
-    "NGINX/everyday_nginx.md",
     "c2h5oh.ddns.net.md",
+    "NGINX/everyday_nginx.md",
+    "conflict-files-obsidian-git.md",
     "Linux/disk_op.md",
     "Linux/wake_on_lan.md",
     "Роутер/WOL.md",
