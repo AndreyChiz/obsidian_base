@@ -296,6 +296,14 @@ sudo nano /etc/systemd/system/wol.service
 sudo systemctl daemon-reload
 sudo systemctl enable wol.service
 
+#------------------------------------------------------------
+crontab -e
+
+0 0 * * * sudo rsync -av --exclude='install' --exclude='python3.12' --exclude='.cache' /home/www /backup_hdd/backup_www/backup_www_$(date +\%d.\%m.\%Y)
+
+
+
+
 
 
 ```

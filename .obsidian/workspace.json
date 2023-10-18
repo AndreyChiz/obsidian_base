@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Роутер/WOL.md",
+                "file": "Linux/systemd - systemctl.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sens",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Роутер/WOL.md",
+                "file": "Linux/systemd - systemctl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Роутер/WOL.md",
+                "file": "Linux/systemd - systemctl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Роутер/WOL.md"
+                "file": "Linux/systemd - systemctl.md"
               }
             }
           },
@@ -209,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -228,20 +229,22 @@
   },
   "active": "50977da83afe3964",
   "lastOpenFiles": [
-    "Linux/ssh.md",
+    "RewersProxy/steps.md",
+    "Linux/systemd - systemctl.md",
+    "TASK.md",
+    "RewersProxy/Main.md",
+    "Servers/UP tutorial.md",
+    "Servers/from youtube.md",
     "Роутер/WOL.md",
+    "Linux/disk_op.md",
+    "Linux/Статистика.md",
+    "Linux/ssh.md",
     "Linux/Ссылки.md",
     "Gunicorn/gunicorn.md",
     "c2h5oh.ddns.net.md",
-    "TASK.md",
     "Linux/Firewall.md",
-    "Servers/from youtube.md",
-    "Servers/UP tutorial.md",
-    "RewersProxy/Main.md",
-    "RewersProxy/steps.md",
     "NGINX/everyday_nginx.md",
     "conflict-files-obsidian-git.md",
-    "Linux/disk_op.md",
     "Linux/wake_on_lan.md",
     "Роутер",
     "Untitled.md",
@@ -250,7 +253,6 @@
     "Portainer",
     "Openssl обновление.md",
     "NGINX",
-    "Linux/systemd - systemctl.md",
     "Linux/rsync.md",
     "Linux/folders.md",
     "HTTP/evryday_HTTP.md",
@@ -260,7 +262,6 @@
     "Docker-compose/docker-compose eweryday.md",
     "Docker-compose",
     "Linux/bash.md",
-    "local.md",
     "Без названия",
     "RewersProxy",
     "linux",
