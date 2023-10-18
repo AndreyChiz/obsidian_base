@@ -47,7 +47,7 @@ ssh-keygen -t rsa
 .bashssh-copy-id -i ~/.ssh/id_rsa.pub c2h5oh@95.213.154.235
 =======
 ssh-copy-id -i ~/.ssh/id_rsa.pub c2h5oh@95.213.154.235
-ssh-copy-id -p 050286 c2h5oh@192.168.1.68
+exi
 
 >>>>>>> origin/main:linux/ssh.md
 ```

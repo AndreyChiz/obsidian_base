@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=1sF42xKL7tA
+	cd cchttps://www.youtube.com/watch?v=1sF42xKL7tA
 
 systemctl edit --full [название проекта]
 

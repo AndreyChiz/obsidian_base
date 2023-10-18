@@ -29,13 +29,14 @@ events {
     worker_connections 1024; # Максимальное количество одновременных соединений для каждого рабочего процесса.
     multi_accept on;         # Разрешает одновременное принятие нескольких соединений.
     use epoll;               # Использует механизм epoll для обработки событий.
-
+}
 http {
     include /etc/nginx/mime.types;        # Включает файл с типами контента (mime.types).
     default_type application/octet-stream; # Задает тип контента по умолчанию.
 
-    access_log /var/log/nginx/access.log;  # Путь к файлу журнала доступа.
-    error_log /var/log/nginx/error.log;    # Путь к файлу журнала ошибок.
+    access_log /usr/local/nginx/logs/access.log;  # Путь к файлу журнала доступа.
+    error_log /usr/local/nginx/logs/error.log;    # Путь к файлу журнала ошибок.
+
 
     sendfile on;           # Включает использование системного вызова sendfile для увеличения производительности.
     tcp_nopush on;         # Включает опцию TCP_NOPUSH для передачи данных клиенту без задержек.
@@ -95,17 +96,18 @@ sudo nano /etc/nginx/proxy_params
 ```
 
 ```nginx
-proxy_set_header Host $http_host;
-proxy_set_header X-Real-IP $remote_addr;
-proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-proxy_set_header X-Forwarded-Proto $scheme;
+proxy_set_header Host $http_host;              # Устанавливает заголовок "Host" равным значению из запроса.
+proxy_set_header X-Real-IP $remote_addr;      # Устанавливает заголовок "X-Real-IP" равным IP-адресу клиента.
+proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;  # Устанавливает заголовок "X-Forwarded-For" для передачи информации о клиенте и прокси.
+proxy_set_header X-Forwarded-Proto $scheme;   # Устанавливает заголовок "X-Forwarded-Proto" равным значению протокола (HTTP или HTTPS).
+
 ```
 
-
+`/usr/local/nginx`
 
 
 ```sh
-sudo nano /etc/nginx/sites-enabled/c2h5oh
+sudo nano /etc/nginx/sites-available/c2h5oh
 ```
 
 ```ndinx
