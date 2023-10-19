@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/systemd - systemctl.md",
+                "file": "Python/переключение.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sens",
+                "query": "sudo systemctl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/systemd - systemctl.md",
+                "file": "Python/переключение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/systemd - systemctl.md",
+                "file": "Python/переключение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/systemd - systemctl.md"
+                "file": "Python/переключение.md"
               }
             }
           },
@@ -229,12 +228,14 @@
   },
   "active": "50977da83afe3964",
   "lastOpenFiles": [
-    "RewersProxy/steps.md",
     "Linux/systemd - systemctl.md",
     "TASK.md",
-    "RewersProxy/Main.md",
+    "Python/переключение.md",
     "Servers/UP tutorial.md",
+    "Граффик.md",
     "Servers/from youtube.md",
+    "RewersProxy/steps.md",
+    "RewersProxy/Main.md",
     "Роутер/WOL.md",
     "Linux/disk_op.md",
     "Linux/Статистика.md",
@@ -259,9 +260,7 @@
     "HTTP",
     "Gunicorn",
     "File_operations.md",
-    "Docker-compose/docker-compose eweryday.md",
     "Docker-compose",
-    "Linux/bash.md",
     "Без названия",
     "RewersProxy",
     "linux",
