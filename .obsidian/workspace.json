@@ -4,58 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "903ef1f45d35acac",
+        "id": "cab8f80ab9e4571c",
         "type": "tabs",
         "children": [
           {
-            "id": "96cea6f359abdd1e",
+            "id": "a6ec04245a33021e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servers/UP tutorial.md",
+                "file": "PYTHON/altinstall.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8478cd079fd334fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TASK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de66671636f5ca1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Роутер/WOL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3c0087201344e22",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Роутер/WOL.md",
-                "staged": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TASK.md",
+                "file": "DEV_OPS/TASK.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PYTHON/altinstall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PYTHON/altinstall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PYTHON/altinstall.md"
+              }
             }
           },
           {
@@ -209,46 +177,46 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "e3c0087201344e22",
+  "active": "a6ec04245a33021e",
   "lastOpenFiles": [
+    "DEV_OPS/TASK.md",
+    "PYTHON/altinstall.md",
+    "DEV_OPS/Python/Docs.md",
+    "DEV_OPS/Python/переключение.md",
+    "DEV_OPS/Python/core/namedtuple.md",
+    "DEV_OPS/Python/core/Логирование.md",
+    "DEV_OPS/Openssl обновление.md",
+    "PYTHON",
+    "DEV_OPS/Untitled.md",
+    "DEV_OPS",
+    "DEV_OPS/Роутер/WOL.md",
     "conflict-files-obsidian-git.md",
-    "Роутер/WOL.md",
-    "Linux/Сеть.md",
-    "TASK.md",
-    "Python/переключение.md",
-    "Servers/UP tutorial.md",
-    "NGINX/everyday_nginx.md",
-    "Servers/from youtube.md",
-    "Openssl обновление.md",
-    "Linux/disk_op.md",
-    "RewersProxy/steps.md",
-    "RewersProxy/Main.md",
-    "Linux/rsync.md",
-    "Linux/folders.md",
-    "Linux/ssh.md",
-    "Linux/systemd - systemctl.md",
-    "Linux/пользователи и права.md",
-    "Gunicorn/gunicorn.md",
-    "Linux/port.md",
-    "Linux/Firewall.md",
+    "DEV_OPS/Linux/Сеть.md",
+    "DEV_OPS/Servers/UP tutorial.md",
+    "DEV_OPS/NGINX/everyday_nginx.md",
+    "DEV_OPS/Servers/from youtube.md",
+    "DEV_OPS/Linux/disk_op.md",
+    "DEV_OPS/RewersProxy/steps.md",
+    "DEV_OPS/RewersProxy/Main.md",
+    "DEV_OPS/Linux/rsync.md",
+    "DEV_OPS/Linux/folders.md",
+    "DEV_OPS/Linux/ssh.md",
+    "DEV_OPS/Linux/systemd - systemctl.md",
+    "DEV_OPS/Linux/пользователи и права.md",
+    "DEV_OPS/Gunicorn/gunicorn.md",
+    "DEV_OPS/Linux/port.md",
+    "DEV_OPS/Linux/Firewall.md",
     "OPENSSL",
-    "File_operations.md",
-    "c2h5oh.ddns.net.md",
-    "Linux/wake_on_lan.md",
-    "Граффик.md",
-    "Linux/Настройки сервера.md",
-    "Linux/приостановка перезапуск.md",
-    "Gunicorn",
-    "Роутер",
-    "Servers",
-    "HTTP",
-    "NGINX",
-    "Portainer",
-    "Docker-compose",
-    "Work/Белка Диджитал",
-    "Work",
-    "Python/python_roadmap_processing_/карта.png",
-    "Docker/docker_practic/Pasted image 20230830210357.png",
+    "DEV_OPS/File_operations.md",
+    "DEV_OPS/Gunicorn",
+    "DEV_OPS/Роутер",
+    "DEV_OPS/Servers",
+    "DEV_OPS/HTTP",
+    "DEV_OPS/NGINX",
+    "DEV_OPS/Portainer",
+    "DEV_OPS/Docker-compose",
+    "DEV_OPS/Python/python_roadmap_processing_/карта.png",
+    "DEV_OPS/Docker/docker_practic/Pasted image 20230830210357.png",
     "Docker/docker practic/Pasted image 20230830210357.png",
     "Docker/Docker Practic/Pasted image 20230830210357.png",
     "Pasted image 20230831105432.png",
