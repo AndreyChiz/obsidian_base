@@ -4,59 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c6ebbd8de9c8cb5b",
+        "id": "903ef1f45d35acac",
         "type": "tabs",
         "children": [
           {
-            "id": "d4bbc3dd5a668b4f",
+            "id": "96cea6f359abdd1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/wake_on_lan.md",
+                "file": "Servers/UP tutorial.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d870ec49c30c3134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RewersProxy/steps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15c6e3d3f8c7b8ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/wake_on_lan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83e0d8a0dbfda177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NGINX/everyday_nginx.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b1443278efc4378",
+            "id": "8478cd079fd334fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,19 +32,19 @@
             }
           },
           {
-            "id": "50977da83afe3964",
+            "id": "de66671636f5ca1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/переключение.md",
+                "file": "Роутер/WOL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sudo systemctl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,12 +89,24 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "346e20ff9a0a075f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TASK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 200
   },
   "right": {
     "id": "8e8271c4b60fe7c4",
@@ -146,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/переключение.md",
+                "file": "Роутер/WOL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/переключение.md",
+                "file": "Роутер/WOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/переключение.md"
+                "file": "Роутер/WOL.md"
               }
             }
           },
@@ -199,7 +175,7 @@
             }
           },
           {
-            "id": "be7e2d11f939b3a7",
+            "id": "e6ddec1b1e605a22",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -213,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 206.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,49 +202,51 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "50977da83afe3964",
+  "active": "de66671636f5ca1a",
   "lastOpenFiles": [
-    "Linux/systemd - systemctl.md",
     "TASK.md",
     "Python/переключение.md",
     "Servers/UP tutorial.md",
-    "Граффик.md",
+    "NGINX/everyday_nginx.md",
     "Servers/from youtube.md",
+    "Openssl обновление.md",
+    "Linux/disk_op.md",
     "RewersProxy/steps.md",
     "RewersProxy/Main.md",
-    "Роутер/WOL.md",
-    "Linux/disk_op.md",
-    "Linux/Статистика.md",
-    "Linux/ssh.md",
-    "Linux/Ссылки.md",
-    "Gunicorn/gunicorn.md",
-    "c2h5oh.ddns.net.md",
-    "Linux/Firewall.md",
-    "NGINX/everyday_nginx.md",
-    "conflict-files-obsidian-git.md",
-    "Linux/wake_on_lan.md",
-    "Роутер",
-    "Untitled.md",
-    "Servers",
-    "Portainer/everyday_portainer.md",
-    "Portainer",
-    "Openssl обновление.md",
-    "NGINX",
     "Linux/rsync.md",
     "Linux/folders.md",
-    "HTTP/evryday_HTTP.md",
-    "HTTP",
-    "Gunicorn",
+    "Linux/ssh.md",
+    "Linux/systemd - systemctl.md",
+    "Linux/пользователи и права.md",
+    "Gunicorn/gunicorn.md",
+    "Роутер/WOL.md",
+    "Linux/port.md",
+    "Linux/Firewall.md",
+    "OPENSSL",
     "File_operations.md",
+    "c2h5oh.ddns.net.md",
+    "Linux/wake_on_lan.md",
+    "Граффик.md",
+    "Linux/Настройки сервера.md",
+    "Linux/приостановка перезапуск.md",
+    "Linux/Переменные.md",
+    "Linux/Ссылки.md",
+    "Gunicorn",
+    "Роутер",
+    "Servers",
+    "HTTP",
+    "NGINX",
+    "Portainer",
     "Docker-compose",
-    "Без названия",
-    "RewersProxy",
-    "linux",
-    "SQL/Posgres/Pasted image 20230831105432.png",
-    "Pasted image 20230830210505.png",
+    "Work/Белка Диджитал",
+    "Work",
+    "Python/python_roadmap_processing_/карта.png",
     "Docker/docker_practic/Pasted image 20230830210357.png",
     "Docker/docker practic/Pasted image 20230830210357.png",
-    "Python/python_roadmap_processing_/карта.png",
+    "Docker/Docker Practic/Pasted image 20230830210357.png",
+    "Pasted image 20230831105432.png",
+    "Pasted image 20230830210505.png",
+    "python/python_roadmap_processing_/карта.png",
     "Pasted image 20230824121316.png"
   ]
 }
