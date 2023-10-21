@@ -92,3 +92,8 @@ crontab -e
 */3 * * * * /home/www/script/check_connection.sh
 
 ```
+
+```sh
+sudo journalctl --vacuum-files=5
+
+```
