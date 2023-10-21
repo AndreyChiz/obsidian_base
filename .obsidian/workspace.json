@@ -42,9 +42,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3c0087201344e22",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Роутер/WOL.md",
+                "staged": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Роутер/WOL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Роутер/WOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Роутер/WOL.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,8 +209,11 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "de66671636f5ca1a",
+  "active": "e3c0087201344e22",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Роутер/WOL.md",
+    "Linux/Сеть.md",
     "TASK.md",
     "Python/переключение.md",
     "Servers/UP tutorial.md",
@@ -219,7 +229,6 @@
     "Linux/systemd - systemctl.md",
     "Linux/пользователи и права.md",
     "Gunicorn/gunicorn.md",
-    "Роутер/WOL.md",
     "Linux/port.md",
     "Linux/Firewall.md",
     "OPENSSL",
@@ -229,8 +238,6 @@
     "Граффик.md",
     "Linux/Настройки сервера.md",
     "Linux/приостановка перезапуск.md",
-    "Linux/Переменные.md",
-    "Linux/Ссылки.md",
     "Gunicorn",
     "Роутер",
     "Servers",
