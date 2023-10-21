@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Сеть.md",
+                "file": "Linux/port.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Сеть.md",
+                "file": "Linux/port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Сеть.md",
+                "file": "Linux/port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Сеть.md"
+                "file": "Linux/port.md"
               }
             }
           },
@@ -228,8 +228,8 @@
   },
   "active": "50977da83afe3964",
   "lastOpenFiles": [
-    "Linux/port.md",
     "Linux/Сеть.md",
+    "Linux/port.md",
     "TASK.md",
     "Роутер/WOL.md",
     "local.md",
