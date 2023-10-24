@@ -5,7 +5,6 @@ ei
 https://4pda.to/stat/go?u=https%3A%2F%2Fwiki.dd-wrt.com%2Fwiki%2Findex.php%2F%25D0%2592%25D0%25BA%25D0%25BB%25D1%258E%25D1%2587%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B5_%25D0%25BF%25D0%25BE_%25D1%2581%25D0%25B5%25D1%2582%25D0%25B8_%25D1%2581_Wake-on-LAN&e=94108557
 
 ssh -oHostKeyAlgorithms=+ssh-dss  -p 22 SuperUser@192.168.1.1
-ssh -oHostKeyAlgorithms=+ssh-dss  -p 22 SuperUser@192.168.1.1
 SF141FF35697
 
 ```sh

@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/port.md",
+                "file": "Роутер/WOL.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/port.md",
+                "file": "Роутер/WOL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/port.md",
+                "file": "Роутер/WOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/port.md"
+                "file": "Роутер/WOL.md"
               }
             }
           },
@@ -228,12 +228,12 @@
   },
   "active": "50977da83afe3964",
   "lastOpenFiles": [
+    "Linux/wake_on_lan.md",
     "Linux/Сеть.md",
     "Linux/port.md",
     "TASK.md",
     "Роутер/WOL.md",
     "local.md",
-    "Linux/wake_on_lan.md",
     "Linux/cron.md",
     "Python/переключение.md",
     "Linux/systemd - systemctl.md",
