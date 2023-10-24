@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4bbc3dd5a668b4f",
+            "id": "e546c1ded68c1892",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/wake_on_lan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d870ec49c30c3134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RewersProxy/steps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15c6e3d3f8c7b8ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/wake_on_lan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83e0d8a0dbfda177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NGINX/everyday_nginx.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b1443278efc4378",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TASK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50977da83afe3964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Роутер/WOL.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Роутер/WOL.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Роутер/WOL.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Роутер/WOL.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -226,44 +165,46 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "50977da83afe3964",
+  "active": "e546c1ded68c1892",
   "lastOpenFiles": [
-    "Linux/wake_on_lan.md",
-    "Linux/Сеть.md",
-    "Linux/port.md",
-    "TASK.md",
     "Роутер/WOL.md",
-    "local.md",
-    "Linux/cron.md",
-    "Python/переключение.md",
-    "Linux/systemd - systemctl.md",
-    "Servers/UP tutorial.md",
-    "Граффик.md",
-    "Servers/from youtube.md",
-    "RewersProxy/steps.md",
-    "RewersProxy/Main.md",
-    "Linux/disk_op.md",
-    "Linux/Статистика.md",
-    "Linux/ssh.md",
-    "Linux/Ссылки.md",
-    "Gunicorn/gunicorn.md",
-    "c2h5oh.ddns.net.md",
-    "Linux/Firewall.md",
-    "NGINX/everyday_nginx.md",
     "conflict-files-obsidian-git.md",
-    "Роутер",
-    "Untitled.md",
-    "Servers",
-    "Portainer/everyday_portainer.md",
-    "Portainer",
-    "Openssl обновление.md",
-    "NGINX",
-    "HTTP",
-    "Gunicorn",
-    "Docker-compose",
-    "Без названия",
-    "RewersProxy",
-    "linux",
+    "SQL/Sqlite/sqlite.md",
+    "SQL/Sqlite",
+    "PYTHON/pip.md",
+    "PYTHON/altinstall.md",
+    "PYTHON",
+    "DEV_OPS/Python/python_roadmap_processing_/core/Память/Представление объекта в памяти.md",
+    "DEV_OPS/Python/python_roadmap_processing_/core/Память/PyObject.md",
+    "DEV_OPS/Python/libs/http/Заголовки запроса/Accept.md",
+    "DEV_OPS/Python/libs/aio/asyncaio/Общее.md",
+    "DEV_OPS/Python/libs/aio/asyncaio/gather().md",
+    "DEV_OPS/Python/python_roadmap_processing_/типы данных/String.md",
+    "DEV_OPS/Python/python_roadmap_processing_/ООП/Шаблоны проектирования.md",
+    "DEV_OPS/Python/python_roadmap_processing_/ООП/Фабричный метод.md",
+    "DEV_OPS/Python/python_roadmap_processing_/ООП/Патерн одиночка.md",
+    "DEV_OPS/Python/python_roadmap_processing_/ООП/Инкапсуляция _, __.md",
+    "DEV_OPS/Python/python_roadmap_processing_/ООП/Абстрактные методы, классы..md",
+    "DEV_OPS/Python/python_roadmap_processing_/core/Память",
+    "DEV_OPS/Python/python_roadmap_processing_/core/Нейминг.md",
+    "DEV_OPS/Python/libs/http/куки.md",
+    "DEV_OPS/Python/libs/http/Протокол HTTP.md",
+    "DEV_OPS/Python/libs/http/Заголовки запроса",
+    "DEV_OPS/Python/libs/aio/asyncaio",
+    "DEV_OPS/Work/Белка Диджитал/скрипт.md",
+    "DEV_OPS/Python/python_roadmap_processing_/типы данных",
+    "DEV_OPS/Python/python_roadmap_processing_/карта.png",
+    "DEV_OPS/Python/python_roadmap_processing_/ООП",
+    "DEV_OPS/Python/python_roadmap_processing_/График.md",
+    "DEV_OPS/Python/python_roadmap_processing_/core",
+    "DEV_OPS/Python/libs/Без названия.md",
+    "DEV_OPS/Python/libs/http",
+    "DEV_OPS/Python/libs/everyday_web.md",
+    "DEV_OPS/Python/libs/aio",
+    "DEV_OPS/Python/libs/Loguru.md",
+    "DEV_OPS/Python/core/Логирование.md",
+    "DEV_OPS/Python/core/namedtuple.md",
+    "DEV_OPS/Docker/docker_practic/Pasted image 20230830210357.png",
     "SQL/Posgres/Pasted image 20230831105432.png",
     "Pasted image 20230830210505.png",
     "Docker/docker_practic/Pasted image 20230830210357.png",
