@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV_OPS/Запуск приложения.md",
+                "file": "SQL/Sqlite/sqlite.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEV_OPS/Запуск приложения.md",
+                "file": "SQL/Sqlite/sqlite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEV_OPS/Запуск приложения.md",
+                "file": "SQL/Sqlite/sqlite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV_OPS/Запуск приложения.md"
+                "file": "SQL/Sqlite/sqlite.md"
               }
             }
           },
@@ -192,10 +192,11 @@
   },
   "active": "9a08fd3ddc746c24",
   "lastOpenFiles": [
-    "DEV_OPS/Gunicorn/gunicorn.md",
-    "DEV_OPS/Запуск приложения.md",
-    "DEV_OPS/TASK.md",
     "PYTHON/pip.md",
+    "DEV_OPS/File_operations.md",
+    "DEV_OPS/Запуск приложения.md",
+    "DEV_OPS/Gunicorn/gunicorn.md",
+    "DEV_OPS/TASK.md",
     "PYTHON/altinstall.md",
     "SQL/Sqlite/sqlite.md",
     "SQL/Sqlite",
@@ -220,7 +221,6 @@
     "DEV_OPS/Linux/folders.md",
     "DEV_OPS/Linux/ssh.md",
     "DEV_OPS/Linux/systemd - systemctl.md",
-    "DEV_OPS/Linux/пользователи и права.md",
     "OPENSSL",
     "DEV_OPS/Gunicorn",
     "DEV_OPS/Роутер",
