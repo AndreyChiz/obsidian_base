@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Sqlite/sqlite.md",
+                "file": "DEV_OPS/Linux/rsync.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "жестки",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Sqlite/sqlite.md",
+                "file": "DEV_OPS/Linux/rsync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Sqlite/sqlite.md",
+                "file": "DEV_OPS/Linux/rsync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Sqlite/sqlite.md"
+                "file": "DEV_OPS/Linux/rsync.md"
               }
             }
           },
@@ -190,14 +191,19 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "9a08fd3ddc746c24",
+  "active": "36dc4d4332848f6c",
   "lastOpenFiles": [
-    "PYTHON/pip.md",
+    "DEV_OPS/Граффик.md",
     "DEV_OPS/File_operations.md",
+    "DEV_OPS/local.md",
+    "DEV_OPS/Linux/Настройки сервера.md",
+    "DEV_OPS/TASK.md",
+    "PYTHON/aiohttp.md",
+    "Без названия.md",
+    "PYTHON/altinstall.md",
+    "PYTHON/pip.md",
     "DEV_OPS/Запуск приложения.md",
     "DEV_OPS/Gunicorn/gunicorn.md",
-    "DEV_OPS/TASK.md",
-    "PYTHON/altinstall.md",
     "SQL/Sqlite/sqlite.md",
     "SQL/Sqlite",
     "DEV_OPS/Python/Docs.md",
@@ -216,11 +222,6 @@
     "DEV_OPS/Servers/from youtube.md",
     "DEV_OPS/Linux/disk_op.md",
     "DEV_OPS/RewersProxy/steps.md",
-    "DEV_OPS/RewersProxy/Main.md",
-    "DEV_OPS/Linux/rsync.md",
-    "DEV_OPS/Linux/folders.md",
-    "DEV_OPS/Linux/ssh.md",
-    "DEV_OPS/Linux/systemd - systemctl.md",
     "OPENSSL",
     "DEV_OPS/Gunicorn",
     "DEV_OPS/Роутер",
