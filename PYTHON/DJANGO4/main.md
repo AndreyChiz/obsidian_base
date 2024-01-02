@@ -15,7 +15,7 @@ INSTALLED_APPS = [
 ```
 
 3. Добавили функцию обработчик(контроллер)
-app.main.views.py
+app.main.views.py и передали в шаблон переменную context
 ```python
 +
 def index(request)-> None:  
@@ -78,4 +78,110 @@ main.templates.main.index.html
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
     <link rel="stylesheet" href="{% static "deps/css/bootstrap/bootstrap.min.css" %}">  
     <link rel="stylesheet" href="{% static "deps/css/my_css.css" %}">
+...
+	<link rel="stylesheet" href="{% static "deps/css/my_footer_css.css" %}">
+...
+<title>{{ title }}</title>
+```
+
+11. Заменили путь к статике добавив в app.settings.py строку STATICFILES_DIRS в которой BASE_DIR - путь (уровень папки проекта) чтобы статика искалась в этой папке, переместили папку static в корень проекта.
+```python
+STATIC_URL = 'static/'  #это префикс в пути к статие отображаемый в браузере
+  
++ STATICFILES_DIRS = [  
+    BASE_DIR / 'static'  
+]
+
+```
+
+12. Создаем в папке main.templates.main файл base.html в который помещаем все повторяющиеся теги из index.html. Это будет базовый шаблон который будем расширять.
+13. Пример вынесения блока из базового шаблона main.templates.main.base.html
+```html
+{% load static %}  
+  
+<!DOCTYPE html>  
+<html lang="en">  
+  
+<head>  
+    <meta charset="UTF-8">  
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <link rel="stylesheet" href="{% static "deps/css/bootstrap/bootstrap.min.css" %}">  
+    <link rel="stylesheet" href="{% static "deps/css/my_css.css" %}">
+...
+-	<link rel="stylesheet" href="{% static "deps/css/my_footer_css.css" %}">
++   {% block footer_css %}{% endblock %} 
+...
+<title>{{ title }}</title>
+...
+<div class="col-lg-10">  
+    <!-- Контент на странице выносим в index.html -->  
++    {% block content %} {% endblock %}  
+</div>
+```
+
+14. main.templates.main.index.html
+	строка	{% extends "main/base.html" %} указывает откуда будет добавляться код
+	строка {% block footer_css %} блок который будет добавляться в код при вызове данного шаблона
+	Переменную context которую мы передали через функцию из п.3 можно использовать в файле который расширяем(index.html) и в файле которым расширяем(base.html).
+	то-есть контекстные переменные переданные через функцию в views.py НЕЯВНО! наследуются в расширяемые и расширяющиеся шаблоны.
+```html
+{% extends "main/base.html" %}  
+{% load static %}  
+  
+  
+{% block footer_css %}  
+    <link rel="stylesheet" href="{% static "deps/css/my_footer_css.css" %}">  
+{% endblock %}
+
+{% block content %}  
+    <!-- Контент на странице -->  
+    <h1 class="mt-5 pt-5"><strong>{{ content }}</strong></h1>  
+{% endblock %}
+```
+
+15. Пример расширения 
+main.views.py
+```python
++
+def about(request)-> None:  
+    context: dict = {  
+        'title': 'About - О Нас',  
+        'content': 'О нас',  
+        'text_on_page': 'Описание магазина'  
+    }  
+    return render(request, 'main/about.html', context)
+```
+
+main.templates.main.about.html
+```html
+{% extends "main/base.html" %}  
+{% load static %}  
+  
+  
+{% block footer_css %}  
+    <link rel="stylesheet" href="{% static "deps/css/my_footer_css.css" %}">  
+{% endblock %}  
+  
+  
+{% block content %}  
+    <!-- Контент на странице -->  
+    <div class="mt-5 pt-5 bg-white custom-shadow rounded">  
+        <h3 class="m-2"> {{ content }} </h3>  
+        <p class="m-2" >{{ text_on_page }}</p>  
+    </div>{% endblock %}
+```
+
+16. Привязка URL в основном приложении
+main.urls.py
+```python
+from django.urls import path  
+from main import views  
+  
+app_name = 'main'  #переменная для указания области видимости
+  
+urlpatterns = [  
+    path('', views.index, name='index'),  
+    path('about/', views.about, name='about')  
+]
 ```
