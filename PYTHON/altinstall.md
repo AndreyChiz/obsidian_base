@@ -5,7 +5,7 @@ wget https://www.python.org/ftp/python/3.12.0/Python-3.12.0.tar.xz
 tar xvf Python-3.12.0.tar.xz
 cd Python-3.12.0/
 sudo ./configure --enable-optimizations
-make -j4
+make -j8
 sudo make altinstall
 cd /usr/local/bin/
 sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.11 1
