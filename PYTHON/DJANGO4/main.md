@@ -41,6 +41,11 @@ urlpatterns = [
     path('about/', views.about, name='about') 
 ```
 
+name='index' можно применять index как ссылку в html разметке
+```html
+<a class="navbar-brand" href= "{% url 'main:index' %}">Home</a>
+```
+
 5. В папке main.temlates создаем папку с названием соответствующим названию приложения
 6. В папке main создаем папку ststic и в ней папку main аналогично п.5 для статики (css, js..)
 7. Передали во временный шаблон данные
@@ -173,15 +178,64 @@ main.templates.main.about.html
 ```
 
 16. Привязка URL в основном приложении
-main.urls.py
+Создаем в приложении main свой файл urls.py
+ main.urls.py
 ```python
 from django.urls import path  
-from main import views  
+from main import views  #Не забудь!!!
   
-app_name = 'main'  #переменная для указания области видимости
+app_name = 'main'  #переменная для указания области видимости в параметре namespace в app.url.py
   
 urlpatterns = [  
     path('', views.index, name='index'),  
     path('about/', views.about, name='about')  
 ]
+```
+
+app.url.py
+```python
+from django.contrib import admin  
+from django.urls import path, include  
+  
+  
+urlpatterns = [  
+    path('admin/', admin.site.urls),  
+    path('', include('main.urls', namespace='main')),  
+    path('catalog/', include('goods.urls', namespace='catalog'))  
+  
+]
+```
+namespace нужно для того чтобы ссылки из параметра name (п.16 main.urls.py urlspattern) используемые в разметке привязывались корректно, т.к. якоря index и adbout могут повторяться в других модулях.
+было:
+```html
+<a class="navbar-brand" href= "{% url 'index' %}">Home</a>
+<li><a class="dropdown-item  text-white" href="{% url 'about' %}">Про нас</a></li>
+```
+стало: 
+```html
+<a class="navbar-brand" href= "{% url 'main:index' %}">Home</a>
+<li><a class="dropdown-item  text-white" href="{% url 'main:about' %}">Про нас</a></li>
+```
+
+17. Работа с For в шаблоне
+```html
+{% for product in goods %}  
+    <!-- Карта товара -->  
+    <div class="col-lg-4 col-md-6 p-4">  
+        <div class="card border-primary rounded custom-shadow">  
+            <img src={% static product.image %} class="card-img-top" alt="...">  
+            <div class="card-body">  
+                <a href="product.html">  
+                    <p class="card-title">{{ product.name }}</p>  
+                </a>                
+	                <p class="card-text text-truncate">{{ product.description }}</p>  
+	                <p class="product_id">id: 02265</p>  
+					<p><strong>{{ product.price }} $</strong></p>  
+				<a href="#" class="btn add-to-cart">  
+					<img class="mx-1" src="{% static "deps/icons/cart-plus.svg" %}" alt="Catalog Icon"  width="32" height="32">  
+                </a>                
+            </div>            
+        </div>        
+    </div>
+{% endfor %}
 ```
