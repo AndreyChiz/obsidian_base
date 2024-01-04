@@ -49,8 +49,8 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "PYTHON/altinstall.md",
-                "staged": true
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "порт",
+                "query": "altinstall",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,8 +201,10 @@
   },
   "active": "94bcececbad8637f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "PYTHON/DJANGO4/main.md",
+    "PYTHON/altinstall.md",
+    "DEV_OPS/Servers/UP tutorial.md",
+    "conflict-files-obsidian-git.md",
     "PYTHON/DJANGO4/ORM.md",
     "PYTHON/aiohttp.md",
     "DEV_OPS/Linux/режимы производительности.md",
@@ -220,7 +222,6 @@
     "PYTHON/pip.md",
     "Без названия.md",
     "PYTHON/pytest.md",
-    "PYTHON/altinstall.md",
     "PYTHON/Без названия.md",
     "PYTHON/КАТА/IO.md",
     "PYTHON/aiogram.md",
@@ -229,7 +230,6 @@
     "PYTHON/КАТА",
     "Python/libs/sqlalchemy.md",
     "Python/libs/asyncio.md",
-    "Python/telegram_bot/aiogram.md",
     "PYTHON/ООП",
     "DEV_OPS/Docker/docker_practic/Pasted image 20230830210357.png",
     "Python/telegram_bot",
