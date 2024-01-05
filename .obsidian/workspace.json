@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/DJANGO4/DJANGO ORM CRUD.md",
+                "file": "PYTHON/DJANGO4/DJANGO ORM/1. Введение.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/DJANGO4/DJANGO ORM CRUD.md",
+                "file": "PYTHON/DJANGO4/DJANGO ORM/1. Введение.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/DJANGO4/DJANGO ORM CRUD.md",
+                "file": "PYTHON/DJANGO4/DJANGO ORM/1. Введение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/DJANGO4/DJANGO ORM CRUD.md"
+                "file": "PYTHON/DJANGO4/DJANGO ORM/1. Введение.md"
               }
             }
           },
@@ -170,9 +170,11 @@
   "active": "8f8e865db9503f67",
   "lastOpenFiles": [
     "PYTHON/DJANGO4/5.Работа с моделями.md",
-    "PYTHON/DJANGO4/DJANGO ORM CRUD.md",
-    "PYTHON/DJANGO4/Перенос базы данных (фикстуры).md",
+    "PYTHON/DJANGO4/DJANGO ORM/1. Введение.md",
     "PYTHON/DJANGO4/admin.md",
+    "PYTHON/DJANGO4/DJANGO ORM CRUD.md",
+    "PYTHON/DJANGO4/DJANGO ORM",
+    "PYTHON/DJANGO4/Перенос базы данных (фикстуры).md",
     "PYTHON/DJANGO4/main.md",
     "PYTHON/altinstall.md",
     "PYTHON/DJANGO4/4. Статика.md",
@@ -195,7 +197,6 @@
     "DEV_OPS/TASK.md",
     "hh/Без названия.md",
     "hh/Без названия 1.md",
-    "PYTHON/КАТА/Строки.md",
     "hh",
     "PYTHON/КАТА",
     "PYTHON/ООП",
@@ -205,7 +206,6 @@
     "SQL/Sqlite",
     "PYTHON",
     "DEV_OPS/Python/python_roadmap_processing_/core/Память",
-    "DEV_OPS/Python/libs/http/Заголовки запроса",
     "DEV_OPS/Python/python_roadmap_processing_/карта.png",
     "SQL/Posgres/Pasted image 20230831105432.png",
     "Pasted image 20230830210505.png",
