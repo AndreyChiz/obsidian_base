@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/DJANGO4/Перенос базы данных (фикстуры).md",
+                "file": "PYTHON/DJANGO4/DJANGO ORM CRUD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/DJANGO4/Перенос базы данных (фикстуры).md",
+                "file": "PYTHON/DJANGO4/DJANGO ORM CRUD.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/DJANGO4/Перенос базы данных (фикстуры).md",
+                "file": "PYTHON/DJANGO4/DJANGO ORM CRUD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/DJANGO4/Перенос базы данных (фикстуры).md"
+                "file": "PYTHON/DJANGO4/DJANGO ORM CRUD.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -170,6 +170,7 @@
   "active": "8f8e865db9503f67",
   "lastOpenFiles": [
     "PYTHON/DJANGO4/5.Работа с моделями.md",
+    "PYTHON/DJANGO4/DJANGO ORM CRUD.md",
     "PYTHON/DJANGO4/Перенос базы данных (фикстуры).md",
     "PYTHON/DJANGO4/admin.md",
     "PYTHON/DJANGO4/main.md",
@@ -196,7 +197,6 @@
     "hh/Без названия 1.md",
     "PYTHON/КАТА/Строки.md",
     "hh",
-    "DEV_OPS/Docker/mysql.md",
     "PYTHON/КАТА",
     "PYTHON/ООП",
     "DEV_OPS/Docker/docker_practic/Pasted image 20230830210357.png",
