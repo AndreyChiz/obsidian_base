@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/DJANGO4/DJANGO ORM/1. Введение.md",
+                "file": "PYTHON/DJANGO4/DJANGO ORM/2. Принципы построения запросов.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/DJANGO4/DJANGO ORM/1. Введение.md",
+                "file": "PYTHON/DJANGO4/DJANGO ORM/2. Принципы построения запросов.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/DJANGO4/DJANGO ORM/1. Введение.md",
+                "file": "PYTHON/DJANGO4/DJANGO ORM/2. Принципы построения запросов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/DJANGO4/DJANGO ORM/1. Введение.md"
+                "file": "PYTHON/DJANGO4/DJANGO ORM/2. Принципы построения запросов.md"
               }
             }
           },
@@ -169,13 +169,14 @@
   },
   "active": "8f8e865db9503f67",
   "lastOpenFiles": [
-    "PYTHON/DJANGO4/5.Работа с моделями.md",
     "PYTHON/DJANGO4/DJANGO ORM/1. Введение.md",
+    "PYTHON/DJANGO4/DJANGO ORM/2. Принципы построения запросов.md",
+    "PYTHON/DJANGO4/main.md",
+    "PYTHON/DJANGO4/5.Работа с моделями.md",
     "PYTHON/DJANGO4/admin.md",
     "PYTHON/DJANGO4/DJANGO ORM CRUD.md",
     "PYTHON/DJANGO4/DJANGO ORM",
     "PYTHON/DJANGO4/Перенос базы данных (фикстуры).md",
-    "PYTHON/DJANGO4/main.md",
     "PYTHON/altinstall.md",
     "PYTHON/DJANGO4/4. Статика.md",
     "PYTHON/DJANGO4/3. Работа с приложением.md",
@@ -196,7 +197,6 @@
     "PYTHON/DJANGO4",
     "DEV_OPS/TASK.md",
     "hh/Без названия.md",
-    "hh/Без названия 1.md",
     "hh",
     "PYTHON/КАТА",
     "PYTHON/ООП",
