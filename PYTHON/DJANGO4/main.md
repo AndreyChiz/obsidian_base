@@ -2,8 +2,8 @@
 ```shell
 dajango-admin startproject app #создает главное приложение
 python manage.py startapp main #создает приложение
+python manage.py createsuperuser #Создать админа для админки))
 ```
-
 2. Добавили созданное приложение.
 app.app.settings.py
 ```python
@@ -42,8 +42,10 @@ urlpatterns = [
 ```
 
 name='index' можно применять index как ссылку в html разметке
+АДМИН! способ указания
 ```html
 <a class="navbar-brand" href= "{% url 'main:index' %}">Home</a>
+<li><a class="dropdown-item  text-white" href="{% url 'admin:index' %}">Админ панель</a></li>
 ```
 
 5. В папке main.temlates создаем папку с названием соответствующим названию приложения

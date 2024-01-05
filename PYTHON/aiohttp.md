@@ -1,1 +1,0 @@
-`pip install aiohttp==3.9.0b0`
