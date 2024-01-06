@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/DJANGO4/DJANGO ORM/2. Принципы построения запросов.md",
+                "file": "PYTHON/DJANGO4/Привязка изображений.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8e8271c4b60fe7c4",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/DJANGO4/DJANGO ORM/2. Принципы построения запросов.md",
+                "file": "PYTHON/DJANGO4/Привязка изображений.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/DJANGO4/DJANGO ORM/2. Принципы построения запросов.md",
+                "file": "PYTHON/DJANGO4/Привязка изображений.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/DJANGO4/DJANGO ORM/2. Принципы построения запросов.md"
+                "file": "PYTHON/DJANGO4/Привязка изображений.md"
               }
             }
           },
@@ -169,7 +170,12 @@
   },
   "active": "8f8e865db9503f67",
   "lastOpenFiles": [
+    "PYTHON/DJANGO4/ПО ШАГАМ.md",
+    "PYTHON/DJANGO4/Привязка изображений.md",
     "PYTHON/DJANGO4/DJANGO ORM/1. Введение.md",
+    "PYTHON/DJANGO4/1. Создание проекта.md",
+    "PYTHON/DJANGO4/2. Регистрация приложения.md",
+    "PYTHON/DJANGO4/DJANGO ORM/Привязка модели.md",
     "PYTHON/DJANGO4/DJANGO ORM/2. Принципы построения запросов.md",
     "PYTHON/DJANGO4/main.md",
     "PYTHON/DJANGO4/5.Работа с моделями.md",
@@ -180,8 +186,6 @@
     "PYTHON/altinstall.md",
     "PYTHON/DJANGO4/4. Статика.md",
     "PYTHON/DJANGO4/3. Работа с приложением.md",
-    "PYTHON/DJANGO4/2. Регистрация приложения.md",
-    "PYTHON/DJANGO4/1. Создание проекта.md",
     "PYTHON/pip.md",
     "PYTHON/aiohttp.md",
     "DEV_OPS/Linux/bash.md",
@@ -193,10 +197,7 @@
     "conflict-files-obsidian-git.md",
     "DEV_OPS/Linux/режимы производительности.md",
     "DEV_OPS/Python/python_roadmap_processing_/core/Память/PyObject.md",
-    "DEV_OPS/Linux/port.md",
     "PYTHON/DJANGO4",
-    "DEV_OPS/TASK.md",
-    "hh/Без названия.md",
     "hh",
     "PYTHON/КАТА",
     "PYTHON/ООП",
