@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Без названия.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -161,10 +159,10 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "38095d20efd7dd25",
+  "active": "0669cdb1bd968095",
   "lastOpenFiles": [
-    "2024-01-06.md",
     "Без названия.canvas",
+    "2024-01-06.md",
     "PYTHON/DJANGO4/Привязка изображений.md",
     "PYTHON/DJANGO4/ПО ШАГАМ.md",
     "PYTHON/DJANGO4/DJANGO ORM/1. Введение.md",
@@ -190,7 +188,6 @@
     "().md",
     "DEV_OPS/Servers/UP tutorial.md",
     "conflict-files-obsidian-git.md",
-    "DEV_OPS/Linux/режимы производительности.md",
     "PYTHON/DJANGO4",
     "hh",
     "PYTHON/КАТА",
