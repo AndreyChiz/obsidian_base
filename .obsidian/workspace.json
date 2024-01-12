@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/DJANGO4/8 Конвертеры адресов.md",
+                "file": "PYTHON/DJANGO4/FORM фильтрация.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/DJANGO4/8 Конвертеры адресов.md",
+                "file": "PYTHON/DJANGO4/FORM фильтрация.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/DJANGO4/8 Конвертеры адресов.md",
+                "file": "PYTHON/DJANGO4/FORM фильтрация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/DJANGO4/8 Конвертеры адресов.md"
+                "file": "PYTHON/DJANGO4/FORM фильтрация.md"
               }
             }
           },
@@ -169,11 +169,19 @@
   },
   "active": "b052c421b469b4fc",
   "lastOpenFiles": [
+    "PYTHON/DJANGO4/DJANGO ORM/Тонкости.md",
+    "PYTHON/DJANGO4/FORM фильтрация.md",
+    "PYTHON/DJANGO4/1. Создание проекта.md",
+    "PYTHON/DJANGO4/11. GET параметры запросов 6-58.md",
+    "PYTHON/DJANGO4/10 Пагинация 6-21.md",
+    "LOW_LEVEL/Без названия.md",
+    "PYTHON/DJANGO4/7. Пользовательские шаблонные теги.md",
     "PYTHON/DJANGO4/9 Пример работы с категориями.md",
     "PYTHON/DJANGO4/8 Конвертеры адресов.md",
+    "PYTHON/DJANGO4/ПО ШАГАМ.md",
+    "PYTHON/DJANGO4/2. Регистрация приложения.md",
     "PYTHON/DJANGO4/6.Привязка изображений.md",
     "PYTHON/DJANGO4/5.Работа с моделями.md",
-    "PYTHON/DJANGO4/7. Пользовательские шаблонные теги.md",
     "DEV_OPS/Linux/ssh.md",
     "DEV_OPS/Linux/Настройки сервера.md",
     "DEV_OPS/VirtualBox/Без названия.md",
@@ -185,19 +193,11 @@
     "PYTHON/DJANGO4/Работа с шаблонами.md",
     "Без названия.canvas",
     "2024-01-06.md",
-    "PYTHON/DJANGO4/ПО ШАГАМ.md",
     "PYTHON/DJANGO4/DJANGO ORM/1. Введение.md",
-    "PYTHON/DJANGO4/1. Создание проекта.md",
-    "PYTHON/DJANGO4/2. Регистрация приложения.md",
     "PYTHON/DJANGO4/DJANGO ORM/Привязка модели.md",
     "PYTHON/DJANGO4/DJANGO ORM/2. Принципы построения запросов.md",
     "PYTHON/DJANGO4/main.md",
-    "PYTHON/DJANGO4/admin.md",
-    "PYTHON/DJANGO4/DJANGO ORM CRUD.md",
     "PYTHON/DJANGO4/DJANGO ORM",
-    "PYTHON/DJANGO4/Перенос базы данных (фикстуры).md",
-    "PYTHON/altinstall.md",
-    "PYTHON/DJANGO4/4. Статика.md",
     "PYTHON/DJANGO4",
     "hh",
     "PYTHON/КАТА",
