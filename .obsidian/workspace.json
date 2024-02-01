@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "cab8f80ab9e4571c",
+        "id": "f13a823dfd13bad5",
         "type": "tabs",
         "children": [
           {
-            "id": "a6ec04245a33021e",
+            "id": "337c8dda41ce323e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV_OPS/TASK.md",
+                "file": "DEV_OPS/Linux/Настройки сервера.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9a08fd3ddc746c24",
+            "id": "a9ee79661a3773a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV_OPS/Роутер/WOL.md",
+                "file": "DEV_OPS/Linux/port.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "journal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEV_OPS/Роутер/WOL.md",
+                "file": "DEV_OPS/Linux/port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEV_OPS/Роутер/WOL.md",
+                "file": "DEV_OPS/Linux/port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV_OPS/Роутер/WOL.md"
+                "file": "DEV_OPS/Linux/port.md"
               }
             }
           },
@@ -169,7 +169,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -191,34 +193,34 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "9a08fd3ddc746c24",
+  "active": "a9ee79661a3773a2",
   "lastOpenFiles": [
+    "DEV_OPS/Linux/Настройки сервера.md",
+    "DEV_OPS/Запуск приложения.md",
+    "DEV_OPS/c2h5oh.ddns.net.md",
+    "DEV_OPS/File_operations.md",
+    "DEV_OPS/local.md",
+    "DEV_OPS/Openssl обновление.md",
+    "DEV_OPS/Untitled.md",
+    "DEV_OPS/TASK.md",
+    "DEV_OPS/Docker/docker_practic/Docker-install.md",
+    "DEV_OPS/Docker/docker_practic/Docker Compose-install.md",
+    "DEV_OPS/Docker/docker_learn/1 docker_base.md",
+    "DEV_OPS/Docker/docker_learn/3 docker-compose_base.md",
+    "DEV_OPS/Docker/docker_learn/2 docker_python_hallo_world_example.md",
+    "DEV_OPS/Docker-compose/docker-compose eweryday.md",
+    "DEV_OPS/Docker/eweryday_docker.md",
+    "PYTHON/pip.md",
+    "PYTHON/altinstall.md",
+    "PYTHON/aiohttp.md",
+    "DEV_OPS/Роутер/WOL.md",
     "DEV_OPS/Linux/bash.md",
     "DEV_OPS/Linux/systemd - systemctl.md",
-    "DEV_OPS/TASK.md",
-    "DEV_OPS/Linux/Настройки сервера.md",
     "DEV_OPS/Linux/приостановка перезапуск.md",
     "DEV_OPS/Linux/пользователи и права.md",
     "DEV_OPS/Linux/Переменные.md",
     "DEV_OPS/NGINX/everyday_nginx.md",
-    "DEV_OPS/Запуск приложения.md",
     "DEV_OPS/Servers/from youtube.md",
-    "DEV_OPS/Untitled.md",
-    "DEV_OPS/Linux/ssh.md",
-    "PYTHON/altinstall.md",
-    "DEV_OPS/Linux/режимы производительности.md",
-    "DEV_OPS/Openssl обновление.md",
-    "DEV_OPS/Linux/text.md",
-    "DEV_OPS/Linux/wake_on_lan.md",
-    "DEV_OPS/Linux/Ссылки.md",
-    "DEV_OPS/Linux/Сеть.md",
-    "DEV_OPS/local.md",
-    "DEV_OPS/Граффик.md",
-    "PYTHON/aiohttp.md",
-    "DEV_OPS/Linux/rsync.md",
-    "DEV_OPS/File_operations.md",
-    "Без названия.md",
-    "PYTHON/pip.md",
     "SQL/Sqlite",
     "PYTHON",
     "DEV_OPS",
