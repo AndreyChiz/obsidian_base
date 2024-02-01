@@ -10,7 +10,7 @@ sudo make altinstall
 cd /usr/local/bin/
 sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.11 1
 sudo update-alternatives --install /usr/bin/python3 python3 /usr/local/bin/python3.12 2
-sudo update-alternatives --list python3
+
 sudo update-alternatives --config python3
 
 python3.12 -m venv --copies myenv
