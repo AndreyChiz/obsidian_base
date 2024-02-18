@@ -23,28 +23,15 @@
             "id": "2a1e26f74a6420ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "DEV_OPS/Баги.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aca69b94bc813d58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,10 +175,10 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "aca69b94bc813d58",
+  "active": "2a1e26f74a6420ed",
   "lastOpenFiles": [
-    "DEV_OPS/Баги.md",
     "conflict-files-obsidian-git.md",
+    "DEV_OPS/Баги.md",
     "PYTHON/DJANGO4/ПО ШАГАМ.md",
     "whats_new/01.02.2024.md",
     "whats_new",
