@@ -23,10 +23,11 @@
             "id": "2a1e26f74a6420ed",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "DEV_OPS/Переключение клавиатуры.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DEV_OPS/Переключение клавиатуры.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DEV_OPS/Переключение клавиатуры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DEV_OPS/Переключение клавиатуры.md"
+              }
             }
           },
           {
@@ -178,7 +183,7 @@
   "active": "2a1e26f74a6420ed",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "DEV_OPS/Баги.md",
+    "DEV_OPS/Переключение клавиатуры.md",
     "PYTHON/DJANGO4/ПО ШАГАМ.md",
     "whats_new/01.02.2024.md",
     "whats_new",
