@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aca69b94bc813d58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEV_OPS/Баги.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEV_OPS/Баги.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV_OPS/Баги.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -180,10 +192,10 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "2a1e26f74a6420ed",
+  "active": "aca69b94bc813d58",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "DEV_OPS/Баги.md",
+    "conflict-files-obsidian-git.md",
     "PYTHON/DJANGO4/ПО ШАГАМ.md",
     "whats_new/01.02.2024.md",
     "whats_new",
