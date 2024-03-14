@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,11 +175,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +192,7 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "8e90f464b429e898",
+  "active": "89b427b122a64a03",
   "lastOpenFiles": [
     "DEV_OPS/Linux/Настройки сервера.md",
     "DEV_OPS/Servers/from youtube.md",
