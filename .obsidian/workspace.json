@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV_OPS/Переключение клавиатуры.md",
+                "file": "DEV_OPS/Linux/port.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e90f464b429e898",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV_OPS/Linux/Настройки сервера.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poetry",
+                "query": "mult",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 200
   },
   "right": {
     "id": "8e8271c4b60fe7c4",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEV_OPS/Переключение клавиатуры.md",
+                "file": "DEV_OPS/Linux/Настройки сервера.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEV_OPS/Переключение клавиатуры.md",
+                "file": "DEV_OPS/Linux/Настройки сервера.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV_OPS/Переключение клавиатуры.md"
+                "file": "DEV_OPS/Linux/Настройки сервера.md"
               }
             }
           },
@@ -180,10 +192,18 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "2a1e26f74a6420ed",
+  "active": "8e90f464b429e898",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "DEV_OPS/Servers/from youtube.md",
+    "DEV_OPS/Linux/ssh.md",
+    "DEV_OPS/Linux/Настройки сервера.md",
+    "DEV_OPS/Linux/wake_on_lan.md",
+    "DEV_OPS/Linux/bash.md",
+    "DEV_OPS/Linux/пользователи и права.md",
+    "DEV_OPS/Docker/docker_practic/Docker-install.md",
+    "DEV_OPS/VirtualBox/Без названия.md",
     "DEV_OPS/Переключение клавиатуры.md",
+    "conflict-files-obsidian-git.md",
     "PYTHON/DJANGO4/ПО ШАГАМ.md",
     "whats_new/01.02.2024.md",
     "whats_new",
@@ -195,7 +215,6 @@
     "PYTHON/DJANGO4/7. Пользовательские шаблонные теги.md",
     "PYTHON/DJANGO4/9 Пример работы с категориями.md",
     "PYTHON/DJANGO4/14 Полнотекстовый поиск 8,31.md",
-    "DEV_OPS/Linux/bash.md",
     "PYTHON/DJANGO4/13 поиск 13-37.md",
     "PYTHON/DJANGO4/11. GET параметры запросов 6-58.md",
     "PYTHON/DJANGO4/FORM, CHECKBOX  фильтрация 7-05.md",
@@ -203,13 +222,6 @@
     "PYTHON/DJANGO4/10 Пагинация 6-21.md",
     "LOW_LEVEL/Без названия.md",
     "PYTHON/DJANGO4/2. Регистрация приложения.md",
-    "PYTHON/DJANGO4/6.Привязка изображений.md",
-    "PYTHON/DJANGO4/5.Работа с моделями.md",
-    "DEV_OPS/Linux/ssh.md",
-    "DEV_OPS/Linux/Настройки сервера.md",
-    "DEV_OPS/VirtualBox/Без названия.md",
-    "PYTHON/PYTEST/Общее.md",
-    "PYTHON/PYTEST/1. Простейшие тесты.md",
     "PYTHON/PYTEST",
     "Без названия.canvas",
     "PYTHON/DJANGO4/DJANGO ORM",
