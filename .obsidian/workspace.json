@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b062fc980e1293a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV_OPS/Linux/bash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9119d5a29ee29978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mult",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEV_OPS/Linux/Настройки сервера.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEV_OPS/Linux/Настройки сервера.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV_OPS/Linux/Настройки сервера.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -179,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,20 +216,20 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "8e90f464b429e898",
+  "active": "9119d5a29ee29978",
   "lastOpenFiles": [
+    "whats_new/01.02.2024.md",
+    "conflict-files-obsidian-git.md",
+    "DEV_OPS/Linux/bash.md",
+    "DEV_OPS/Linux/Настройки сервера.md",
     "DEV_OPS/Servers/from youtube.md",
     "DEV_OPS/Linux/ssh.md",
-    "DEV_OPS/Linux/Настройки сервера.md",
     "DEV_OPS/Linux/wake_on_lan.md",
-    "DEV_OPS/Linux/bash.md",
     "DEV_OPS/Linux/пользователи и права.md",
     "DEV_OPS/Docker/docker_practic/Docker-install.md",
     "DEV_OPS/VirtualBox/Без названия.md",
     "DEV_OPS/Переключение клавиатуры.md",
-    "conflict-files-obsidian-git.md",
     "PYTHON/DJANGO4/ПО ШАГАМ.md",
-    "whats_new/01.02.2024.md",
     "whats_new",
     "project/FisherStory.md",
     "project",
